@@ -29,31 +29,30 @@ namespace Games
         /// </summary>
         private void InitializeComponent()
         {
-            quitBttn = new System.Windows.Forms.Button();
-            SuspendLayout();
+            this.quitBttn = new System.Windows.Forms.Button();
+            this.SuspendLayout();
             // 
             // quitBttn
             // 
-            quitBttn.Location = new System.Drawing.Point(186, 304);
-            quitBttn.Name = "quitBttn";
-            quitBttn.Size = new System.Drawing.Size(94, 29);
-            quitBttn.TabIndex = 0;
-            quitBttn.Text = "button1";
-            quitBttn.UseVisualStyleBackColor = true;
-            quitBttn.Click += quitBttn_Click;
+            this.quitBttn.Location = new System.Drawing.Point(166, 377);
+            this.quitBttn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.quitBttn.Name = "quitBttn";
+            this.quitBttn.Size = new System.Drawing.Size(82, 22);
+            this.quitBttn.TabIndex = 0;
+            this.quitBttn.Text = "Quit";
+            this.quitBttn.UseVisualStyleBackColor = true;
             // 
             // Memory
             // 
-            AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
-            AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            BackColor = System.Drawing.SystemColors.ActiveCaption;
-            ClientSize = new System.Drawing.Size(443, 592);
-            Controls.Add(quitBttn);
-            Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            Name = "Memory";
-            Text = "Memory";
-            Load += Memory_Load;
-            ResumeLayout(false);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.ClientSize = new System.Drawing.Size(388, 444);
+            this.Controls.Add(this.quitBttn);
+            this.Name = "Memory";
+            this.Text = "Memory";
+            this.ResumeLayout(false);
+
         }
 
         #endregion

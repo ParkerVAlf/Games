@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace Games
 {
-    public partial class blackForm : Form
+    public partial class blackJack : Form
     {
-        public blackForm()
+        public blackJack()
         {
             InitializeComponent();
         }

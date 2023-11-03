@@ -1,6 +1,6 @@
 ﻿namespace Games
 {
-    partial class yahtzeeForm
+    partial class yahtzee
     {
         /// <summary>
         /// Required designer variable.

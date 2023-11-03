@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace Games
 {
-    public partial class yahtzeeForm : Form
+    public partial class yahtzee : Form
     {
-        public yahtzeeForm()
+        public yahtzee()
         {
             InitializeComponent();
         }

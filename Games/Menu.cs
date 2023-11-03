@@ -31,12 +31,16 @@ namespace Games
 
         private void yahtzeeBttn_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            yahtzee yahtzeeForm = new yahtzee();
+            yahtzeeForm.ShowDialog();
         }
 
         private void blackjackBttn_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            blackJack blackForm = new blackJack();
+            blackForm.ShowDialog();
         }
 
         private void Menu_Load(object sender, EventArgs e)

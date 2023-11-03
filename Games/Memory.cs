@@ -22,7 +22,10 @@ namespace Games
 
         private void quitBttn_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Hide();
+            Menu menuForm = new Menu();
+            menuForm.ShowDialog();
+
         }
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace Games
 {
-    partial class blackForm
+    partial class blackJack
     {
         /// <summary>
         /// Required designer variable.
