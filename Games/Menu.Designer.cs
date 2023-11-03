@@ -38,7 +38,7 @@ namespace Games
             // memoryBttn
             // 
             this.memoryBttn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(197)))), ((int)(((byte)(200)))));
-            this.memoryBttn.BackgroundImage = global::Games.Properties.Resources.ButtonBlue;
+            this.memoryBttn.BackgroundImage = global::Games.Properties.Resources.Red_Color_Gradient;
             this.memoryBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(231)))), ((int)(((byte)(209)))));
             this.memoryBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.memoryBttn.Location = new System.Drawing.Point(12, 27);
@@ -52,7 +52,7 @@ namespace Games
             // yahtzeeBttn
             // 
             this.yahtzeeBttn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(197)))), ((int)(((byte)(200)))));
-            this.yahtzeeBttn.BackgroundImage = global::Games.Properties.Resources.ButtonBlue;
+            this.yahtzeeBttn.BackgroundImage = global::Games.Properties.Resources.Red_Color_Gradient;
             this.yahtzeeBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(231)))), ((int)(((byte)(209)))));
             this.yahtzeeBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.yahtzeeBttn.Location = new System.Drawing.Point(140, 27);
@@ -66,7 +66,7 @@ namespace Games
             // blackjackBttn
             // 
             this.blackjackBttn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(197)))), ((int)(((byte)(200)))));
-            this.blackjackBttn.BackgroundImage = global::Games.Properties.Resources.ButtonBlue;
+            this.blackjackBttn.BackgroundImage = global::Games.Properties.Resources.Red_Color_Gradient;
             this.blackjackBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(231)))), ((int)(((byte)(209)))));
             this.blackjackBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.blackjackBttn.Location = new System.Drawing.Point(269, 27);
@@ -80,7 +80,7 @@ namespace Games
             // quitBttn
             // 
             this.quitBttn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(197)))), ((int)(((byte)(200)))));
-            this.quitBttn.BackgroundImage = global::Games.Properties.Resources.Color_Gradient;
+            this.quitBttn.BackgroundImage = global::Games.Properties.Resources.Red_Color_Gradient;
             this.quitBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(231)))), ((int)(((byte)(209)))));
             this.quitBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.quitBttn.Location = new System.Drawing.Point(12, 369);
