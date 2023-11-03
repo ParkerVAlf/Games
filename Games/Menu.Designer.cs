@@ -47,6 +47,7 @@ namespace Games
             this.memoryBttn.TabIndex = 0;
             this.memoryBttn.Text = "Memory";
             this.memoryBttn.UseVisualStyleBackColor = false;
+            this.memoryBttn.Click += new System.EventHandler(this.memoryBttn_Click);
             // 
             // yahtzeeBttn
             // 
@@ -60,6 +61,7 @@ namespace Games
             this.yahtzeeBttn.TabIndex = 1;
             this.yahtzeeBttn.Text = "Yahtzee";
             this.yahtzeeBttn.UseVisualStyleBackColor = false;
+            this.yahtzeeBttn.Click += new System.EventHandler(this.yahtzeeBttn_Click);
             // 
             // blackjackBttn
             // 
@@ -73,6 +75,7 @@ namespace Games
             this.blackjackBttn.TabIndex = 2;
             this.blackjackBttn.Text = "Blackjack";
             this.blackjackBttn.UseVisualStyleBackColor = false;
+            this.blackjackBttn.Click += new System.EventHandler(this.blackjackBttn_Click);
             // 
             // quitBttn
             // 
@@ -86,6 +89,7 @@ namespace Games
             this.quitBttn.TabIndex = 3;
             this.quitBttn.Text = "Quit";
             this.quitBttn.UseVisualStyleBackColor = false;
+            this.quitBttn.Click += new System.EventHandler(this.quitBttn_Click);
             // 
             // Menu
             // 
