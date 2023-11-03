@@ -20,11 +20,13 @@ namespace Games
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        // Quit button
+        private void quitBttn_Click(object sender, EventArgs e)
         {
             this.Hide();
             Menu menuForm = new Menu();
             menuForm.ShowDialog();
+            this.Close();
         }
     }
 }

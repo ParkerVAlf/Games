@@ -39,7 +39,7 @@
             this.quitBttn.TabIndex = 0;
             this.quitBttn.Text = "quit";
             this.quitBttn.UseVisualStyleBackColor = true;
-            this.quitBttn.Click += new System.EventHandler(this.button1_Click);
+            this.quitBttn.Click += new System.EventHandler(this.quitBttn_Click);
             // 
             // blackJack
             // 
