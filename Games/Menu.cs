@@ -16,6 +16,10 @@ namespace Games
         {
             InitializeComponent();
         }
+        private void Menu_Load(object sender, EventArgs e)
+        {
+
+        }
 
         private void quitBttn_Click(Object sender, EventArgs e)
         {
@@ -27,6 +31,7 @@ namespace Games
             this.Hide();
             Memory memForm = new Memory();
             memForm.ShowDialog();
+            this.Close();
         }
 
         private void yahtzeeBttn_Click(object sender, EventArgs e)
@@ -34,6 +39,7 @@ namespace Games
             this.Hide();
             yahtzee yahtzeeForm = new yahtzee();
             yahtzeeForm.ShowDialog();
+            this.Close();
         }
 
         private void blackjackBttn_Click(object sender, EventArgs e)
@@ -41,11 +47,8 @@ namespace Games
             this.Hide();
             blackJack blackForm = new blackJack();
             blackForm.ShowDialog();
+            this.Close();
         }
 
-        private void Menu_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }

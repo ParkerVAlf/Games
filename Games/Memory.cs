@@ -25,7 +25,7 @@ namespace Games
             this.Hide();
             Menu menuForm = new Menu();
             menuForm.ShowDialog();
-
+            this.Close();
         }
     }
 }

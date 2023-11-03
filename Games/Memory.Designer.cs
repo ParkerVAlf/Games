@@ -34,13 +34,14 @@ namespace Games
             // 
             // quitBttn
             // 
-            this.quitBttn.Location = new System.Drawing.Point(166, 377);
+            this.quitBttn.Location = new System.Drawing.Point(141, 390);
             this.quitBttn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.quitBttn.Name = "quitBttn";
             this.quitBttn.Size = new System.Drawing.Size(82, 22);
             this.quitBttn.TabIndex = 0;
             this.quitBttn.Text = "Quit";
             this.quitBttn.UseVisualStyleBackColor = true;
+            this.quitBttn.Click += new System.EventHandler(this.quitBttn_Click);
             // 
             // Memory
             // 
