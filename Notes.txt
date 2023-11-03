@@ -1,0 +1,6 @@
+Good gradient generator (for buttons)
+https://angrytools.com/gradient/image/
+Colors: (0, 197, 200), (112, 231, 209)
+
+Good dark gradients (using neon ones):
+https://www.shutterstock.com/blog/black-background-design-for-websites
