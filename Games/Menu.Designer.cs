@@ -33,6 +33,7 @@ namespace Games
             this.yahtzeeBttn = new System.Windows.Forms.Button();
             this.blackjackBttn = new System.Windows.Forms.Button();
             this.quitBttn = new System.Windows.Forms.Button();
+            this.mineBttn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // memoryBttn
@@ -91,12 +92,27 @@ namespace Games
             this.quitBttn.UseVisualStyleBackColor = false;
             this.quitBttn.Click += new System.EventHandler(this.quitBttn_Click);
             // 
+            // mineBttn
+            // 
+            this.mineBttn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(197)))), ((int)(((byte)(200)))));
+            this.mineBttn.BackgroundImage = global::Games.Properties.Resources.GameButtonBlue;
+            this.mineBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(231)))), ((int)(((byte)(209)))));
+            this.mineBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.mineBttn.Location = new System.Drawing.Point(12, 98);
+            this.mineBttn.Name = "mineBttn";
+            this.mineBttn.Size = new System.Drawing.Size(111, 55);
+            this.mineBttn.TabIndex = 4;
+            this.mineBttn.Text = "Minesweeper";
+            this.mineBttn.UseVisualStyleBackColor = false;
+            this.mineBttn.Click += new System.EventHandler(this.mineBttn_Click);
+            // 
             // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(25)))), ((int)(((byte)(29)))));
             this.ClientSize = new System.Drawing.Size(392, 450);
+            this.Controls.Add(this.mineBttn);
             this.Controls.Add(this.quitBttn);
             this.Controls.Add(this.blackjackBttn);
             this.Controls.Add(this.yahtzeeBttn);
@@ -114,6 +130,7 @@ namespace Games
         private System.Windows.Forms.Button yahtzeeBttn;
         private System.Windows.Forms.Button blackjackBttn;
         private System.Windows.Forms.Button quitBttn;
+        private System.Windows.Forms.Button mineBttn;
     }
 }
 

@@ -50,5 +50,12 @@ namespace Games
             this.Close();
         }
 
+        private void mineBttn_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Minesweeper mineForm = new Minesweeper();
+            mineForm.ShowDialog();
+            this.Close();
+        }
     }
 }
