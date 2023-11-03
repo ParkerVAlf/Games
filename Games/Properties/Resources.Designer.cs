@@ -63,9 +63,9 @@ namespace Games.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ButtonBlue {
+        internal static System.Drawing.Bitmap GameButtonBlue {
             get {
-                object obj = ResourceManager.GetObject("ButtonBlue", resourceCulture);
+                object obj = ResourceManager.GetObject("GameButtonBlue", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace Games.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Color_Gradient {
+        internal static System.Drawing.Bitmap QuitButtonBlue {
             get {
-                object obj = ResourceManager.GetObject("Color Gradient", resourceCulture);
+                object obj = ResourceManager.GetObject("QuitButtonBlue", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
