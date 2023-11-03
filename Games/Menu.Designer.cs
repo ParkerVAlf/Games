@@ -29,83 +29,88 @@ namespace Games
         /// </summary>
         private void InitializeComponent()
         {
-            this.memoryBttn = new System.Windows.Forms.Button();
-            this.yahtzeeBttn = new System.Windows.Forms.Button();
-            this.blackjackBttn = new System.Windows.Forms.Button();
-            this.quitBttn = new System.Windows.Forms.Button();
-            this.SuspendLayout();
+            memoryBttn = new System.Windows.Forms.Button();
+            yahtzeeBttn = new System.Windows.Forms.Button();
+            blackjackBttn = new System.Windows.Forms.Button();
+            quitBttn = new System.Windows.Forms.Button();
+            SuspendLayout();
             // 
             // memoryBttn
             // 
-            this.memoryBttn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(197)))), ((int)(((byte)(200)))));
-            this.memoryBttn.BackgroundImage = global::Games.Properties.Resources.ButtonBlue;
-            this.memoryBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(231)))), ((int)(((byte)(209)))));
-            this.memoryBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.memoryBttn.Location = new System.Drawing.Point(12, 27);
-            this.memoryBttn.Name = "memoryBttn";
-            this.memoryBttn.Size = new System.Drawing.Size(111, 55);
-            this.memoryBttn.TabIndex = 0;
-            this.memoryBttn.Text = "Memory";
-            this.memoryBttn.UseVisualStyleBackColor = false;
-            this.memoryBttn.Click += new System.EventHandler(this.memoryBttn_Click);
+            memoryBttn.BackColor = System.Drawing.Color.FromArgb(0, 197, 200);
+            memoryBttn.BackgroundImage = Properties.Resources.ButtonBlue;
+            memoryBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(70, 231, 209);
+            memoryBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            memoryBttn.Location = new System.Drawing.Point(14, 36);
+            memoryBttn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            memoryBttn.Name = "memoryBttn";
+            memoryBttn.Size = new System.Drawing.Size(127, 73);
+            memoryBttn.TabIndex = 0;
+            memoryBttn.Text = "Memory";
+            memoryBttn.UseVisualStyleBackColor = false;
+            memoryBttn.Click += memoryBttn_Click;
             // 
             // yahtzeeBttn
             // 
-            this.yahtzeeBttn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(197)))), ((int)(((byte)(200)))));
-            this.yahtzeeBttn.BackgroundImage = global::Games.Properties.Resources.ButtonBlue;
-            this.yahtzeeBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(231)))), ((int)(((byte)(209)))));
-            this.yahtzeeBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.yahtzeeBttn.Location = new System.Drawing.Point(140, 27);
-            this.yahtzeeBttn.Name = "yahtzeeBttn";
-            this.yahtzeeBttn.Size = new System.Drawing.Size(111, 55);
-            this.yahtzeeBttn.TabIndex = 1;
-            this.yahtzeeBttn.Text = "Yahtzee";
-            this.yahtzeeBttn.UseVisualStyleBackColor = false;
-            this.yahtzeeBttn.Click += new System.EventHandler(this.yahtzeeBttn_Click);
+            yahtzeeBttn.BackColor = System.Drawing.Color.FromArgb(0, 197, 200);
+            yahtzeeBttn.BackgroundImage = Properties.Resources.ButtonBlue;
+            yahtzeeBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(70, 231, 209);
+            yahtzeeBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            yahtzeeBttn.Location = new System.Drawing.Point(160, 36);
+            yahtzeeBttn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            yahtzeeBttn.Name = "yahtzeeBttn";
+            yahtzeeBttn.Size = new System.Drawing.Size(127, 73);
+            yahtzeeBttn.TabIndex = 1;
+            yahtzeeBttn.Text = "Yahtzee";
+            yahtzeeBttn.UseVisualStyleBackColor = false;
+            yahtzeeBttn.Click += yahtzeeBttn_Click;
             // 
             // blackjackBttn
             // 
-            this.blackjackBttn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(197)))), ((int)(((byte)(200)))));
-            this.blackjackBttn.BackgroundImage = global::Games.Properties.Resources.ButtonBlue;
-            this.blackjackBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(231)))), ((int)(((byte)(209)))));
-            this.blackjackBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.blackjackBttn.Location = new System.Drawing.Point(269, 27);
-            this.blackjackBttn.Name = "blackjackBttn";
-            this.blackjackBttn.Size = new System.Drawing.Size(111, 55);
-            this.blackjackBttn.TabIndex = 2;
-            this.blackjackBttn.Text = "Blackjack";
-            this.blackjackBttn.UseVisualStyleBackColor = false;
-            this.blackjackBttn.Click += new System.EventHandler(this.blackjackBttn_Click);
+            blackjackBttn.BackColor = System.Drawing.Color.FromArgb(0, 197, 200);
+            blackjackBttn.BackgroundImage = Properties.Resources.ButtonBlue;
+            blackjackBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(70, 231, 209);
+            blackjackBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            blackjackBttn.Location = new System.Drawing.Point(307, 36);
+            blackjackBttn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            blackjackBttn.Name = "blackjackBttn";
+            blackjackBttn.Size = new System.Drawing.Size(127, 73);
+            blackjackBttn.TabIndex = 2;
+            blackjackBttn.Text = "Blackjack";
+            blackjackBttn.UseVisualStyleBackColor = false;
+            blackjackBttn.Click += blackjackBttn_Click;
             // 
             // quitBttn
             // 
-            this.quitBttn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(197)))), ((int)(((byte)(200)))));
-            this.quitBttn.BackgroundImage = global::Games.Properties.Resources.Color_Gradient;
-            this.quitBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(231)))), ((int)(((byte)(209)))));
-            this.quitBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.quitBttn.Location = new System.Drawing.Point(12, 362);
-            this.quitBttn.Name = "quitBttn";
-            this.quitBttn.Size = new System.Drawing.Size(368, 55);
-            this.quitBttn.TabIndex = 3;
-            this.quitBttn.Text = "Quit";
-            this.quitBttn.UseVisualStyleBackColor = false;
-            this.quitBttn.Click += new System.EventHandler(this.quitBttn_Click);
+            quitBttn.BackColor = System.Drawing.Color.FromArgb(0, 197, 200);
+            quitBttn.BackgroundImage = Properties.Resources.Color_Gradient;
+            quitBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(70, 231, 209);
+            quitBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            quitBttn.Location = new System.Drawing.Point(14, 483);
+            quitBttn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            quitBttn.Name = "quitBttn";
+            quitBttn.Size = new System.Drawing.Size(421, 73);
+            quitBttn.TabIndex = 3;
+            quitBttn.Text = "Quit";
+            quitBttn.UseVisualStyleBackColor = false;
+            quitBttn.Click += quitBttn_Click;
             // 
             // Menu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(25)))), ((int)(((byte)(29)))));
-            this.ClientSize = new System.Drawing.Size(392, 450);
-            this.Controls.Add(this.quitBttn);
-            this.Controls.Add(this.blackjackBttn);
-            this.Controls.Add(this.yahtzeeBttn);
-            this.Controls.Add(this.memoryBttn);
-            this.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.Name = "Menu";
-            this.Text = "Menu";
-            this.ResumeLayout(false);
-
+            AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            BackColor = System.Drawing.Color.FromArgb(6, 25, 29);
+            ClientSize = new System.Drawing.Size(448, 600);
+            Controls.Add(quitBttn);
+            Controls.Add(blackjackBttn);
+            Controls.Add(yahtzeeBttn);
+            Controls.Add(memoryBttn);
+            ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            Name = "Menu";
+            Text = "Menu";
+            Load += Menu_Load;
+            ResumeLayout(false);
         }
 
         #endregion

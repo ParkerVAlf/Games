@@ -38,5 +38,10 @@ namespace Games
         {
 
         }
+
+        private void Menu_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

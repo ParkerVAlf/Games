@@ -29,20 +29,35 @@ namespace Games
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
+            quitBttn = new System.Windows.Forms.Button();
+            SuspendLayout();
+            // 
+            // quitBttn
+            // 
+            quitBttn.Location = new System.Drawing.Point(186, 304);
+            quitBttn.Name = "quitBttn";
+            quitBttn.Size = new System.Drawing.Size(94, 29);
+            quitBttn.TabIndex = 0;
+            quitBttn.Text = "button1";
+            quitBttn.UseVisualStyleBackColor = true;
+            quitBttn.Click += quitBttn_Click;
             // 
             // Memory
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(388, 444);
-            this.Name = "Memory";
-            this.Text = "Memory";
-            this.ResumeLayout(false);
-
+            AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            BackColor = System.Drawing.SystemColors.ActiveCaption;
+            ClientSize = new System.Drawing.Size(443, 592);
+            Controls.Add(quitBttn);
+            Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            Name = "Memory";
+            Text = "Memory";
+            Load += Memory_Load;
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private System.Windows.Forms.Button quitBttn;
     }
 }

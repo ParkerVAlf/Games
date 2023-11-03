@@ -14,5 +14,15 @@ namespace Games
         {
             InitializeComponent();
         }
+
+        private void Memory_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void quitBttn_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
