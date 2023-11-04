@@ -60,9 +60,8 @@ namespace Games
             }
 
             // Properly generate everything
-            testLbl.Text = "PENBIS";
             generateMines();
-            testLbl.Text = "BOOBS";
+            
 
         }
 
@@ -134,22 +133,31 @@ namespace Games
 
         private void displayNum(int x, int y)
         {
-            if (values[x, y] != 0)
-                squares[x,y].Text = values[x, y].ToString();
+            int value = values[x, y];
+            if (value != 0)
+            {
+                squares[x, y].Text = values[x, y].ToString();
+                // I was going to have colors, but disabled buttons can't have color... thanks microsoft
+                //if (value == 1)
+                    //squares[x, y].ForeColor = Color.Blue;
+            }
         }
 
         private int clearZeroes(int x, int y)
         {
+            if (squares[x, y].Enabled == true)
+                buttonsPressed++;
             int count = 0;
             if (values[x, y] != 0 || squares[x, y].Enabled == false)
             {
                 displayNum(x, y);
+                squares[x, y].Enabled = false;
                 return count;
             }
 
             count++;
             squares[x, y].Enabled = false;
-            buttonsPressed++;
+            
 
             if (x - 1 >= 0)
                 count += clearZeroes(x - 1, y);
@@ -160,6 +168,15 @@ namespace Games
             if (y + 1 < 16)
                 count += clearZeroes(x, y + 1);
 
+            if (x - 1 >= 0 && y - 1 >= 0)
+                count += clearZeroes(x - 1, y - 1);
+            if (x - 1 >= 0 && y + 1 < 16)
+                count += clearZeroes(x - 1, y + 1);
+            if (x + 1 < 16 && y - 1 >= 0)
+                count += clearZeroes(x + 1, y - 1);
+            if (x + 1 < 16 && y + 1 < 16)
+                count += clearZeroes(x + 1, y + 1);
+
             return count;
         }
 
@@ -167,6 +184,7 @@ namespace Games
         {
             buttonsPressed = 0;
             gameOver = false;
+            winLbl.Text = "";
 
             for (int x = 0; x < 16; x++)
             {
@@ -180,10 +198,23 @@ namespace Games
             generateMines();
         }
 
+        private bool winCheck()
+        {
+            bool check = true;
+            for (int x = 0; x < 16; x++)
+            {
+                for (int y = 0; y < 16; y++)
+                {
+                    if (values[x, y] != -1 && squares[x, y].Enabled == true)
+                        check = false;
+                }
+            }
+            return check;
+        }
+
         // Logic of game
         private void mineSquare_MouseDown(object sender, MouseEventArgs e)
         {
-            testLbl.Text = "mm";
             // Making sure game hasn't ended
             if (gameOver)
                 return;
@@ -207,21 +238,21 @@ namespace Games
             // Left click logic
             if (e.Button == MouseButtons.Left)
             {
-                testLbl.Text = "SHIT";
-                //testLbl.Text = x.ToString() + ", " + y.ToString() + " Left
+                //testLbl.Text = "SHIT";
+                testLbl.Text = x.ToString() + ", " + y.ToString() + " Left";
 
                 // Making sure first move clears out a space at least 3 squares large.
                 if (buttonsPressed == 0)
                 {
                     while (true)
                     {
-                        testLbl.Text ="BALLS";
                         if (values[x, y] != 0)
                         {
+                            resetBoard();
                             generateMines();
                             continue;
                         }
-                        else if (clearZeroes(x, y) <= 2)
+                        else if (clearZeroes(x, y) <= 5)
                         {
                             resetBoard();
                             continue;
@@ -235,9 +266,32 @@ namespace Games
                 if (squares[x, y].Text == "!")
                     return;
 
+                // Clearing zeroes
+                if (values[x, y] == 0)
+                    clearZeroes(x, y);
+
                 buttonsPressed++;
-                displayNum(x, y);
-                squares[x, y].Enabled = false;
+
+                // Lose game
+                if (values[x,y] == -1)
+                {
+                    gameOver = true;
+                    winLbl.Text = "YOU LOSE ):";
+                    b.Text = "#";
+                    b.ForeColor = Color.Red;
+                    b.Enabled = true;
+                }
+                else
+                    displayNum(x, y);
+
+                if (!gameOver)
+                    squares[x, y].Enabled = false;
+
+                if (winCheck())
+                {
+                    winLbl.Text = "YOU WIN!!!!";
+                }
+                
             }
             // Right click logic
             else if (e.Button == MouseButtons.Right)
@@ -263,6 +317,13 @@ namespace Games
             menuForm.ShowDialog();
             this.Close();
         }
+
+        private void restartBttn_Click(object sender, EventArgs e)
+        {
+            resetBoard();
+            generateMines();
+        }
+
 
     }
 }

@@ -287,11 +287,13 @@ namespace Games
             this.bttn0102 = new System.Windows.Forms.Button();
             this.bttn0002 = new System.Windows.Forms.Button();
             this.testLbl = new System.Windows.Forms.Label();
+            this.winLbl = new System.Windows.Forms.Label();
+            this.restartBttn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // quitBttn
             // 
-            this.quitBttn.Location = new System.Drawing.Point(156, 460);
+            this.quitBttn.Location = new System.Drawing.Point(153, 478);
             this.quitBttn.Name = "quitBttn";
             this.quitBttn.Size = new System.Drawing.Size(126, 49);
             this.quitBttn.TabIndex = 0;
@@ -307,7 +309,7 @@ namespace Games
             this.bttn0015.Size = new System.Drawing.Size(25, 25);
             this.bttn0015.TabIndex = 1;
             this.bttn0015.UseVisualStyleBackColor = true;
-            this.bttn0015.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0015.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0115
             // 
@@ -317,7 +319,7 @@ namespace Games
             this.bttn0115.Size = new System.Drawing.Size(25, 25);
             this.bttn0115.TabIndex = 2;
             this.bttn0115.UseVisualStyleBackColor = true;
-            this.bttn0115.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0115.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0315
             // 
@@ -327,7 +329,7 @@ namespace Games
             this.bttn0315.Size = new System.Drawing.Size(25, 25);
             this.bttn0315.TabIndex = 3;
             this.bttn0315.UseVisualStyleBackColor = true;
-            this.bttn0315.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0315.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0415
             // 
@@ -337,7 +339,7 @@ namespace Games
             this.bttn0415.Size = new System.Drawing.Size(25, 25);
             this.bttn0415.TabIndex = 4;
             this.bttn0415.UseVisualStyleBackColor = true;
-            this.bttn0415.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0415.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0215
             // 
@@ -347,7 +349,7 @@ namespace Games
             this.bttn0215.Size = new System.Drawing.Size(25, 25);
             this.bttn0215.TabIndex = 5;
             this.bttn0215.UseVisualStyleBackColor = true;
-            this.bttn0215.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0215.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0515
             // 
@@ -357,7 +359,7 @@ namespace Games
             this.bttn0515.Size = new System.Drawing.Size(25, 25);
             this.bttn0515.TabIndex = 6;
             this.bttn0515.UseVisualStyleBackColor = true;
-            this.bttn0515.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0515.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0615
             // 
@@ -367,7 +369,7 @@ namespace Games
             this.bttn0615.Size = new System.Drawing.Size(25, 25);
             this.bttn0615.TabIndex = 7;
             this.bttn0615.UseVisualStyleBackColor = true;
-            this.bttn0615.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0615.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0715
             // 
@@ -377,7 +379,7 @@ namespace Games
             this.bttn0715.Size = new System.Drawing.Size(25, 25);
             this.bttn0715.TabIndex = 8;
             this.bttn0715.UseVisualStyleBackColor = true;
-            this.bttn0715.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0715.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0815
             // 
@@ -387,7 +389,7 @@ namespace Games
             this.bttn0815.Size = new System.Drawing.Size(25, 25);
             this.bttn0815.TabIndex = 9;
             this.bttn0815.UseVisualStyleBackColor = true;
-            this.bttn0815.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0815.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0915
             // 
@@ -397,7 +399,7 @@ namespace Games
             this.bttn0915.Size = new System.Drawing.Size(25, 25);
             this.bttn0915.TabIndex = 10;
             this.bttn0915.UseVisualStyleBackColor = true;
-            this.bttn0915.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0915.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1015
             // 
@@ -407,7 +409,7 @@ namespace Games
             this.bttn1015.Size = new System.Drawing.Size(25, 25);
             this.bttn1015.TabIndex = 11;
             this.bttn1015.UseVisualStyleBackColor = true;
-            this.bttn1015.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1015.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1115
             // 
@@ -417,7 +419,7 @@ namespace Games
             this.bttn1115.Size = new System.Drawing.Size(25, 25);
             this.bttn1115.TabIndex = 12;
             this.bttn1115.UseVisualStyleBackColor = true;
-            this.bttn1115.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1115.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1215
             // 
@@ -427,7 +429,7 @@ namespace Games
             this.bttn1215.Size = new System.Drawing.Size(25, 25);
             this.bttn1215.TabIndex = 13;
             this.bttn1215.UseVisualStyleBackColor = true;
-            this.bttn1215.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1215.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1315
             // 
@@ -437,7 +439,7 @@ namespace Games
             this.bttn1315.Size = new System.Drawing.Size(25, 25);
             this.bttn1315.TabIndex = 14;
             this.bttn1315.UseVisualStyleBackColor = true;
-            this.bttn1315.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1315.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1314
             // 
@@ -447,7 +449,7 @@ namespace Games
             this.bttn1314.Size = new System.Drawing.Size(25, 25);
             this.bttn1314.TabIndex = 28;
             this.bttn1314.UseVisualStyleBackColor = true;
-            this.bttn1314.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1314.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1214
             // 
@@ -457,7 +459,7 @@ namespace Games
             this.bttn1214.Size = new System.Drawing.Size(25, 25);
             this.bttn1214.TabIndex = 27;
             this.bttn1214.UseVisualStyleBackColor = true;
-            this.bttn1214.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1214.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1114
             // 
@@ -467,7 +469,7 @@ namespace Games
             this.bttn1114.Size = new System.Drawing.Size(25, 25);
             this.bttn1114.TabIndex = 26;
             this.bttn1114.UseVisualStyleBackColor = true;
-            this.bttn1114.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1114.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1014
             // 
@@ -477,7 +479,7 @@ namespace Games
             this.bttn1014.Size = new System.Drawing.Size(25, 25);
             this.bttn1014.TabIndex = 25;
             this.bttn1014.UseVisualStyleBackColor = true;
-            this.bttn1014.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1014.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0914
             // 
@@ -487,7 +489,7 @@ namespace Games
             this.bttn0914.Size = new System.Drawing.Size(25, 25);
             this.bttn0914.TabIndex = 24;
             this.bttn0914.UseVisualStyleBackColor = true;
-            this.bttn0914.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0914.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0814
             // 
@@ -497,7 +499,7 @@ namespace Games
             this.bttn0814.Size = new System.Drawing.Size(25, 25);
             this.bttn0814.TabIndex = 23;
             this.bttn0814.UseVisualStyleBackColor = true;
-            this.bttn0814.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0814.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0714
             // 
@@ -507,7 +509,7 @@ namespace Games
             this.bttn0714.Size = new System.Drawing.Size(25, 25);
             this.bttn0714.TabIndex = 22;
             this.bttn0714.UseVisualStyleBackColor = true;
-            this.bttn0714.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0714.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0614
             // 
@@ -517,7 +519,7 @@ namespace Games
             this.bttn0614.Size = new System.Drawing.Size(25, 25);
             this.bttn0614.TabIndex = 21;
             this.bttn0614.UseVisualStyleBackColor = true;
-            this.bttn0614.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0614.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0514
             // 
@@ -527,7 +529,7 @@ namespace Games
             this.bttn0514.Size = new System.Drawing.Size(25, 25);
             this.bttn0514.TabIndex = 20;
             this.bttn0514.UseVisualStyleBackColor = true;
-            this.bttn0514.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0514.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0214
             // 
@@ -537,7 +539,7 @@ namespace Games
             this.bttn0214.Size = new System.Drawing.Size(25, 25);
             this.bttn0214.TabIndex = 19;
             this.bttn0214.UseVisualStyleBackColor = true;
-            this.bttn0214.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0214.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0414
             // 
@@ -547,7 +549,7 @@ namespace Games
             this.bttn0414.Size = new System.Drawing.Size(25, 25);
             this.bttn0414.TabIndex = 18;
             this.bttn0414.UseVisualStyleBackColor = true;
-            this.bttn0414.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0414.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0314
             // 
@@ -557,7 +559,7 @@ namespace Games
             this.bttn0314.Size = new System.Drawing.Size(25, 25);
             this.bttn0314.TabIndex = 17;
             this.bttn0314.UseVisualStyleBackColor = true;
-            this.bttn0314.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0314.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0114
             // 
@@ -567,7 +569,7 @@ namespace Games
             this.bttn0114.Size = new System.Drawing.Size(25, 25);
             this.bttn0114.TabIndex = 16;
             this.bttn0114.UseVisualStyleBackColor = true;
-            this.bttn0114.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0114.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0014
             // 
@@ -577,7 +579,7 @@ namespace Games
             this.bttn0014.Size = new System.Drawing.Size(25, 25);
             this.bttn0014.TabIndex = 15;
             this.bttn0014.UseVisualStyleBackColor = true;
-            this.bttn0014.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0014.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1312
             // 
@@ -587,7 +589,7 @@ namespace Games
             this.bttn1312.Size = new System.Drawing.Size(25, 25);
             this.bttn1312.TabIndex = 56;
             this.bttn1312.UseVisualStyleBackColor = true;
-            this.bttn1312.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1312.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1212
             // 
@@ -597,7 +599,7 @@ namespace Games
             this.bttn1212.Size = new System.Drawing.Size(25, 25);
             this.bttn1212.TabIndex = 55;
             this.bttn1212.UseVisualStyleBackColor = true;
-            this.bttn1212.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1212.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1112
             // 
@@ -607,7 +609,7 @@ namespace Games
             this.bttn1112.Size = new System.Drawing.Size(25, 25);
             this.bttn1112.TabIndex = 54;
             this.bttn1112.UseVisualStyleBackColor = true;
-            this.bttn1112.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1112.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1012
             // 
@@ -617,7 +619,7 @@ namespace Games
             this.bttn1012.Size = new System.Drawing.Size(25, 25);
             this.bttn1012.TabIndex = 53;
             this.bttn1012.UseVisualStyleBackColor = true;
-            this.bttn1012.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1012.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0912
             // 
@@ -627,7 +629,7 @@ namespace Games
             this.bttn0912.Size = new System.Drawing.Size(25, 25);
             this.bttn0912.TabIndex = 52;
             this.bttn0912.UseVisualStyleBackColor = true;
-            this.bttn0912.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0912.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0812
             // 
@@ -637,7 +639,7 @@ namespace Games
             this.bttn0812.Size = new System.Drawing.Size(25, 25);
             this.bttn0812.TabIndex = 51;
             this.bttn0812.UseVisualStyleBackColor = true;
-            this.bttn0812.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0812.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0712
             // 
@@ -647,7 +649,7 @@ namespace Games
             this.bttn0712.Size = new System.Drawing.Size(25, 25);
             this.bttn0712.TabIndex = 50;
             this.bttn0712.UseVisualStyleBackColor = true;
-            this.bttn0712.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0712.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0612
             // 
@@ -657,7 +659,7 @@ namespace Games
             this.bttn0612.Size = new System.Drawing.Size(25, 25);
             this.bttn0612.TabIndex = 49;
             this.bttn0612.UseVisualStyleBackColor = true;
-            this.bttn0612.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0612.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0512
             // 
@@ -667,7 +669,7 @@ namespace Games
             this.bttn0512.Size = new System.Drawing.Size(25, 25);
             this.bttn0512.TabIndex = 48;
             this.bttn0512.UseVisualStyleBackColor = true;
-            this.bttn0512.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0512.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0212
             // 
@@ -677,7 +679,7 @@ namespace Games
             this.bttn0212.Size = new System.Drawing.Size(25, 25);
             this.bttn0212.TabIndex = 47;
             this.bttn0212.UseVisualStyleBackColor = true;
-            this.bttn0212.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0212.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0412
             // 
@@ -687,7 +689,7 @@ namespace Games
             this.bttn0412.Size = new System.Drawing.Size(25, 25);
             this.bttn0412.TabIndex = 46;
             this.bttn0412.UseVisualStyleBackColor = true;
-            this.bttn0412.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0412.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0312
             // 
@@ -697,7 +699,7 @@ namespace Games
             this.bttn0312.Size = new System.Drawing.Size(25, 25);
             this.bttn0312.TabIndex = 45;
             this.bttn0312.UseVisualStyleBackColor = true;
-            this.bttn0312.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0312.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0112
             // 
@@ -707,7 +709,7 @@ namespace Games
             this.bttn0112.Size = new System.Drawing.Size(25, 25);
             this.bttn0112.TabIndex = 44;
             this.bttn0112.UseVisualStyleBackColor = true;
-            this.bttn0112.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0112.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0012
             // 
@@ -717,7 +719,7 @@ namespace Games
             this.bttn0012.Size = new System.Drawing.Size(25, 25);
             this.bttn0012.TabIndex = 43;
             this.bttn0012.UseVisualStyleBackColor = true;
-            this.bttn0012.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0012.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1313
             // 
@@ -727,7 +729,7 @@ namespace Games
             this.bttn1313.Size = new System.Drawing.Size(25, 25);
             this.bttn1313.TabIndex = 42;
             this.bttn1313.UseVisualStyleBackColor = true;
-            this.bttn1313.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1313.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1213
             // 
@@ -737,7 +739,7 @@ namespace Games
             this.bttn1213.Size = new System.Drawing.Size(25, 25);
             this.bttn1213.TabIndex = 41;
             this.bttn1213.UseVisualStyleBackColor = true;
-            this.bttn1213.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1213.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1113
             // 
@@ -747,7 +749,7 @@ namespace Games
             this.bttn1113.Size = new System.Drawing.Size(25, 25);
             this.bttn1113.TabIndex = 40;
             this.bttn1113.UseVisualStyleBackColor = true;
-            this.bttn1113.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1113.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1013
             // 
@@ -757,7 +759,7 @@ namespace Games
             this.bttn1013.Size = new System.Drawing.Size(25, 25);
             this.bttn1013.TabIndex = 39;
             this.bttn1013.UseVisualStyleBackColor = true;
-            this.bttn1013.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1013.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0913
             // 
@@ -767,7 +769,7 @@ namespace Games
             this.bttn0913.Size = new System.Drawing.Size(25, 25);
             this.bttn0913.TabIndex = 38;
             this.bttn0913.UseVisualStyleBackColor = true;
-            this.bttn0913.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0913.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0813
             // 
@@ -777,7 +779,7 @@ namespace Games
             this.bttn0813.Size = new System.Drawing.Size(25, 25);
             this.bttn0813.TabIndex = 37;
             this.bttn0813.UseVisualStyleBackColor = true;
-            this.bttn0813.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0813.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0713
             // 
@@ -787,7 +789,7 @@ namespace Games
             this.bttn0713.Size = new System.Drawing.Size(25, 25);
             this.bttn0713.TabIndex = 36;
             this.bttn0713.UseVisualStyleBackColor = true;
-            this.bttn0713.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0713.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0613
             // 
@@ -797,7 +799,7 @@ namespace Games
             this.bttn0613.Size = new System.Drawing.Size(25, 25);
             this.bttn0613.TabIndex = 35;
             this.bttn0613.UseVisualStyleBackColor = true;
-            this.bttn0613.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0613.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0513
             // 
@@ -807,7 +809,7 @@ namespace Games
             this.bttn0513.Size = new System.Drawing.Size(25, 25);
             this.bttn0513.TabIndex = 34;
             this.bttn0513.UseVisualStyleBackColor = true;
-            this.bttn0513.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0513.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0213
             // 
@@ -817,7 +819,7 @@ namespace Games
             this.bttn0213.Size = new System.Drawing.Size(25, 25);
             this.bttn0213.TabIndex = 33;
             this.bttn0213.UseVisualStyleBackColor = true;
-            this.bttn0213.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0213.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0413
             // 
@@ -827,7 +829,7 @@ namespace Games
             this.bttn0413.Size = new System.Drawing.Size(25, 25);
             this.bttn0413.TabIndex = 32;
             this.bttn0413.UseVisualStyleBackColor = true;
-            this.bttn0413.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0413.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0313
             // 
@@ -837,7 +839,7 @@ namespace Games
             this.bttn0313.Size = new System.Drawing.Size(25, 25);
             this.bttn0313.TabIndex = 31;
             this.bttn0313.UseVisualStyleBackColor = true;
-            this.bttn0313.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0313.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0113
             // 
@@ -847,7 +849,7 @@ namespace Games
             this.bttn0113.Size = new System.Drawing.Size(25, 25);
             this.bttn0113.TabIndex = 30;
             this.bttn0113.UseVisualStyleBackColor = true;
-            this.bttn0113.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0113.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn0013
             // 
@@ -857,7 +859,7 @@ namespace Games
             this.bttn0013.Size = new System.Drawing.Size(25, 25);
             this.bttn0013.TabIndex = 29;
             this.bttn0013.UseVisualStyleBackColor = true;
-            this.bttn0013.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn0013.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1308
             // 
@@ -2323,7 +2325,7 @@ namespace Games
             this.bttn1512.Size = new System.Drawing.Size(25, 25);
             this.bttn1512.TabIndex = 190;
             this.bttn1512.UseVisualStyleBackColor = true;
-            this.bttn1512.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1512.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1412
             // 
@@ -2333,7 +2335,7 @@ namespace Games
             this.bttn1412.Size = new System.Drawing.Size(25, 25);
             this.bttn1412.TabIndex = 189;
             this.bttn1412.UseVisualStyleBackColor = true;
-            this.bttn1412.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1412.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1513
             // 
@@ -2343,7 +2345,7 @@ namespace Games
             this.bttn1513.Size = new System.Drawing.Size(25, 25);
             this.bttn1513.TabIndex = 188;
             this.bttn1513.UseVisualStyleBackColor = true;
-            this.bttn1513.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1513.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1413
             // 
@@ -2353,7 +2355,7 @@ namespace Games
             this.bttn1413.Size = new System.Drawing.Size(25, 25);
             this.bttn1413.TabIndex = 187;
             this.bttn1413.UseVisualStyleBackColor = true;
-            this.bttn1413.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1413.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1514
             // 
@@ -2363,7 +2365,7 @@ namespace Games
             this.bttn1514.Size = new System.Drawing.Size(25, 25);
             this.bttn1514.TabIndex = 186;
             this.bttn1514.UseVisualStyleBackColor = true;
-            this.bttn1514.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1514.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1414
             // 
@@ -2373,7 +2375,7 @@ namespace Games
             this.bttn1414.Size = new System.Drawing.Size(25, 25);
             this.bttn1414.TabIndex = 185;
             this.bttn1414.UseVisualStyleBackColor = true;
-            this.bttn1414.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1414.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1515
             // 
@@ -2383,7 +2385,7 @@ namespace Games
             this.bttn1515.Size = new System.Drawing.Size(25, 25);
             this.bttn1515.TabIndex = 184;
             this.bttn1515.UseVisualStyleBackColor = true;
-            this.bttn1515.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1515.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1415
             // 
@@ -2393,11 +2395,12 @@ namespace Games
             this.bttn1415.Size = new System.Drawing.Size(25, 25);
             this.bttn1415.TabIndex = 183;
             this.bttn1415.UseVisualStyleBackColor = true;
-            this.bttn1415.MouseClick += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
+            this.bttn1415.MouseDown += new System.Windows.Forms.MouseEventHandler(this.mineSquare_MouseDown);
             // 
             // bttn1500
             // 
             this.bttn1500.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.bttn1500.ForeColor = System.Drawing.SystemColors.ControlText;
             this.bttn1500.Location = new System.Drawing.Point(383, 377);
             this.bttn1500.Name = "bttn1500";
             this.bttn1500.Size = new System.Drawing.Size(25, 25);
@@ -2883,11 +2886,31 @@ namespace Games
             this.testLbl.Size = new System.Drawing.Size(0, 15);
             this.testLbl.TabIndex = 257;
             // 
+            // winLbl
+            // 
+            this.winLbl.AutoSize = true;
+            this.winLbl.Location = new System.Drawing.Point(199, 9);
+            this.winLbl.Name = "winLbl";
+            this.winLbl.Size = new System.Drawing.Size(0, 15);
+            this.winLbl.TabIndex = 258;
+            // 
+            // restartBttn
+            // 
+            this.restartBttn.Location = new System.Drawing.Point(153, 418);
+            this.restartBttn.Name = "restartBttn";
+            this.restartBttn.Size = new System.Drawing.Size(126, 45);
+            this.restartBttn.TabIndex = 259;
+            this.restartBttn.Text = "Restart";
+            this.restartBttn.UseVisualStyleBackColor = true;
+            this.restartBttn.Click += new System.EventHandler(this.restartBttn_Click);
+            // 
             // Minesweeper
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(449, 539);
+            this.Controls.Add(this.restartBttn);
+            this.Controls.Add(this.winLbl);
             this.Controls.Add(this.testLbl);
             this.Controls.Add(this.bttn1500);
             this.Controls.Add(this.bttn1400);
@@ -3414,5 +3437,7 @@ namespace Games
         private System.Windows.Forms.Button bttn0102;
         private System.Windows.Forms.Button bttn0002;
         private System.Windows.Forms.Label testLbl;
+        private System.Windows.Forms.Label winLbl;
+        private System.Windows.Forms.Button restartBttn;
     }
 }
