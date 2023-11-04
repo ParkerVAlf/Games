@@ -300,7 +300,7 @@ namespace Games
             // 
             // bttn0015
             // 
-            this.bttn0015.Location = new System.Drawing.Point(45, 43);
+            this.bttn0015.Location = new System.Drawing.Point(42, 42);
             this.bttn0015.Name = "bttn0015";
             this.bttn0015.Size = new System.Drawing.Size(25, 25);
             this.bttn0015.TabIndex = 1;
@@ -309,7 +309,7 @@ namespace Games
             // 
             // bttn0115
             // 
-            this.bttn0115.Location = new System.Drawing.Point(68, 43);
+            this.bttn0115.Location = new System.Drawing.Point(65, 42);
             this.bttn0115.Name = "bttn0115";
             this.bttn0115.Size = new System.Drawing.Size(25, 25);
             this.bttn0115.TabIndex = 2;
@@ -318,7 +318,7 @@ namespace Games
             // 
             // bttn0315
             // 
-            this.bttn0315.Location = new System.Drawing.Point(114, 43);
+            this.bttn0315.Location = new System.Drawing.Point(111, 42);
             this.bttn0315.Name = "bttn0315";
             this.bttn0315.Size = new System.Drawing.Size(25, 25);
             this.bttn0315.TabIndex = 3;
@@ -327,7 +327,7 @@ namespace Games
             // 
             // bttn0415
             // 
-            this.bttn0415.Location = new System.Drawing.Point(135, 43);
+            this.bttn0415.Location = new System.Drawing.Point(132, 42);
             this.bttn0415.Name = "bttn0415";
             this.bttn0415.Size = new System.Drawing.Size(25, 25);
             this.bttn0415.TabIndex = 4;
@@ -336,7 +336,7 @@ namespace Games
             // 
             // bttn0215
             // 
-            this.bttn0215.Location = new System.Drawing.Point(91, 43);
+            this.bttn0215.Location = new System.Drawing.Point(88, 42);
             this.bttn0215.Name = "bttn0215";
             this.bttn0215.Size = new System.Drawing.Size(25, 25);
             this.bttn0215.TabIndex = 5;
@@ -345,7 +345,7 @@ namespace Games
             // 
             // bttn0515
             // 
-            this.bttn0515.Location = new System.Drawing.Point(156, 43);
+            this.bttn0515.Location = new System.Drawing.Point(153, 42);
             this.bttn0515.Name = "bttn0515";
             this.bttn0515.Size = new System.Drawing.Size(25, 25);
             this.bttn0515.TabIndex = 6;
@@ -354,7 +354,7 @@ namespace Games
             // 
             // bttn0615
             // 
-            this.bttn0615.Location = new System.Drawing.Point(179, 43);
+            this.bttn0615.Location = new System.Drawing.Point(176, 42);
             this.bttn0615.Name = "bttn0615";
             this.bttn0615.Size = new System.Drawing.Size(25, 25);
             this.bttn0615.TabIndex = 7;
@@ -363,7 +363,7 @@ namespace Games
             // 
             // bttn0715
             // 
-            this.bttn0715.Location = new System.Drawing.Point(202, 43);
+            this.bttn0715.Location = new System.Drawing.Point(199, 42);
             this.bttn0715.Name = "bttn0715";
             this.bttn0715.Size = new System.Drawing.Size(25, 25);
             this.bttn0715.TabIndex = 8;
@@ -372,7 +372,7 @@ namespace Games
             // 
             // bttn0815
             // 
-            this.bttn0815.Location = new System.Drawing.Point(225, 43);
+            this.bttn0815.Location = new System.Drawing.Point(222, 42);
             this.bttn0815.Name = "bttn0815";
             this.bttn0815.Size = new System.Drawing.Size(25, 25);
             this.bttn0815.TabIndex = 9;
@@ -381,7 +381,7 @@ namespace Games
             // 
             // bttn0915
             // 
-            this.bttn0915.Location = new System.Drawing.Point(248, 43);
+            this.bttn0915.Location = new System.Drawing.Point(245, 42);
             this.bttn0915.Name = "bttn0915";
             this.bttn0915.Size = new System.Drawing.Size(25, 25);
             this.bttn0915.TabIndex = 10;
@@ -390,7 +390,7 @@ namespace Games
             // 
             // bttn1015
             // 
-            this.bttn1015.Location = new System.Drawing.Point(271, 43);
+            this.bttn1015.Location = new System.Drawing.Point(268, 42);
             this.bttn1015.Name = "bttn1015";
             this.bttn1015.Size = new System.Drawing.Size(25, 25);
             this.bttn1015.TabIndex = 11;
@@ -399,7 +399,7 @@ namespace Games
             // 
             // bttn1115
             // 
-            this.bttn1115.Location = new System.Drawing.Point(294, 43);
+            this.bttn1115.Location = new System.Drawing.Point(291, 42);
             this.bttn1115.Name = "bttn1115";
             this.bttn1115.Size = new System.Drawing.Size(25, 25);
             this.bttn1115.TabIndex = 12;
@@ -408,7 +408,7 @@ namespace Games
             // 
             // bttn1215
             // 
-            this.bttn1215.Location = new System.Drawing.Point(317, 43);
+            this.bttn1215.Location = new System.Drawing.Point(314, 42);
             this.bttn1215.Name = "bttn1215";
             this.bttn1215.Size = new System.Drawing.Size(25, 25);
             this.bttn1215.TabIndex = 13;
@@ -417,7 +417,7 @@ namespace Games
             // 
             // bttn1315
             // 
-            this.bttn1315.Location = new System.Drawing.Point(340, 43);
+            this.bttn1315.Location = new System.Drawing.Point(337, 42);
             this.bttn1315.Name = "bttn1315";
             this.bttn1315.Size = new System.Drawing.Size(25, 25);
             this.bttn1315.TabIndex = 14;
@@ -426,7 +426,7 @@ namespace Games
             // 
             // bttn1314
             // 
-            this.bttn1314.Location = new System.Drawing.Point(340, 65);
+            this.bttn1314.Location = new System.Drawing.Point(337, 64);
             this.bttn1314.Name = "bttn1314";
             this.bttn1314.Size = new System.Drawing.Size(25, 25);
             this.bttn1314.TabIndex = 28;
@@ -435,7 +435,7 @@ namespace Games
             // 
             // bttn1214
             // 
-            this.bttn1214.Location = new System.Drawing.Point(317, 65);
+            this.bttn1214.Location = new System.Drawing.Point(314, 64);
             this.bttn1214.Name = "bttn1214";
             this.bttn1214.Size = new System.Drawing.Size(25, 25);
             this.bttn1214.TabIndex = 27;
@@ -444,7 +444,7 @@ namespace Games
             // 
             // bttn1114
             // 
-            this.bttn1114.Location = new System.Drawing.Point(294, 65);
+            this.bttn1114.Location = new System.Drawing.Point(291, 64);
             this.bttn1114.Name = "bttn1114";
             this.bttn1114.Size = new System.Drawing.Size(25, 25);
             this.bttn1114.TabIndex = 26;
@@ -453,7 +453,7 @@ namespace Games
             // 
             // bttn1014
             // 
-            this.bttn1014.Location = new System.Drawing.Point(271, 65);
+            this.bttn1014.Location = new System.Drawing.Point(268, 64);
             this.bttn1014.Name = "bttn1014";
             this.bttn1014.Size = new System.Drawing.Size(25, 25);
             this.bttn1014.TabIndex = 25;
@@ -462,7 +462,7 @@ namespace Games
             // 
             // bttn0914
             // 
-            this.bttn0914.Location = new System.Drawing.Point(248, 65);
+            this.bttn0914.Location = new System.Drawing.Point(245, 64);
             this.bttn0914.Name = "bttn0914";
             this.bttn0914.Size = new System.Drawing.Size(25, 25);
             this.bttn0914.TabIndex = 24;
@@ -471,7 +471,7 @@ namespace Games
             // 
             // bttn0814
             // 
-            this.bttn0814.Location = new System.Drawing.Point(225, 65);
+            this.bttn0814.Location = new System.Drawing.Point(222, 64);
             this.bttn0814.Name = "bttn0814";
             this.bttn0814.Size = new System.Drawing.Size(25, 25);
             this.bttn0814.TabIndex = 23;
@@ -480,7 +480,7 @@ namespace Games
             // 
             // bttn0714
             // 
-            this.bttn0714.Location = new System.Drawing.Point(202, 65);
+            this.bttn0714.Location = new System.Drawing.Point(199, 64);
             this.bttn0714.Name = "bttn0714";
             this.bttn0714.Size = new System.Drawing.Size(25, 25);
             this.bttn0714.TabIndex = 22;
@@ -489,7 +489,7 @@ namespace Games
             // 
             // bttn0614
             // 
-            this.bttn0614.Location = new System.Drawing.Point(179, 65);
+            this.bttn0614.Location = new System.Drawing.Point(176, 64);
             this.bttn0614.Name = "bttn0614";
             this.bttn0614.Size = new System.Drawing.Size(25, 25);
             this.bttn0614.TabIndex = 21;
@@ -498,7 +498,7 @@ namespace Games
             // 
             // bttn0514
             // 
-            this.bttn0514.Location = new System.Drawing.Point(156, 65);
+            this.bttn0514.Location = new System.Drawing.Point(153, 64);
             this.bttn0514.Name = "bttn0514";
             this.bttn0514.Size = new System.Drawing.Size(25, 25);
             this.bttn0514.TabIndex = 20;
@@ -507,7 +507,7 @@ namespace Games
             // 
             // bttn0214
             // 
-            this.bttn0214.Location = new System.Drawing.Point(91, 65);
+            this.bttn0214.Location = new System.Drawing.Point(88, 64);
             this.bttn0214.Name = "bttn0214";
             this.bttn0214.Size = new System.Drawing.Size(25, 25);
             this.bttn0214.TabIndex = 19;
@@ -516,7 +516,7 @@ namespace Games
             // 
             // bttn0414
             // 
-            this.bttn0414.Location = new System.Drawing.Point(135, 65);
+            this.bttn0414.Location = new System.Drawing.Point(132, 64);
             this.bttn0414.Name = "bttn0414";
             this.bttn0414.Size = new System.Drawing.Size(25, 25);
             this.bttn0414.TabIndex = 18;
@@ -525,7 +525,7 @@ namespace Games
             // 
             // bttn0314
             // 
-            this.bttn0314.Location = new System.Drawing.Point(114, 65);
+            this.bttn0314.Location = new System.Drawing.Point(111, 64);
             this.bttn0314.Name = "bttn0314";
             this.bttn0314.Size = new System.Drawing.Size(25, 25);
             this.bttn0314.TabIndex = 17;
@@ -534,7 +534,7 @@ namespace Games
             // 
             // bttn0114
             // 
-            this.bttn0114.Location = new System.Drawing.Point(68, 65);
+            this.bttn0114.Location = new System.Drawing.Point(65, 64);
             this.bttn0114.Name = "bttn0114";
             this.bttn0114.Size = new System.Drawing.Size(25, 25);
             this.bttn0114.TabIndex = 16;
@@ -543,7 +543,7 @@ namespace Games
             // 
             // bttn0014
             // 
-            this.bttn0014.Location = new System.Drawing.Point(45, 65);
+            this.bttn0014.Location = new System.Drawing.Point(42, 64);
             this.bttn0014.Name = "bttn0014";
             this.bttn0014.Size = new System.Drawing.Size(25, 25);
             this.bttn0014.TabIndex = 15;
@@ -552,7 +552,7 @@ namespace Games
             // 
             // bttn1312
             // 
-            this.bttn1312.Location = new System.Drawing.Point(340, 110);
+            this.bttn1312.Location = new System.Drawing.Point(337, 109);
             this.bttn1312.Name = "bttn1312";
             this.bttn1312.Size = new System.Drawing.Size(25, 25);
             this.bttn1312.TabIndex = 56;
@@ -561,7 +561,7 @@ namespace Games
             // 
             // bttn1212
             // 
-            this.bttn1212.Location = new System.Drawing.Point(317, 110);
+            this.bttn1212.Location = new System.Drawing.Point(314, 109);
             this.bttn1212.Name = "bttn1212";
             this.bttn1212.Size = new System.Drawing.Size(25, 25);
             this.bttn1212.TabIndex = 55;
@@ -570,7 +570,7 @@ namespace Games
             // 
             // bttn1112
             // 
-            this.bttn1112.Location = new System.Drawing.Point(294, 110);
+            this.bttn1112.Location = new System.Drawing.Point(291, 109);
             this.bttn1112.Name = "bttn1112";
             this.bttn1112.Size = new System.Drawing.Size(25, 25);
             this.bttn1112.TabIndex = 54;
@@ -579,7 +579,7 @@ namespace Games
             // 
             // bttn1012
             // 
-            this.bttn1012.Location = new System.Drawing.Point(271, 110);
+            this.bttn1012.Location = new System.Drawing.Point(268, 109);
             this.bttn1012.Name = "bttn1012";
             this.bttn1012.Size = new System.Drawing.Size(25, 25);
             this.bttn1012.TabIndex = 53;
@@ -588,7 +588,7 @@ namespace Games
             // 
             // bttn0912
             // 
-            this.bttn0912.Location = new System.Drawing.Point(248, 110);
+            this.bttn0912.Location = new System.Drawing.Point(245, 109);
             this.bttn0912.Name = "bttn0912";
             this.bttn0912.Size = new System.Drawing.Size(25, 25);
             this.bttn0912.TabIndex = 52;
@@ -597,7 +597,7 @@ namespace Games
             // 
             // bttn0812
             // 
-            this.bttn0812.Location = new System.Drawing.Point(225, 110);
+            this.bttn0812.Location = new System.Drawing.Point(222, 109);
             this.bttn0812.Name = "bttn0812";
             this.bttn0812.Size = new System.Drawing.Size(25, 25);
             this.bttn0812.TabIndex = 51;
@@ -606,7 +606,7 @@ namespace Games
             // 
             // bttn0712
             // 
-            this.bttn0712.Location = new System.Drawing.Point(202, 110);
+            this.bttn0712.Location = new System.Drawing.Point(199, 109);
             this.bttn0712.Name = "bttn0712";
             this.bttn0712.Size = new System.Drawing.Size(25, 25);
             this.bttn0712.TabIndex = 50;
@@ -615,7 +615,7 @@ namespace Games
             // 
             // bttn0612
             // 
-            this.bttn0612.Location = new System.Drawing.Point(179, 110);
+            this.bttn0612.Location = new System.Drawing.Point(176, 109);
             this.bttn0612.Name = "bttn0612";
             this.bttn0612.Size = new System.Drawing.Size(25, 25);
             this.bttn0612.TabIndex = 49;
@@ -624,7 +624,7 @@ namespace Games
             // 
             // bttn0512
             // 
-            this.bttn0512.Location = new System.Drawing.Point(156, 110);
+            this.bttn0512.Location = new System.Drawing.Point(153, 109);
             this.bttn0512.Name = "bttn0512";
             this.bttn0512.Size = new System.Drawing.Size(25, 25);
             this.bttn0512.TabIndex = 48;
@@ -633,7 +633,7 @@ namespace Games
             // 
             // bttn0212
             // 
-            this.bttn0212.Location = new System.Drawing.Point(91, 110);
+            this.bttn0212.Location = new System.Drawing.Point(88, 109);
             this.bttn0212.Name = "bttn0212";
             this.bttn0212.Size = new System.Drawing.Size(25, 25);
             this.bttn0212.TabIndex = 47;
@@ -642,7 +642,7 @@ namespace Games
             // 
             // bttn0412
             // 
-            this.bttn0412.Location = new System.Drawing.Point(135, 110);
+            this.bttn0412.Location = new System.Drawing.Point(132, 109);
             this.bttn0412.Name = "bttn0412";
             this.bttn0412.Size = new System.Drawing.Size(25, 25);
             this.bttn0412.TabIndex = 46;
@@ -651,7 +651,7 @@ namespace Games
             // 
             // bttn0312
             // 
-            this.bttn0312.Location = new System.Drawing.Point(114, 110);
+            this.bttn0312.Location = new System.Drawing.Point(111, 109);
             this.bttn0312.Name = "bttn0312";
             this.bttn0312.Size = new System.Drawing.Size(25, 25);
             this.bttn0312.TabIndex = 45;
@@ -660,7 +660,7 @@ namespace Games
             // 
             // bttn0112
             // 
-            this.bttn0112.Location = new System.Drawing.Point(68, 110);
+            this.bttn0112.Location = new System.Drawing.Point(65, 109);
             this.bttn0112.Name = "bttn0112";
             this.bttn0112.Size = new System.Drawing.Size(25, 25);
             this.bttn0112.TabIndex = 44;
@@ -669,7 +669,7 @@ namespace Games
             // 
             // bttn0012
             // 
-            this.bttn0012.Location = new System.Drawing.Point(45, 110);
+            this.bttn0012.Location = new System.Drawing.Point(42, 109);
             this.bttn0012.Name = "bttn0012";
             this.bttn0012.Size = new System.Drawing.Size(25, 25);
             this.bttn0012.TabIndex = 43;
@@ -678,7 +678,7 @@ namespace Games
             // 
             // bttn1313
             // 
-            this.bttn1313.Location = new System.Drawing.Point(340, 88);
+            this.bttn1313.Location = new System.Drawing.Point(337, 87);
             this.bttn1313.Name = "bttn1313";
             this.bttn1313.Size = new System.Drawing.Size(25, 25);
             this.bttn1313.TabIndex = 42;
@@ -687,7 +687,7 @@ namespace Games
             // 
             // bttn1213
             // 
-            this.bttn1213.Location = new System.Drawing.Point(317, 88);
+            this.bttn1213.Location = new System.Drawing.Point(314, 87);
             this.bttn1213.Name = "bttn1213";
             this.bttn1213.Size = new System.Drawing.Size(25, 25);
             this.bttn1213.TabIndex = 41;
@@ -696,7 +696,7 @@ namespace Games
             // 
             // bttn1113
             // 
-            this.bttn1113.Location = new System.Drawing.Point(294, 88);
+            this.bttn1113.Location = new System.Drawing.Point(291, 87);
             this.bttn1113.Name = "bttn1113";
             this.bttn1113.Size = new System.Drawing.Size(25, 25);
             this.bttn1113.TabIndex = 40;
@@ -705,7 +705,7 @@ namespace Games
             // 
             // bttn1013
             // 
-            this.bttn1013.Location = new System.Drawing.Point(271, 88);
+            this.bttn1013.Location = new System.Drawing.Point(268, 87);
             this.bttn1013.Name = "bttn1013";
             this.bttn1013.Size = new System.Drawing.Size(25, 25);
             this.bttn1013.TabIndex = 39;
@@ -714,7 +714,7 @@ namespace Games
             // 
             // bttn0913
             // 
-            this.bttn0913.Location = new System.Drawing.Point(248, 88);
+            this.bttn0913.Location = new System.Drawing.Point(245, 87);
             this.bttn0913.Name = "bttn0913";
             this.bttn0913.Size = new System.Drawing.Size(25, 25);
             this.bttn0913.TabIndex = 38;
@@ -723,7 +723,7 @@ namespace Games
             // 
             // bttn0813
             // 
-            this.bttn0813.Location = new System.Drawing.Point(225, 88);
+            this.bttn0813.Location = new System.Drawing.Point(222, 87);
             this.bttn0813.Name = "bttn0813";
             this.bttn0813.Size = new System.Drawing.Size(25, 25);
             this.bttn0813.TabIndex = 37;
@@ -732,7 +732,7 @@ namespace Games
             // 
             // bttn0713
             // 
-            this.bttn0713.Location = new System.Drawing.Point(202, 88);
+            this.bttn0713.Location = new System.Drawing.Point(199, 87);
             this.bttn0713.Name = "bttn0713";
             this.bttn0713.Size = new System.Drawing.Size(25, 25);
             this.bttn0713.TabIndex = 36;
@@ -741,7 +741,7 @@ namespace Games
             // 
             // bttn0613
             // 
-            this.bttn0613.Location = new System.Drawing.Point(179, 88);
+            this.bttn0613.Location = new System.Drawing.Point(176, 87);
             this.bttn0613.Name = "bttn0613";
             this.bttn0613.Size = new System.Drawing.Size(25, 25);
             this.bttn0613.TabIndex = 35;
@@ -750,7 +750,7 @@ namespace Games
             // 
             // bttn0513
             // 
-            this.bttn0513.Location = new System.Drawing.Point(156, 88);
+            this.bttn0513.Location = new System.Drawing.Point(153, 87);
             this.bttn0513.Name = "bttn0513";
             this.bttn0513.Size = new System.Drawing.Size(25, 25);
             this.bttn0513.TabIndex = 34;
@@ -759,7 +759,7 @@ namespace Games
             // 
             // bttn0213
             // 
-            this.bttn0213.Location = new System.Drawing.Point(91, 88);
+            this.bttn0213.Location = new System.Drawing.Point(88, 87);
             this.bttn0213.Name = "bttn0213";
             this.bttn0213.Size = new System.Drawing.Size(25, 25);
             this.bttn0213.TabIndex = 33;
@@ -768,7 +768,7 @@ namespace Games
             // 
             // bttn0413
             // 
-            this.bttn0413.Location = new System.Drawing.Point(135, 88);
+            this.bttn0413.Location = new System.Drawing.Point(132, 87);
             this.bttn0413.Name = "bttn0413";
             this.bttn0413.Size = new System.Drawing.Size(25, 25);
             this.bttn0413.TabIndex = 32;
@@ -777,7 +777,7 @@ namespace Games
             // 
             // bttn0313
             // 
-            this.bttn0313.Location = new System.Drawing.Point(114, 88);
+            this.bttn0313.Location = new System.Drawing.Point(111, 87);
             this.bttn0313.Name = "bttn0313";
             this.bttn0313.Size = new System.Drawing.Size(25, 25);
             this.bttn0313.TabIndex = 31;
@@ -786,7 +786,7 @@ namespace Games
             // 
             // bttn0113
             // 
-            this.bttn0113.Location = new System.Drawing.Point(68, 88);
+            this.bttn0113.Location = new System.Drawing.Point(65, 87);
             this.bttn0113.Name = "bttn0113";
             this.bttn0113.Size = new System.Drawing.Size(25, 25);
             this.bttn0113.TabIndex = 30;
@@ -795,7 +795,7 @@ namespace Games
             // 
             // bttn0013
             // 
-            this.bttn0013.Location = new System.Drawing.Point(45, 88);
+            this.bttn0013.Location = new System.Drawing.Point(42, 87);
             this.bttn0013.Name = "bttn0013";
             this.bttn0013.Size = new System.Drawing.Size(25, 25);
             this.bttn0013.TabIndex = 29;
@@ -804,7 +804,7 @@ namespace Games
             // 
             // bttn1308
             // 
-            this.bttn1308.Location = new System.Drawing.Point(340, 199);
+            this.bttn1308.Location = new System.Drawing.Point(337, 198);
             this.bttn1308.Name = "bttn1308";
             this.bttn1308.Size = new System.Drawing.Size(25, 25);
             this.bttn1308.TabIndex = 112;
@@ -813,7 +813,7 @@ namespace Games
             // 
             // bttn1208
             // 
-            this.bttn1208.Location = new System.Drawing.Point(317, 199);
+            this.bttn1208.Location = new System.Drawing.Point(314, 198);
             this.bttn1208.Name = "bttn1208";
             this.bttn1208.Size = new System.Drawing.Size(25, 25);
             this.bttn1208.TabIndex = 111;
@@ -822,7 +822,7 @@ namespace Games
             // 
             // bttn1108
             // 
-            this.bttn1108.Location = new System.Drawing.Point(294, 199);
+            this.bttn1108.Location = new System.Drawing.Point(291, 198);
             this.bttn1108.Name = "bttn1108";
             this.bttn1108.Size = new System.Drawing.Size(25, 25);
             this.bttn1108.TabIndex = 110;
@@ -831,7 +831,7 @@ namespace Games
             // 
             // bttn1008
             // 
-            this.bttn1008.Location = new System.Drawing.Point(271, 199);
+            this.bttn1008.Location = new System.Drawing.Point(268, 198);
             this.bttn1008.Name = "bttn1008";
             this.bttn1008.Size = new System.Drawing.Size(25, 25);
             this.bttn1008.TabIndex = 109;
@@ -840,7 +840,7 @@ namespace Games
             // 
             // bttn0908
             // 
-            this.bttn0908.Location = new System.Drawing.Point(248, 199);
+            this.bttn0908.Location = new System.Drawing.Point(245, 198);
             this.bttn0908.Name = "bttn0908";
             this.bttn0908.Size = new System.Drawing.Size(25, 25);
             this.bttn0908.TabIndex = 108;
@@ -849,7 +849,7 @@ namespace Games
             // 
             // bttn0808
             // 
-            this.bttn0808.Location = new System.Drawing.Point(225, 199);
+            this.bttn0808.Location = new System.Drawing.Point(222, 198);
             this.bttn0808.Name = "bttn0808";
             this.bttn0808.Size = new System.Drawing.Size(25, 25);
             this.bttn0808.TabIndex = 107;
@@ -858,7 +858,7 @@ namespace Games
             // 
             // bttn0708
             // 
-            this.bttn0708.Location = new System.Drawing.Point(202, 199);
+            this.bttn0708.Location = new System.Drawing.Point(199, 198);
             this.bttn0708.Name = "bttn0708";
             this.bttn0708.Size = new System.Drawing.Size(25, 25);
             this.bttn0708.TabIndex = 106;
@@ -867,7 +867,7 @@ namespace Games
             // 
             // bttn0608
             // 
-            this.bttn0608.Location = new System.Drawing.Point(179, 199);
+            this.bttn0608.Location = new System.Drawing.Point(176, 198);
             this.bttn0608.Name = "bttn0608";
             this.bttn0608.Size = new System.Drawing.Size(25, 25);
             this.bttn0608.TabIndex = 105;
@@ -876,7 +876,7 @@ namespace Games
             // 
             // bttn0508
             // 
-            this.bttn0508.Location = new System.Drawing.Point(156, 199);
+            this.bttn0508.Location = new System.Drawing.Point(153, 198);
             this.bttn0508.Name = "bttn0508";
             this.bttn0508.Size = new System.Drawing.Size(25, 25);
             this.bttn0508.TabIndex = 104;
@@ -885,7 +885,7 @@ namespace Games
             // 
             // bttn0208
             // 
-            this.bttn0208.Location = new System.Drawing.Point(91, 199);
+            this.bttn0208.Location = new System.Drawing.Point(88, 198);
             this.bttn0208.Name = "bttn0208";
             this.bttn0208.Size = new System.Drawing.Size(25, 25);
             this.bttn0208.TabIndex = 103;
@@ -894,7 +894,7 @@ namespace Games
             // 
             // bttn0408
             // 
-            this.bttn0408.Location = new System.Drawing.Point(135, 199);
+            this.bttn0408.Location = new System.Drawing.Point(132, 198);
             this.bttn0408.Name = "bttn0408";
             this.bttn0408.Size = new System.Drawing.Size(25, 25);
             this.bttn0408.TabIndex = 102;
@@ -903,7 +903,7 @@ namespace Games
             // 
             // bttn0308
             // 
-            this.bttn0308.Location = new System.Drawing.Point(114, 199);
+            this.bttn0308.Location = new System.Drawing.Point(111, 198);
             this.bttn0308.Name = "bttn0308";
             this.bttn0308.Size = new System.Drawing.Size(25, 25);
             this.bttn0308.TabIndex = 101;
@@ -912,7 +912,7 @@ namespace Games
             // 
             // bttn0108
             // 
-            this.bttn0108.Location = new System.Drawing.Point(68, 199);
+            this.bttn0108.Location = new System.Drawing.Point(65, 198);
             this.bttn0108.Name = "bttn0108";
             this.bttn0108.Size = new System.Drawing.Size(25, 25);
             this.bttn0108.TabIndex = 100;
@@ -921,7 +921,7 @@ namespace Games
             // 
             // bttn0008
             // 
-            this.bttn0008.Location = new System.Drawing.Point(45, 199);
+            this.bttn0008.Location = new System.Drawing.Point(42, 198);
             this.bttn0008.Name = "bttn0008";
             this.bttn0008.Size = new System.Drawing.Size(25, 25);
             this.bttn0008.TabIndex = 99;
@@ -930,7 +930,7 @@ namespace Games
             // 
             // bttn1309
             // 
-            this.bttn1309.Location = new System.Drawing.Point(340, 177);
+            this.bttn1309.Location = new System.Drawing.Point(337, 176);
             this.bttn1309.Name = "bttn1309";
             this.bttn1309.Size = new System.Drawing.Size(25, 25);
             this.bttn1309.TabIndex = 98;
@@ -939,7 +939,7 @@ namespace Games
             // 
             // bttn1209
             // 
-            this.bttn1209.Location = new System.Drawing.Point(317, 177);
+            this.bttn1209.Location = new System.Drawing.Point(314, 176);
             this.bttn1209.Name = "bttn1209";
             this.bttn1209.Size = new System.Drawing.Size(25, 25);
             this.bttn1209.TabIndex = 97;
@@ -948,7 +948,7 @@ namespace Games
             // 
             // bttn1109
             // 
-            this.bttn1109.Location = new System.Drawing.Point(294, 177);
+            this.bttn1109.Location = new System.Drawing.Point(291, 176);
             this.bttn1109.Name = "bttn1109";
             this.bttn1109.Size = new System.Drawing.Size(25, 25);
             this.bttn1109.TabIndex = 96;
@@ -957,7 +957,7 @@ namespace Games
             // 
             // bttn1009
             // 
-            this.bttn1009.Location = new System.Drawing.Point(271, 177);
+            this.bttn1009.Location = new System.Drawing.Point(268, 176);
             this.bttn1009.Name = "bttn1009";
             this.bttn1009.Size = new System.Drawing.Size(25, 25);
             this.bttn1009.TabIndex = 95;
@@ -966,7 +966,7 @@ namespace Games
             // 
             // bttn0909
             // 
-            this.bttn0909.Location = new System.Drawing.Point(248, 177);
+            this.bttn0909.Location = new System.Drawing.Point(245, 176);
             this.bttn0909.Name = "bttn0909";
             this.bttn0909.Size = new System.Drawing.Size(25, 25);
             this.bttn0909.TabIndex = 94;
@@ -975,7 +975,7 @@ namespace Games
             // 
             // bttn0809
             // 
-            this.bttn0809.Location = new System.Drawing.Point(225, 177);
+            this.bttn0809.Location = new System.Drawing.Point(222, 176);
             this.bttn0809.Name = "bttn0809";
             this.bttn0809.Size = new System.Drawing.Size(25, 25);
             this.bttn0809.TabIndex = 93;
@@ -984,7 +984,7 @@ namespace Games
             // 
             // bttn0709
             // 
-            this.bttn0709.Location = new System.Drawing.Point(202, 177);
+            this.bttn0709.Location = new System.Drawing.Point(199, 176);
             this.bttn0709.Name = "bttn0709";
             this.bttn0709.Size = new System.Drawing.Size(25, 25);
             this.bttn0709.TabIndex = 92;
@@ -993,7 +993,7 @@ namespace Games
             // 
             // bttn0609
             // 
-            this.bttn0609.Location = new System.Drawing.Point(179, 177);
+            this.bttn0609.Location = new System.Drawing.Point(176, 176);
             this.bttn0609.Name = "bttn0609";
             this.bttn0609.Size = new System.Drawing.Size(25, 25);
             this.bttn0609.TabIndex = 91;
@@ -1002,7 +1002,7 @@ namespace Games
             // 
             // bttn0509
             // 
-            this.bttn0509.Location = new System.Drawing.Point(156, 177);
+            this.bttn0509.Location = new System.Drawing.Point(153, 176);
             this.bttn0509.Name = "bttn0509";
             this.bttn0509.Size = new System.Drawing.Size(25, 25);
             this.bttn0509.TabIndex = 90;
@@ -1011,7 +1011,7 @@ namespace Games
             // 
             // bttn0209
             // 
-            this.bttn0209.Location = new System.Drawing.Point(91, 177);
+            this.bttn0209.Location = new System.Drawing.Point(88, 176);
             this.bttn0209.Name = "bttn0209";
             this.bttn0209.Size = new System.Drawing.Size(25, 25);
             this.bttn0209.TabIndex = 89;
@@ -1020,7 +1020,7 @@ namespace Games
             // 
             // bttn0409
             // 
-            this.bttn0409.Location = new System.Drawing.Point(135, 177);
+            this.bttn0409.Location = new System.Drawing.Point(132, 176);
             this.bttn0409.Name = "bttn0409";
             this.bttn0409.Size = new System.Drawing.Size(25, 25);
             this.bttn0409.TabIndex = 88;
@@ -1029,7 +1029,7 @@ namespace Games
             // 
             // bttn0309
             // 
-            this.bttn0309.Location = new System.Drawing.Point(114, 177);
+            this.bttn0309.Location = new System.Drawing.Point(111, 176);
             this.bttn0309.Name = "bttn0309";
             this.bttn0309.Size = new System.Drawing.Size(25, 25);
             this.bttn0309.TabIndex = 87;
@@ -1038,7 +1038,7 @@ namespace Games
             // 
             // bttn0109
             // 
-            this.bttn0109.Location = new System.Drawing.Point(68, 177);
+            this.bttn0109.Location = new System.Drawing.Point(65, 176);
             this.bttn0109.Name = "bttn0109";
             this.bttn0109.Size = new System.Drawing.Size(25, 25);
             this.bttn0109.TabIndex = 86;
@@ -1047,7 +1047,7 @@ namespace Games
             // 
             // bttn0009
             // 
-            this.bttn0009.Location = new System.Drawing.Point(45, 177);
+            this.bttn0009.Location = new System.Drawing.Point(42, 176);
             this.bttn0009.Name = "bttn0009";
             this.bttn0009.Size = new System.Drawing.Size(25, 25);
             this.bttn0009.TabIndex = 85;
@@ -1056,7 +1056,7 @@ namespace Games
             // 
             // bttn1310
             // 
-            this.bttn1310.Location = new System.Drawing.Point(340, 154);
+            this.bttn1310.Location = new System.Drawing.Point(337, 153);
             this.bttn1310.Name = "bttn1310";
             this.bttn1310.Size = new System.Drawing.Size(25, 25);
             this.bttn1310.TabIndex = 84;
@@ -1065,7 +1065,7 @@ namespace Games
             // 
             // bttn1210
             // 
-            this.bttn1210.Location = new System.Drawing.Point(317, 154);
+            this.bttn1210.Location = new System.Drawing.Point(314, 153);
             this.bttn1210.Name = "bttn1210";
             this.bttn1210.Size = new System.Drawing.Size(25, 25);
             this.bttn1210.TabIndex = 83;
@@ -1074,7 +1074,7 @@ namespace Games
             // 
             // bttn1110
             // 
-            this.bttn1110.Location = new System.Drawing.Point(294, 154);
+            this.bttn1110.Location = new System.Drawing.Point(291, 153);
             this.bttn1110.Name = "bttn1110";
             this.bttn1110.Size = new System.Drawing.Size(25, 25);
             this.bttn1110.TabIndex = 82;
@@ -1083,7 +1083,7 @@ namespace Games
             // 
             // bttn1010
             // 
-            this.bttn1010.Location = new System.Drawing.Point(271, 154);
+            this.bttn1010.Location = new System.Drawing.Point(268, 153);
             this.bttn1010.Name = "bttn1010";
             this.bttn1010.Size = new System.Drawing.Size(25, 25);
             this.bttn1010.TabIndex = 81;
@@ -1092,7 +1092,7 @@ namespace Games
             // 
             // bttn0910
             // 
-            this.bttn0910.Location = new System.Drawing.Point(248, 154);
+            this.bttn0910.Location = new System.Drawing.Point(245, 153);
             this.bttn0910.Name = "bttn0910";
             this.bttn0910.Size = new System.Drawing.Size(25, 25);
             this.bttn0910.TabIndex = 80;
@@ -1101,7 +1101,7 @@ namespace Games
             // 
             // bttn0810
             // 
-            this.bttn0810.Location = new System.Drawing.Point(225, 154);
+            this.bttn0810.Location = new System.Drawing.Point(222, 153);
             this.bttn0810.Name = "bttn0810";
             this.bttn0810.Size = new System.Drawing.Size(25, 25);
             this.bttn0810.TabIndex = 79;
@@ -1110,7 +1110,7 @@ namespace Games
             // 
             // bttn0710
             // 
-            this.bttn0710.Location = new System.Drawing.Point(202, 154);
+            this.bttn0710.Location = new System.Drawing.Point(199, 153);
             this.bttn0710.Name = "bttn0710";
             this.bttn0710.Size = new System.Drawing.Size(25, 25);
             this.bttn0710.TabIndex = 78;
@@ -1119,7 +1119,7 @@ namespace Games
             // 
             // bttn0610
             // 
-            this.bttn0610.Location = new System.Drawing.Point(179, 154);
+            this.bttn0610.Location = new System.Drawing.Point(176, 153);
             this.bttn0610.Name = "bttn0610";
             this.bttn0610.Size = new System.Drawing.Size(25, 25);
             this.bttn0610.TabIndex = 77;
@@ -1128,7 +1128,7 @@ namespace Games
             // 
             // bttn0510
             // 
-            this.bttn0510.Location = new System.Drawing.Point(156, 154);
+            this.bttn0510.Location = new System.Drawing.Point(153, 153);
             this.bttn0510.Name = "bttn0510";
             this.bttn0510.Size = new System.Drawing.Size(25, 25);
             this.bttn0510.TabIndex = 76;
@@ -1137,7 +1137,7 @@ namespace Games
             // 
             // bttn0210
             // 
-            this.bttn0210.Location = new System.Drawing.Point(91, 154);
+            this.bttn0210.Location = new System.Drawing.Point(88, 153);
             this.bttn0210.Name = "bttn0210";
             this.bttn0210.Size = new System.Drawing.Size(25, 25);
             this.bttn0210.TabIndex = 75;
@@ -1146,7 +1146,7 @@ namespace Games
             // 
             // bttn0410
             // 
-            this.bttn0410.Location = new System.Drawing.Point(135, 154);
+            this.bttn0410.Location = new System.Drawing.Point(132, 153);
             this.bttn0410.Name = "bttn0410";
             this.bttn0410.Size = new System.Drawing.Size(25, 25);
             this.bttn0410.TabIndex = 74;
@@ -1155,7 +1155,7 @@ namespace Games
             // 
             // bttn0310
             // 
-            this.bttn0310.Location = new System.Drawing.Point(114, 154);
+            this.bttn0310.Location = new System.Drawing.Point(111, 153);
             this.bttn0310.Name = "bttn0310";
             this.bttn0310.Size = new System.Drawing.Size(25, 25);
             this.bttn0310.TabIndex = 73;
@@ -1164,7 +1164,7 @@ namespace Games
             // 
             // bttn0110
             // 
-            this.bttn0110.Location = new System.Drawing.Point(68, 154);
+            this.bttn0110.Location = new System.Drawing.Point(65, 153);
             this.bttn0110.Name = "bttn0110";
             this.bttn0110.Size = new System.Drawing.Size(25, 25);
             this.bttn0110.TabIndex = 72;
@@ -1173,7 +1173,7 @@ namespace Games
             // 
             // bttn0010
             // 
-            this.bttn0010.Location = new System.Drawing.Point(45, 154);
+            this.bttn0010.Location = new System.Drawing.Point(42, 153);
             this.bttn0010.Name = "bttn0010";
             this.bttn0010.Size = new System.Drawing.Size(25, 25);
             this.bttn0010.TabIndex = 71;
@@ -1182,7 +1182,7 @@ namespace Games
             // 
             // bttn1311
             // 
-            this.bttn1311.Location = new System.Drawing.Point(340, 132);
+            this.bttn1311.Location = new System.Drawing.Point(337, 131);
             this.bttn1311.Name = "bttn1311";
             this.bttn1311.Size = new System.Drawing.Size(25, 25);
             this.bttn1311.TabIndex = 70;
@@ -1191,7 +1191,7 @@ namespace Games
             // 
             // bttn1211
             // 
-            this.bttn1211.Location = new System.Drawing.Point(317, 132);
+            this.bttn1211.Location = new System.Drawing.Point(314, 131);
             this.bttn1211.Name = "bttn1211";
             this.bttn1211.Size = new System.Drawing.Size(25, 25);
             this.bttn1211.TabIndex = 69;
@@ -1200,7 +1200,7 @@ namespace Games
             // 
             // bttn1111
             // 
-            this.bttn1111.Location = new System.Drawing.Point(294, 132);
+            this.bttn1111.Location = new System.Drawing.Point(291, 131);
             this.bttn1111.Name = "bttn1111";
             this.bttn1111.Size = new System.Drawing.Size(25, 25);
             this.bttn1111.TabIndex = 68;
@@ -1209,7 +1209,7 @@ namespace Games
             // 
             // bttn1011
             // 
-            this.bttn1011.Location = new System.Drawing.Point(271, 132);
+            this.bttn1011.Location = new System.Drawing.Point(268, 131);
             this.bttn1011.Name = "bttn1011";
             this.bttn1011.Size = new System.Drawing.Size(25, 25);
             this.bttn1011.TabIndex = 67;
@@ -1218,7 +1218,7 @@ namespace Games
             // 
             // bttn0911
             // 
-            this.bttn0911.Location = new System.Drawing.Point(248, 132);
+            this.bttn0911.Location = new System.Drawing.Point(245, 131);
             this.bttn0911.Name = "bttn0911";
             this.bttn0911.Size = new System.Drawing.Size(25, 25);
             this.bttn0911.TabIndex = 66;
@@ -1227,7 +1227,7 @@ namespace Games
             // 
             // bttn0811
             // 
-            this.bttn0811.Location = new System.Drawing.Point(225, 132);
+            this.bttn0811.Location = new System.Drawing.Point(222, 131);
             this.bttn0811.Name = "bttn0811";
             this.bttn0811.Size = new System.Drawing.Size(25, 25);
             this.bttn0811.TabIndex = 65;
@@ -1236,7 +1236,7 @@ namespace Games
             // 
             // bttn0711
             // 
-            this.bttn0711.Location = new System.Drawing.Point(202, 132);
+            this.bttn0711.Location = new System.Drawing.Point(199, 131);
             this.bttn0711.Name = "bttn0711";
             this.bttn0711.Size = new System.Drawing.Size(25, 25);
             this.bttn0711.TabIndex = 64;
@@ -1245,7 +1245,7 @@ namespace Games
             // 
             // bttn0611
             // 
-            this.bttn0611.Location = new System.Drawing.Point(179, 132);
+            this.bttn0611.Location = new System.Drawing.Point(176, 131);
             this.bttn0611.Name = "bttn0611";
             this.bttn0611.Size = new System.Drawing.Size(25, 25);
             this.bttn0611.TabIndex = 63;
@@ -1254,7 +1254,7 @@ namespace Games
             // 
             // bttn0511
             // 
-            this.bttn0511.Location = new System.Drawing.Point(156, 132);
+            this.bttn0511.Location = new System.Drawing.Point(153, 131);
             this.bttn0511.Name = "bttn0511";
             this.bttn0511.Size = new System.Drawing.Size(25, 25);
             this.bttn0511.TabIndex = 62;
@@ -1263,7 +1263,7 @@ namespace Games
             // 
             // bttn0211
             // 
-            this.bttn0211.Location = new System.Drawing.Point(91, 132);
+            this.bttn0211.Location = new System.Drawing.Point(88, 131);
             this.bttn0211.Name = "bttn0211";
             this.bttn0211.Size = new System.Drawing.Size(25, 25);
             this.bttn0211.TabIndex = 61;
@@ -1272,7 +1272,7 @@ namespace Games
             // 
             // bttn0411
             // 
-            this.bttn0411.Location = new System.Drawing.Point(135, 132);
+            this.bttn0411.Location = new System.Drawing.Point(132, 131);
             this.bttn0411.Name = "bttn0411";
             this.bttn0411.Size = new System.Drawing.Size(25, 25);
             this.bttn0411.TabIndex = 60;
@@ -1281,7 +1281,7 @@ namespace Games
             // 
             // bttn0311
             // 
-            this.bttn0311.Location = new System.Drawing.Point(114, 132);
+            this.bttn0311.Location = new System.Drawing.Point(111, 131);
             this.bttn0311.Name = "bttn0311";
             this.bttn0311.Size = new System.Drawing.Size(25, 25);
             this.bttn0311.TabIndex = 59;
@@ -1290,7 +1290,7 @@ namespace Games
             // 
             // bttn0111
             // 
-            this.bttn0111.Location = new System.Drawing.Point(68, 132);
+            this.bttn0111.Location = new System.Drawing.Point(65, 131);
             this.bttn0111.Name = "bttn0111";
             this.bttn0111.Size = new System.Drawing.Size(25, 25);
             this.bttn0111.TabIndex = 58;
@@ -1299,7 +1299,7 @@ namespace Games
             // 
             // bttn0011
             // 
-            this.bttn0011.Location = new System.Drawing.Point(45, 132);
+            this.bttn0011.Location = new System.Drawing.Point(42, 131);
             this.bttn0011.Name = "bttn0011";
             this.bttn0011.Size = new System.Drawing.Size(25, 25);
             this.bttn0011.TabIndex = 57;
@@ -1308,7 +1308,7 @@ namespace Games
             // 
             // bttn1303
             // 
-            this.bttn1303.Location = new System.Drawing.Point(340, 311);
+            this.bttn1303.Location = new System.Drawing.Point(337, 310);
             this.bttn1303.Name = "bttn1303";
             this.bttn1303.Size = new System.Drawing.Size(25, 25);
             this.bttn1303.TabIndex = 182;
@@ -1317,7 +1317,7 @@ namespace Games
             // 
             // bttn1203
             // 
-            this.bttn1203.Location = new System.Drawing.Point(317, 311);
+            this.bttn1203.Location = new System.Drawing.Point(314, 310);
             this.bttn1203.Name = "bttn1203";
             this.bttn1203.Size = new System.Drawing.Size(25, 25);
             this.bttn1203.TabIndex = 181;
@@ -1326,7 +1326,7 @@ namespace Games
             // 
             // bttn1103
             // 
-            this.bttn1103.Location = new System.Drawing.Point(294, 311);
+            this.bttn1103.Location = new System.Drawing.Point(291, 310);
             this.bttn1103.Name = "bttn1103";
             this.bttn1103.Size = new System.Drawing.Size(25, 25);
             this.bttn1103.TabIndex = 180;
@@ -1335,7 +1335,7 @@ namespace Games
             // 
             // bttn1003
             // 
-            this.bttn1003.Location = new System.Drawing.Point(271, 311);
+            this.bttn1003.Location = new System.Drawing.Point(268, 310);
             this.bttn1003.Name = "bttn1003";
             this.bttn1003.Size = new System.Drawing.Size(25, 25);
             this.bttn1003.TabIndex = 179;
@@ -1344,7 +1344,7 @@ namespace Games
             // 
             // bttn0903
             // 
-            this.bttn0903.Location = new System.Drawing.Point(248, 311);
+            this.bttn0903.Location = new System.Drawing.Point(245, 310);
             this.bttn0903.Name = "bttn0903";
             this.bttn0903.Size = new System.Drawing.Size(25, 25);
             this.bttn0903.TabIndex = 178;
@@ -1353,7 +1353,7 @@ namespace Games
             // 
             // bttn0803
             // 
-            this.bttn0803.Location = new System.Drawing.Point(225, 311);
+            this.bttn0803.Location = new System.Drawing.Point(222, 310);
             this.bttn0803.Name = "bttn0803";
             this.bttn0803.Size = new System.Drawing.Size(25, 25);
             this.bttn0803.TabIndex = 177;
@@ -1362,7 +1362,7 @@ namespace Games
             // 
             // bttn0703
             // 
-            this.bttn0703.Location = new System.Drawing.Point(202, 311);
+            this.bttn0703.Location = new System.Drawing.Point(199, 310);
             this.bttn0703.Name = "bttn0703";
             this.bttn0703.Size = new System.Drawing.Size(25, 25);
             this.bttn0703.TabIndex = 176;
@@ -1371,7 +1371,7 @@ namespace Games
             // 
             // bttn0603
             // 
-            this.bttn0603.Location = new System.Drawing.Point(179, 311);
+            this.bttn0603.Location = new System.Drawing.Point(176, 310);
             this.bttn0603.Name = "bttn0603";
             this.bttn0603.Size = new System.Drawing.Size(25, 25);
             this.bttn0603.TabIndex = 175;
@@ -1380,7 +1380,7 @@ namespace Games
             // 
             // bttn0503
             // 
-            this.bttn0503.Location = new System.Drawing.Point(156, 311);
+            this.bttn0503.Location = new System.Drawing.Point(153, 310);
             this.bttn0503.Name = "bttn0503";
             this.bttn0503.Size = new System.Drawing.Size(25, 25);
             this.bttn0503.TabIndex = 174;
@@ -1389,7 +1389,7 @@ namespace Games
             // 
             // bttn0203
             // 
-            this.bttn0203.Location = new System.Drawing.Point(91, 311);
+            this.bttn0203.Location = new System.Drawing.Point(88, 310);
             this.bttn0203.Name = "bttn0203";
             this.bttn0203.Size = new System.Drawing.Size(25, 25);
             this.bttn0203.TabIndex = 173;
@@ -1398,7 +1398,7 @@ namespace Games
             // 
             // bttn0403
             // 
-            this.bttn0403.Location = new System.Drawing.Point(135, 311);
+            this.bttn0403.Location = new System.Drawing.Point(132, 310);
             this.bttn0403.Name = "bttn0403";
             this.bttn0403.Size = new System.Drawing.Size(25, 25);
             this.bttn0403.TabIndex = 172;
@@ -1407,7 +1407,7 @@ namespace Games
             // 
             // bttn0303
             // 
-            this.bttn0303.Location = new System.Drawing.Point(114, 311);
+            this.bttn0303.Location = new System.Drawing.Point(111, 310);
             this.bttn0303.Name = "bttn0303";
             this.bttn0303.Size = new System.Drawing.Size(25, 25);
             this.bttn0303.TabIndex = 171;
@@ -1416,7 +1416,7 @@ namespace Games
             // 
             // bttn0103
             // 
-            this.bttn0103.Location = new System.Drawing.Point(68, 311);
+            this.bttn0103.Location = new System.Drawing.Point(65, 310);
             this.bttn0103.Name = "bttn0103";
             this.bttn0103.Size = new System.Drawing.Size(25, 25);
             this.bttn0103.TabIndex = 170;
@@ -1425,7 +1425,7 @@ namespace Games
             // 
             // bttn0003
             // 
-            this.bttn0003.Location = new System.Drawing.Point(45, 311);
+            this.bttn0003.Location = new System.Drawing.Point(42, 310);
             this.bttn0003.Name = "bttn0003";
             this.bttn0003.Size = new System.Drawing.Size(25, 25);
             this.bttn0003.TabIndex = 169;
@@ -1434,7 +1434,7 @@ namespace Games
             // 
             // bttn1304
             // 
-            this.bttn1304.Location = new System.Drawing.Point(340, 289);
+            this.bttn1304.Location = new System.Drawing.Point(337, 288);
             this.bttn1304.Name = "bttn1304";
             this.bttn1304.Size = new System.Drawing.Size(25, 25);
             this.bttn1304.TabIndex = 168;
@@ -1443,7 +1443,7 @@ namespace Games
             // 
             // bttn1204
             // 
-            this.bttn1204.Location = new System.Drawing.Point(317, 289);
+            this.bttn1204.Location = new System.Drawing.Point(314, 288);
             this.bttn1204.Name = "bttn1204";
             this.bttn1204.Size = new System.Drawing.Size(25, 25);
             this.bttn1204.TabIndex = 167;
@@ -1452,7 +1452,7 @@ namespace Games
             // 
             // bttn1104
             // 
-            this.bttn1104.Location = new System.Drawing.Point(294, 289);
+            this.bttn1104.Location = new System.Drawing.Point(291, 288);
             this.bttn1104.Name = "bttn1104";
             this.bttn1104.Size = new System.Drawing.Size(25, 25);
             this.bttn1104.TabIndex = 166;
@@ -1461,7 +1461,7 @@ namespace Games
             // 
             // bttn1004
             // 
-            this.bttn1004.Location = new System.Drawing.Point(271, 289);
+            this.bttn1004.Location = new System.Drawing.Point(268, 288);
             this.bttn1004.Name = "bttn1004";
             this.bttn1004.Size = new System.Drawing.Size(25, 25);
             this.bttn1004.TabIndex = 165;
@@ -1470,7 +1470,7 @@ namespace Games
             // 
             // bttn0904
             // 
-            this.bttn0904.Location = new System.Drawing.Point(248, 289);
+            this.bttn0904.Location = new System.Drawing.Point(245, 288);
             this.bttn0904.Name = "bttn0904";
             this.bttn0904.Size = new System.Drawing.Size(25, 25);
             this.bttn0904.TabIndex = 164;
@@ -1479,7 +1479,7 @@ namespace Games
             // 
             // bttn0804
             // 
-            this.bttn0804.Location = new System.Drawing.Point(225, 289);
+            this.bttn0804.Location = new System.Drawing.Point(222, 288);
             this.bttn0804.Name = "bttn0804";
             this.bttn0804.Size = new System.Drawing.Size(25, 25);
             this.bttn0804.TabIndex = 163;
@@ -1488,7 +1488,7 @@ namespace Games
             // 
             // bttn0704
             // 
-            this.bttn0704.Location = new System.Drawing.Point(202, 289);
+            this.bttn0704.Location = new System.Drawing.Point(199, 288);
             this.bttn0704.Name = "bttn0704";
             this.bttn0704.Size = new System.Drawing.Size(25, 25);
             this.bttn0704.TabIndex = 162;
@@ -1497,7 +1497,7 @@ namespace Games
             // 
             // bttn0604
             // 
-            this.bttn0604.Location = new System.Drawing.Point(179, 289);
+            this.bttn0604.Location = new System.Drawing.Point(176, 288);
             this.bttn0604.Name = "bttn0604";
             this.bttn0604.Size = new System.Drawing.Size(25, 25);
             this.bttn0604.TabIndex = 161;
@@ -1506,7 +1506,7 @@ namespace Games
             // 
             // bttn0504
             // 
-            this.bttn0504.Location = new System.Drawing.Point(156, 289);
+            this.bttn0504.Location = new System.Drawing.Point(153, 288);
             this.bttn0504.Name = "bttn0504";
             this.bttn0504.Size = new System.Drawing.Size(25, 25);
             this.bttn0504.TabIndex = 160;
@@ -1515,7 +1515,7 @@ namespace Games
             // 
             // bttn0204
             // 
-            this.bttn0204.Location = new System.Drawing.Point(91, 289);
+            this.bttn0204.Location = new System.Drawing.Point(88, 288);
             this.bttn0204.Name = "bttn0204";
             this.bttn0204.Size = new System.Drawing.Size(25, 25);
             this.bttn0204.TabIndex = 159;
@@ -1524,7 +1524,7 @@ namespace Games
             // 
             // bttn0404
             // 
-            this.bttn0404.Location = new System.Drawing.Point(135, 289);
+            this.bttn0404.Location = new System.Drawing.Point(132, 288);
             this.bttn0404.Name = "bttn0404";
             this.bttn0404.Size = new System.Drawing.Size(25, 25);
             this.bttn0404.TabIndex = 158;
@@ -1533,7 +1533,7 @@ namespace Games
             // 
             // bttn0304
             // 
-            this.bttn0304.Location = new System.Drawing.Point(114, 289);
+            this.bttn0304.Location = new System.Drawing.Point(111, 288);
             this.bttn0304.Name = "bttn0304";
             this.bttn0304.Size = new System.Drawing.Size(25, 25);
             this.bttn0304.TabIndex = 157;
@@ -1542,7 +1542,7 @@ namespace Games
             // 
             // bttn0104
             // 
-            this.bttn0104.Location = new System.Drawing.Point(68, 289);
+            this.bttn0104.Location = new System.Drawing.Point(65, 288);
             this.bttn0104.Name = "bttn0104";
             this.bttn0104.Size = new System.Drawing.Size(25, 25);
             this.bttn0104.TabIndex = 156;
@@ -1551,7 +1551,7 @@ namespace Games
             // 
             // bttn0004
             // 
-            this.bttn0004.Location = new System.Drawing.Point(45, 289);
+            this.bttn0004.Location = new System.Drawing.Point(42, 288);
             this.bttn0004.Name = "bttn0004";
             this.bttn0004.Size = new System.Drawing.Size(25, 25);
             this.bttn0004.TabIndex = 155;
@@ -1560,7 +1560,7 @@ namespace Games
             // 
             // bttn1305
             // 
-            this.bttn1305.Location = new System.Drawing.Point(340, 266);
+            this.bttn1305.Location = new System.Drawing.Point(337, 265);
             this.bttn1305.Name = "bttn1305";
             this.bttn1305.Size = new System.Drawing.Size(25, 25);
             this.bttn1305.TabIndex = 154;
@@ -1569,7 +1569,7 @@ namespace Games
             // 
             // bttn1205
             // 
-            this.bttn1205.Location = new System.Drawing.Point(317, 266);
+            this.bttn1205.Location = new System.Drawing.Point(314, 265);
             this.bttn1205.Name = "bttn1205";
             this.bttn1205.Size = new System.Drawing.Size(25, 25);
             this.bttn1205.TabIndex = 153;
@@ -1578,7 +1578,7 @@ namespace Games
             // 
             // bttn1105
             // 
-            this.bttn1105.Location = new System.Drawing.Point(294, 266);
+            this.bttn1105.Location = new System.Drawing.Point(291, 265);
             this.bttn1105.Name = "bttn1105";
             this.bttn1105.Size = new System.Drawing.Size(25, 25);
             this.bttn1105.TabIndex = 152;
@@ -1587,7 +1587,7 @@ namespace Games
             // 
             // bttn1005
             // 
-            this.bttn1005.Location = new System.Drawing.Point(271, 266);
+            this.bttn1005.Location = new System.Drawing.Point(268, 265);
             this.bttn1005.Name = "bttn1005";
             this.bttn1005.Size = new System.Drawing.Size(25, 25);
             this.bttn1005.TabIndex = 151;
@@ -1596,7 +1596,7 @@ namespace Games
             // 
             // bttn0905
             // 
-            this.bttn0905.Location = new System.Drawing.Point(248, 266);
+            this.bttn0905.Location = new System.Drawing.Point(245, 265);
             this.bttn0905.Name = "bttn0905";
             this.bttn0905.Size = new System.Drawing.Size(25, 25);
             this.bttn0905.TabIndex = 150;
@@ -1605,7 +1605,7 @@ namespace Games
             // 
             // bttn0805
             // 
-            this.bttn0805.Location = new System.Drawing.Point(225, 266);
+            this.bttn0805.Location = new System.Drawing.Point(222, 265);
             this.bttn0805.Name = "bttn0805";
             this.bttn0805.Size = new System.Drawing.Size(25, 25);
             this.bttn0805.TabIndex = 149;
@@ -1614,7 +1614,7 @@ namespace Games
             // 
             // bttn0705
             // 
-            this.bttn0705.Location = new System.Drawing.Point(202, 266);
+            this.bttn0705.Location = new System.Drawing.Point(199, 265);
             this.bttn0705.Name = "bttn0705";
             this.bttn0705.Size = new System.Drawing.Size(25, 25);
             this.bttn0705.TabIndex = 148;
@@ -1623,7 +1623,7 @@ namespace Games
             // 
             // bttn0605
             // 
-            this.bttn0605.Location = new System.Drawing.Point(179, 266);
+            this.bttn0605.Location = new System.Drawing.Point(176, 265);
             this.bttn0605.Name = "bttn0605";
             this.bttn0605.Size = new System.Drawing.Size(25, 25);
             this.bttn0605.TabIndex = 147;
@@ -1632,7 +1632,7 @@ namespace Games
             // 
             // bttn0505
             // 
-            this.bttn0505.Location = new System.Drawing.Point(156, 266);
+            this.bttn0505.Location = new System.Drawing.Point(153, 265);
             this.bttn0505.Name = "bttn0505";
             this.bttn0505.Size = new System.Drawing.Size(25, 25);
             this.bttn0505.TabIndex = 146;
@@ -1641,7 +1641,7 @@ namespace Games
             // 
             // bttn0205
             // 
-            this.bttn0205.Location = new System.Drawing.Point(91, 266);
+            this.bttn0205.Location = new System.Drawing.Point(88, 265);
             this.bttn0205.Name = "bttn0205";
             this.bttn0205.Size = new System.Drawing.Size(25, 25);
             this.bttn0205.TabIndex = 145;
@@ -1650,7 +1650,7 @@ namespace Games
             // 
             // bttn0405
             // 
-            this.bttn0405.Location = new System.Drawing.Point(135, 266);
+            this.bttn0405.Location = new System.Drawing.Point(132, 265);
             this.bttn0405.Name = "bttn0405";
             this.bttn0405.Size = new System.Drawing.Size(25, 25);
             this.bttn0405.TabIndex = 144;
@@ -1659,7 +1659,7 @@ namespace Games
             // 
             // bttn0305
             // 
-            this.bttn0305.Location = new System.Drawing.Point(114, 266);
+            this.bttn0305.Location = new System.Drawing.Point(111, 265);
             this.bttn0305.Name = "bttn0305";
             this.bttn0305.Size = new System.Drawing.Size(25, 25);
             this.bttn0305.TabIndex = 143;
@@ -1668,7 +1668,7 @@ namespace Games
             // 
             // bttn0105
             // 
-            this.bttn0105.Location = new System.Drawing.Point(68, 266);
+            this.bttn0105.Location = new System.Drawing.Point(65, 265);
             this.bttn0105.Name = "bttn0105";
             this.bttn0105.Size = new System.Drawing.Size(25, 25);
             this.bttn0105.TabIndex = 142;
@@ -1677,7 +1677,7 @@ namespace Games
             // 
             // bttn0005
             // 
-            this.bttn0005.Location = new System.Drawing.Point(45, 266);
+            this.bttn0005.Location = new System.Drawing.Point(42, 265);
             this.bttn0005.Name = "bttn0005";
             this.bttn0005.Size = new System.Drawing.Size(25, 25);
             this.bttn0005.TabIndex = 141;
@@ -1686,7 +1686,7 @@ namespace Games
             // 
             // bttn1306
             // 
-            this.bttn1306.Location = new System.Drawing.Point(340, 244);
+            this.bttn1306.Location = new System.Drawing.Point(337, 243);
             this.bttn1306.Name = "bttn1306";
             this.bttn1306.Size = new System.Drawing.Size(25, 25);
             this.bttn1306.TabIndex = 140;
@@ -1695,7 +1695,7 @@ namespace Games
             // 
             // bttn1206
             // 
-            this.bttn1206.Location = new System.Drawing.Point(317, 244);
+            this.bttn1206.Location = new System.Drawing.Point(314, 243);
             this.bttn1206.Name = "bttn1206";
             this.bttn1206.Size = new System.Drawing.Size(25, 25);
             this.bttn1206.TabIndex = 139;
@@ -1704,7 +1704,7 @@ namespace Games
             // 
             // bttn1106
             // 
-            this.bttn1106.Location = new System.Drawing.Point(294, 244);
+            this.bttn1106.Location = new System.Drawing.Point(291, 243);
             this.bttn1106.Name = "bttn1106";
             this.bttn1106.Size = new System.Drawing.Size(25, 25);
             this.bttn1106.TabIndex = 138;
@@ -1713,7 +1713,7 @@ namespace Games
             // 
             // bttn1006
             // 
-            this.bttn1006.Location = new System.Drawing.Point(271, 244);
+            this.bttn1006.Location = new System.Drawing.Point(268, 243);
             this.bttn1006.Name = "bttn1006";
             this.bttn1006.Size = new System.Drawing.Size(25, 25);
             this.bttn1006.TabIndex = 137;
@@ -1722,7 +1722,7 @@ namespace Games
             // 
             // bttn0906
             // 
-            this.bttn0906.Location = new System.Drawing.Point(248, 244);
+            this.bttn0906.Location = new System.Drawing.Point(245, 243);
             this.bttn0906.Name = "bttn0906";
             this.bttn0906.Size = new System.Drawing.Size(25, 25);
             this.bttn0906.TabIndex = 136;
@@ -1731,7 +1731,7 @@ namespace Games
             // 
             // bttn0806
             // 
-            this.bttn0806.Location = new System.Drawing.Point(225, 244);
+            this.bttn0806.Location = new System.Drawing.Point(222, 243);
             this.bttn0806.Name = "bttn0806";
             this.bttn0806.Size = new System.Drawing.Size(25, 25);
             this.bttn0806.TabIndex = 135;
@@ -1740,7 +1740,7 @@ namespace Games
             // 
             // bttn0706
             // 
-            this.bttn0706.Location = new System.Drawing.Point(202, 244);
+            this.bttn0706.Location = new System.Drawing.Point(199, 243);
             this.bttn0706.Name = "bttn0706";
             this.bttn0706.Size = new System.Drawing.Size(25, 25);
             this.bttn0706.TabIndex = 134;
@@ -1749,7 +1749,7 @@ namespace Games
             // 
             // bttn0606
             // 
-            this.bttn0606.Location = new System.Drawing.Point(179, 244);
+            this.bttn0606.Location = new System.Drawing.Point(176, 243);
             this.bttn0606.Name = "bttn0606";
             this.bttn0606.Size = new System.Drawing.Size(25, 25);
             this.bttn0606.TabIndex = 133;
@@ -1758,7 +1758,7 @@ namespace Games
             // 
             // bttn0506
             // 
-            this.bttn0506.Location = new System.Drawing.Point(156, 244);
+            this.bttn0506.Location = new System.Drawing.Point(153, 243);
             this.bttn0506.Name = "bttn0506";
             this.bttn0506.Size = new System.Drawing.Size(25, 25);
             this.bttn0506.TabIndex = 132;
@@ -1767,7 +1767,7 @@ namespace Games
             // 
             // bttn0206
             // 
-            this.bttn0206.Location = new System.Drawing.Point(91, 244);
+            this.bttn0206.Location = new System.Drawing.Point(88, 243);
             this.bttn0206.Name = "bttn0206";
             this.bttn0206.Size = new System.Drawing.Size(25, 25);
             this.bttn0206.TabIndex = 131;
@@ -1776,7 +1776,7 @@ namespace Games
             // 
             // bttn0406
             // 
-            this.bttn0406.Location = new System.Drawing.Point(135, 244);
+            this.bttn0406.Location = new System.Drawing.Point(132, 243);
             this.bttn0406.Name = "bttn0406";
             this.bttn0406.Size = new System.Drawing.Size(25, 25);
             this.bttn0406.TabIndex = 130;
@@ -1785,7 +1785,7 @@ namespace Games
             // 
             // bttn0306
             // 
-            this.bttn0306.Location = new System.Drawing.Point(114, 244);
+            this.bttn0306.Location = new System.Drawing.Point(111, 243);
             this.bttn0306.Name = "bttn0306";
             this.bttn0306.Size = new System.Drawing.Size(25, 25);
             this.bttn0306.TabIndex = 129;
@@ -1794,7 +1794,7 @@ namespace Games
             // 
             // bttn0106
             // 
-            this.bttn0106.Location = new System.Drawing.Point(68, 244);
+            this.bttn0106.Location = new System.Drawing.Point(65, 243);
             this.bttn0106.Name = "bttn0106";
             this.bttn0106.Size = new System.Drawing.Size(25, 25);
             this.bttn0106.TabIndex = 128;
@@ -1803,7 +1803,7 @@ namespace Games
             // 
             // bttn0006
             // 
-            this.bttn0006.Location = new System.Drawing.Point(45, 244);
+            this.bttn0006.Location = new System.Drawing.Point(42, 243);
             this.bttn0006.Name = "bttn0006";
             this.bttn0006.Size = new System.Drawing.Size(25, 25);
             this.bttn0006.TabIndex = 127;
@@ -1812,7 +1812,7 @@ namespace Games
             // 
             // bttn1307
             // 
-            this.bttn1307.Location = new System.Drawing.Point(340, 222);
+            this.bttn1307.Location = new System.Drawing.Point(337, 221);
             this.bttn1307.Name = "bttn1307";
             this.bttn1307.Size = new System.Drawing.Size(25, 25);
             this.bttn1307.TabIndex = 126;
@@ -1821,7 +1821,7 @@ namespace Games
             // 
             // bttn1207
             // 
-            this.bttn1207.Location = new System.Drawing.Point(317, 222);
+            this.bttn1207.Location = new System.Drawing.Point(314, 221);
             this.bttn1207.Name = "bttn1207";
             this.bttn1207.Size = new System.Drawing.Size(25, 25);
             this.bttn1207.TabIndex = 125;
@@ -1830,7 +1830,7 @@ namespace Games
             // 
             // bttn1107
             // 
-            this.bttn1107.Location = new System.Drawing.Point(294, 222);
+            this.bttn1107.Location = new System.Drawing.Point(291, 221);
             this.bttn1107.Name = "bttn1107";
             this.bttn1107.Size = new System.Drawing.Size(25, 25);
             this.bttn1107.TabIndex = 124;
@@ -1839,7 +1839,7 @@ namespace Games
             // 
             // bttn1007
             // 
-            this.bttn1007.Location = new System.Drawing.Point(271, 222);
+            this.bttn1007.Location = new System.Drawing.Point(268, 221);
             this.bttn1007.Name = "bttn1007";
             this.bttn1007.Size = new System.Drawing.Size(25, 25);
             this.bttn1007.TabIndex = 123;
@@ -1848,7 +1848,7 @@ namespace Games
             // 
             // bttn0907
             // 
-            this.bttn0907.Location = new System.Drawing.Point(248, 222);
+            this.bttn0907.Location = new System.Drawing.Point(245, 221);
             this.bttn0907.Name = "bttn0907";
             this.bttn0907.Size = new System.Drawing.Size(25, 25);
             this.bttn0907.TabIndex = 122;
@@ -1857,7 +1857,7 @@ namespace Games
             // 
             // bttn0807
             // 
-            this.bttn0807.Location = new System.Drawing.Point(225, 222);
+            this.bttn0807.Location = new System.Drawing.Point(222, 221);
             this.bttn0807.Name = "bttn0807";
             this.bttn0807.Size = new System.Drawing.Size(25, 25);
             this.bttn0807.TabIndex = 121;
@@ -1866,7 +1866,7 @@ namespace Games
             // 
             // bttn0707
             // 
-            this.bttn0707.Location = new System.Drawing.Point(202, 222);
+            this.bttn0707.Location = new System.Drawing.Point(199, 221);
             this.bttn0707.Name = "bttn0707";
             this.bttn0707.Size = new System.Drawing.Size(25, 25);
             this.bttn0707.TabIndex = 120;
@@ -1875,7 +1875,7 @@ namespace Games
             // 
             // bttn0607
             // 
-            this.bttn0607.Location = new System.Drawing.Point(179, 222);
+            this.bttn0607.Location = new System.Drawing.Point(176, 221);
             this.bttn0607.Name = "bttn0607";
             this.bttn0607.Size = new System.Drawing.Size(25, 25);
             this.bttn0607.TabIndex = 119;
@@ -1884,7 +1884,7 @@ namespace Games
             // 
             // bttn0507
             // 
-            this.bttn0507.Location = new System.Drawing.Point(156, 222);
+            this.bttn0507.Location = new System.Drawing.Point(153, 221);
             this.bttn0507.Name = "bttn0507";
             this.bttn0507.Size = new System.Drawing.Size(25, 25);
             this.bttn0507.TabIndex = 118;
@@ -1893,7 +1893,7 @@ namespace Games
             // 
             // bttn0207
             // 
-            this.bttn0207.Location = new System.Drawing.Point(91, 222);
+            this.bttn0207.Location = new System.Drawing.Point(88, 221);
             this.bttn0207.Name = "bttn0207";
             this.bttn0207.Size = new System.Drawing.Size(25, 25);
             this.bttn0207.TabIndex = 117;
@@ -1902,7 +1902,7 @@ namespace Games
             // 
             // bttn0407
             // 
-            this.bttn0407.Location = new System.Drawing.Point(135, 222);
+            this.bttn0407.Location = new System.Drawing.Point(132, 221);
             this.bttn0407.Name = "bttn0407";
             this.bttn0407.Size = new System.Drawing.Size(25, 25);
             this.bttn0407.TabIndex = 116;
@@ -1911,7 +1911,7 @@ namespace Games
             // 
             // bttn0307
             // 
-            this.bttn0307.Location = new System.Drawing.Point(114, 222);
+            this.bttn0307.Location = new System.Drawing.Point(111, 221);
             this.bttn0307.Name = "bttn0307";
             this.bttn0307.Size = new System.Drawing.Size(25, 25);
             this.bttn0307.TabIndex = 115;
@@ -1920,7 +1920,7 @@ namespace Games
             // 
             // bttn0107
             // 
-            this.bttn0107.Location = new System.Drawing.Point(68, 222);
+            this.bttn0107.Location = new System.Drawing.Point(65, 221);
             this.bttn0107.Name = "bttn0107";
             this.bttn0107.Size = new System.Drawing.Size(25, 25);
             this.bttn0107.TabIndex = 114;
@@ -1929,7 +1929,7 @@ namespace Games
             // 
             // bttn0007
             // 
-            this.bttn0007.Location = new System.Drawing.Point(45, 222);
+            this.bttn0007.Location = new System.Drawing.Point(42, 221);
             this.bttn0007.Name = "bttn0007";
             this.bttn0007.Size = new System.Drawing.Size(25, 25);
             this.bttn0007.TabIndex = 113;
@@ -1938,7 +1938,7 @@ namespace Games
             // 
             // bttn1503
             // 
-            this.bttn1503.Location = new System.Drawing.Point(386, 311);
+            this.bttn1503.Location = new System.Drawing.Point(383, 310);
             this.bttn1503.Name = "bttn1503";
             this.bttn1503.Size = new System.Drawing.Size(25, 25);
             this.bttn1503.TabIndex = 208;
@@ -1947,7 +1947,7 @@ namespace Games
             // 
             // bttn1403
             // 
-            this.bttn1403.Location = new System.Drawing.Point(363, 311);
+            this.bttn1403.Location = new System.Drawing.Point(360, 310);
             this.bttn1403.Name = "bttn1403";
             this.bttn1403.Size = new System.Drawing.Size(25, 25);
             this.bttn1403.TabIndex = 207;
@@ -1956,7 +1956,7 @@ namespace Games
             // 
             // bttn1504
             // 
-            this.bttn1504.Location = new System.Drawing.Point(386, 289);
+            this.bttn1504.Location = new System.Drawing.Point(383, 288);
             this.bttn1504.Name = "bttn1504";
             this.bttn1504.Size = new System.Drawing.Size(25, 25);
             this.bttn1504.TabIndex = 206;
@@ -1965,7 +1965,7 @@ namespace Games
             // 
             // bttn1404
             // 
-            this.bttn1404.Location = new System.Drawing.Point(363, 289);
+            this.bttn1404.Location = new System.Drawing.Point(360, 288);
             this.bttn1404.Name = "bttn1404";
             this.bttn1404.Size = new System.Drawing.Size(25, 25);
             this.bttn1404.TabIndex = 205;
@@ -1974,7 +1974,7 @@ namespace Games
             // 
             // bttn1505
             // 
-            this.bttn1505.Location = new System.Drawing.Point(386, 266);
+            this.bttn1505.Location = new System.Drawing.Point(383, 265);
             this.bttn1505.Name = "bttn1505";
             this.bttn1505.Size = new System.Drawing.Size(25, 25);
             this.bttn1505.TabIndex = 204;
@@ -1983,7 +1983,7 @@ namespace Games
             // 
             // bttn1405
             // 
-            this.bttn1405.Location = new System.Drawing.Point(363, 266);
+            this.bttn1405.Location = new System.Drawing.Point(360, 265);
             this.bttn1405.Name = "bttn1405";
             this.bttn1405.Size = new System.Drawing.Size(25, 25);
             this.bttn1405.TabIndex = 203;
@@ -1992,7 +1992,7 @@ namespace Games
             // 
             // bttn1506
             // 
-            this.bttn1506.Location = new System.Drawing.Point(386, 244);
+            this.bttn1506.Location = new System.Drawing.Point(383, 243);
             this.bttn1506.Name = "bttn1506";
             this.bttn1506.Size = new System.Drawing.Size(25, 25);
             this.bttn1506.TabIndex = 202;
@@ -2001,7 +2001,7 @@ namespace Games
             // 
             // bttn1406
             // 
-            this.bttn1406.Location = new System.Drawing.Point(363, 244);
+            this.bttn1406.Location = new System.Drawing.Point(360, 243);
             this.bttn1406.Name = "bttn1406";
             this.bttn1406.Size = new System.Drawing.Size(25, 25);
             this.bttn1406.TabIndex = 201;
@@ -2010,7 +2010,7 @@ namespace Games
             // 
             // bttn1507
             // 
-            this.bttn1507.Location = new System.Drawing.Point(386, 222);
+            this.bttn1507.Location = new System.Drawing.Point(383, 221);
             this.bttn1507.Name = "bttn1507";
             this.bttn1507.Size = new System.Drawing.Size(25, 25);
             this.bttn1507.TabIndex = 200;
@@ -2019,7 +2019,7 @@ namespace Games
             // 
             // bttn1407
             // 
-            this.bttn1407.Location = new System.Drawing.Point(363, 222);
+            this.bttn1407.Location = new System.Drawing.Point(360, 221);
             this.bttn1407.Name = "bttn1407";
             this.bttn1407.Size = new System.Drawing.Size(25, 25);
             this.bttn1407.TabIndex = 199;
@@ -2028,7 +2028,7 @@ namespace Games
             // 
             // bttn1508
             // 
-            this.bttn1508.Location = new System.Drawing.Point(386, 199);
+            this.bttn1508.Location = new System.Drawing.Point(383, 198);
             this.bttn1508.Name = "bttn1508";
             this.bttn1508.Size = new System.Drawing.Size(25, 25);
             this.bttn1508.TabIndex = 198;
@@ -2037,7 +2037,7 @@ namespace Games
             // 
             // bttn1408
             // 
-            this.bttn1408.Location = new System.Drawing.Point(363, 199);
+            this.bttn1408.Location = new System.Drawing.Point(360, 198);
             this.bttn1408.Name = "bttn1408";
             this.bttn1408.Size = new System.Drawing.Size(25, 25);
             this.bttn1408.TabIndex = 197;
@@ -2046,7 +2046,7 @@ namespace Games
             // 
             // bttn1509
             // 
-            this.bttn1509.Location = new System.Drawing.Point(386, 177);
+            this.bttn1509.Location = new System.Drawing.Point(383, 176);
             this.bttn1509.Name = "bttn1509";
             this.bttn1509.Size = new System.Drawing.Size(25, 25);
             this.bttn1509.TabIndex = 196;
@@ -2055,7 +2055,7 @@ namespace Games
             // 
             // bttn1409
             // 
-            this.bttn1409.Location = new System.Drawing.Point(363, 177);
+            this.bttn1409.Location = new System.Drawing.Point(360, 176);
             this.bttn1409.Name = "bttn1409";
             this.bttn1409.Size = new System.Drawing.Size(25, 25);
             this.bttn1409.TabIndex = 195;
@@ -2064,7 +2064,7 @@ namespace Games
             // 
             // bttn1510
             // 
-            this.bttn1510.Location = new System.Drawing.Point(386, 154);
+            this.bttn1510.Location = new System.Drawing.Point(383, 153);
             this.bttn1510.Name = "bttn1510";
             this.bttn1510.Size = new System.Drawing.Size(25, 25);
             this.bttn1510.TabIndex = 194;
@@ -2073,7 +2073,7 @@ namespace Games
             // 
             // bttn1410
             // 
-            this.bttn1410.Location = new System.Drawing.Point(363, 154);
+            this.bttn1410.Location = new System.Drawing.Point(360, 153);
             this.bttn1410.Name = "bttn1410";
             this.bttn1410.Size = new System.Drawing.Size(25, 25);
             this.bttn1410.TabIndex = 193;
@@ -2082,7 +2082,7 @@ namespace Games
             // 
             // bttn1511
             // 
-            this.bttn1511.Location = new System.Drawing.Point(386, 132);
+            this.bttn1511.Location = new System.Drawing.Point(383, 131);
             this.bttn1511.Name = "bttn1511";
             this.bttn1511.Size = new System.Drawing.Size(25, 25);
             this.bttn1511.TabIndex = 192;
@@ -2091,7 +2091,7 @@ namespace Games
             // 
             // bttn1411
             // 
-            this.bttn1411.Location = new System.Drawing.Point(363, 132);
+            this.bttn1411.Location = new System.Drawing.Point(360, 131);
             this.bttn1411.Name = "bttn1411";
             this.bttn1411.Size = new System.Drawing.Size(25, 25);
             this.bttn1411.TabIndex = 191;
@@ -2100,7 +2100,7 @@ namespace Games
             // 
             // bttn1512
             // 
-            this.bttn1512.Location = new System.Drawing.Point(386, 110);
+            this.bttn1512.Location = new System.Drawing.Point(383, 109);
             this.bttn1512.Name = "bttn1512";
             this.bttn1512.Size = new System.Drawing.Size(25, 25);
             this.bttn1512.TabIndex = 190;
@@ -2109,7 +2109,7 @@ namespace Games
             // 
             // bttn1412
             // 
-            this.bttn1412.Location = new System.Drawing.Point(363, 110);
+            this.bttn1412.Location = new System.Drawing.Point(360, 109);
             this.bttn1412.Name = "bttn1412";
             this.bttn1412.Size = new System.Drawing.Size(25, 25);
             this.bttn1412.TabIndex = 189;
@@ -2118,7 +2118,7 @@ namespace Games
             // 
             // bttn1513
             // 
-            this.bttn1513.Location = new System.Drawing.Point(386, 88);
+            this.bttn1513.Location = new System.Drawing.Point(383, 87);
             this.bttn1513.Name = "bttn1513";
             this.bttn1513.Size = new System.Drawing.Size(25, 25);
             this.bttn1513.TabIndex = 188;
@@ -2127,7 +2127,7 @@ namespace Games
             // 
             // bttn1413
             // 
-            this.bttn1413.Location = new System.Drawing.Point(363, 88);
+            this.bttn1413.Location = new System.Drawing.Point(360, 87);
             this.bttn1413.Name = "bttn1413";
             this.bttn1413.Size = new System.Drawing.Size(25, 25);
             this.bttn1413.TabIndex = 187;
@@ -2136,7 +2136,7 @@ namespace Games
             // 
             // bttn1514
             // 
-            this.bttn1514.Location = new System.Drawing.Point(386, 65);
+            this.bttn1514.Location = new System.Drawing.Point(383, 64);
             this.bttn1514.Name = "bttn1514";
             this.bttn1514.Size = new System.Drawing.Size(25, 25);
             this.bttn1514.TabIndex = 186;
@@ -2145,7 +2145,7 @@ namespace Games
             // 
             // bttn1414
             // 
-            this.bttn1414.Location = new System.Drawing.Point(363, 65);
+            this.bttn1414.Location = new System.Drawing.Point(360, 64);
             this.bttn1414.Name = "bttn1414";
             this.bttn1414.Size = new System.Drawing.Size(25, 25);
             this.bttn1414.TabIndex = 185;
@@ -2154,7 +2154,7 @@ namespace Games
             // 
             // bttn1515
             // 
-            this.bttn1515.Location = new System.Drawing.Point(386, 43);
+            this.bttn1515.Location = new System.Drawing.Point(383, 42);
             this.bttn1515.Name = "bttn1515";
             this.bttn1515.Size = new System.Drawing.Size(25, 25);
             this.bttn1515.TabIndex = 184;
@@ -2163,7 +2163,7 @@ namespace Games
             // 
             // bttn1415
             // 
-            this.bttn1415.Location = new System.Drawing.Point(363, 43);
+            this.bttn1415.Location = new System.Drawing.Point(360, 42);
             this.bttn1415.Name = "bttn1415";
             this.bttn1415.Size = new System.Drawing.Size(25, 25);
             this.bttn1415.TabIndex = 183;
@@ -2172,7 +2172,7 @@ namespace Games
             // 
             // bttn1500
             // 
-            this.bttn1500.Location = new System.Drawing.Point(386, 378);
+            this.bttn1500.Location = new System.Drawing.Point(383, 377);
             this.bttn1500.Name = "bttn1500";
             this.bttn1500.Size = new System.Drawing.Size(25, 25);
             this.bttn1500.TabIndex = 256;
@@ -2181,7 +2181,7 @@ namespace Games
             // 
             // bttn1400
             // 
-            this.bttn1400.Location = new System.Drawing.Point(363, 378);
+            this.bttn1400.Location = new System.Drawing.Point(360, 377);
             this.bttn1400.Name = "bttn1400";
             this.bttn1400.Size = new System.Drawing.Size(25, 25);
             this.bttn1400.TabIndex = 255;
@@ -2190,7 +2190,7 @@ namespace Games
             // 
             // bttn1501
             // 
-            this.bttn1501.Location = new System.Drawing.Point(386, 356);
+            this.bttn1501.Location = new System.Drawing.Point(383, 355);
             this.bttn1501.Name = "bttn1501";
             this.bttn1501.Size = new System.Drawing.Size(25, 25);
             this.bttn1501.TabIndex = 254;
@@ -2199,7 +2199,7 @@ namespace Games
             // 
             // bttn1401
             // 
-            this.bttn1401.Location = new System.Drawing.Point(363, 356);
+            this.bttn1401.Location = new System.Drawing.Point(360, 355);
             this.bttn1401.Name = "bttn1401";
             this.bttn1401.Size = new System.Drawing.Size(25, 25);
             this.bttn1401.TabIndex = 253;
@@ -2208,7 +2208,7 @@ namespace Games
             // 
             // bttn1502
             // 
-            this.bttn1502.Location = new System.Drawing.Point(386, 333);
+            this.bttn1502.Location = new System.Drawing.Point(383, 332);
             this.bttn1502.Name = "bttn1502";
             this.bttn1502.Size = new System.Drawing.Size(25, 25);
             this.bttn1502.TabIndex = 252;
@@ -2217,7 +2217,7 @@ namespace Games
             // 
             // bttn1402
             // 
-            this.bttn1402.Location = new System.Drawing.Point(363, 333);
+            this.bttn1402.Location = new System.Drawing.Point(360, 332);
             this.bttn1402.Name = "bttn1402";
             this.bttn1402.Size = new System.Drawing.Size(25, 25);
             this.bttn1402.TabIndex = 251;
@@ -2226,7 +2226,7 @@ namespace Games
             // 
             // bttn1300
             // 
-            this.bttn1300.Location = new System.Drawing.Point(340, 378);
+            this.bttn1300.Location = new System.Drawing.Point(337, 377);
             this.bttn1300.Name = "bttn1300";
             this.bttn1300.Size = new System.Drawing.Size(25, 25);
             this.bttn1300.TabIndex = 250;
@@ -2235,7 +2235,7 @@ namespace Games
             // 
             // bttn1200
             // 
-            this.bttn1200.Location = new System.Drawing.Point(317, 378);
+            this.bttn1200.Location = new System.Drawing.Point(314, 377);
             this.bttn1200.Name = "bttn1200";
             this.bttn1200.Size = new System.Drawing.Size(25, 25);
             this.bttn1200.TabIndex = 249;
@@ -2244,7 +2244,7 @@ namespace Games
             // 
             // bttn1100
             // 
-            this.bttn1100.Location = new System.Drawing.Point(294, 378);
+            this.bttn1100.Location = new System.Drawing.Point(291, 377);
             this.bttn1100.Name = "bttn1100";
             this.bttn1100.Size = new System.Drawing.Size(25, 25);
             this.bttn1100.TabIndex = 248;
@@ -2253,7 +2253,7 @@ namespace Games
             // 
             // bttn1000
             // 
-            this.bttn1000.Location = new System.Drawing.Point(271, 378);
+            this.bttn1000.Location = new System.Drawing.Point(268, 377);
             this.bttn1000.Name = "bttn1000";
             this.bttn1000.Size = new System.Drawing.Size(25, 25);
             this.bttn1000.TabIndex = 247;
@@ -2262,7 +2262,7 @@ namespace Games
             // 
             // bttn0900
             // 
-            this.bttn0900.Location = new System.Drawing.Point(248, 378);
+            this.bttn0900.Location = new System.Drawing.Point(245, 377);
             this.bttn0900.Name = "bttn0900";
             this.bttn0900.Size = new System.Drawing.Size(25, 25);
             this.bttn0900.TabIndex = 246;
@@ -2271,7 +2271,7 @@ namespace Games
             // 
             // bttn0800
             // 
-            this.bttn0800.Location = new System.Drawing.Point(225, 378);
+            this.bttn0800.Location = new System.Drawing.Point(222, 377);
             this.bttn0800.Name = "bttn0800";
             this.bttn0800.Size = new System.Drawing.Size(25, 25);
             this.bttn0800.TabIndex = 245;
@@ -2280,7 +2280,7 @@ namespace Games
             // 
             // bttn0700
             // 
-            this.bttn0700.Location = new System.Drawing.Point(202, 378);
+            this.bttn0700.Location = new System.Drawing.Point(199, 377);
             this.bttn0700.Name = "bttn0700";
             this.bttn0700.Size = new System.Drawing.Size(25, 25);
             this.bttn0700.TabIndex = 244;
@@ -2289,7 +2289,7 @@ namespace Games
             // 
             // bttn0600
             // 
-            this.bttn0600.Location = new System.Drawing.Point(179, 378);
+            this.bttn0600.Location = new System.Drawing.Point(176, 377);
             this.bttn0600.Name = "bttn0600";
             this.bttn0600.Size = new System.Drawing.Size(25, 25);
             this.bttn0600.TabIndex = 243;
@@ -2298,7 +2298,7 @@ namespace Games
             // 
             // bttn0500
             // 
-            this.bttn0500.Location = new System.Drawing.Point(156, 378);
+            this.bttn0500.Location = new System.Drawing.Point(153, 377);
             this.bttn0500.Name = "bttn0500";
             this.bttn0500.Size = new System.Drawing.Size(25, 25);
             this.bttn0500.TabIndex = 242;
@@ -2307,7 +2307,7 @@ namespace Games
             // 
             // bttn0200
             // 
-            this.bttn0200.Location = new System.Drawing.Point(91, 378);
+            this.bttn0200.Location = new System.Drawing.Point(88, 377);
             this.bttn0200.Name = "bttn0200";
             this.bttn0200.Size = new System.Drawing.Size(25, 25);
             this.bttn0200.TabIndex = 241;
@@ -2316,7 +2316,7 @@ namespace Games
             // 
             // bttn0400
             // 
-            this.bttn0400.Location = new System.Drawing.Point(135, 378);
+            this.bttn0400.Location = new System.Drawing.Point(132, 377);
             this.bttn0400.Name = "bttn0400";
             this.bttn0400.Size = new System.Drawing.Size(25, 25);
             this.bttn0400.TabIndex = 240;
@@ -2325,7 +2325,7 @@ namespace Games
             // 
             // bttn0300
             // 
-            this.bttn0300.Location = new System.Drawing.Point(114, 378);
+            this.bttn0300.Location = new System.Drawing.Point(111, 377);
             this.bttn0300.Name = "bttn0300";
             this.bttn0300.Size = new System.Drawing.Size(25, 25);
             this.bttn0300.TabIndex = 239;
@@ -2334,7 +2334,7 @@ namespace Games
             // 
             // bttn0100
             // 
-            this.bttn0100.Location = new System.Drawing.Point(68, 378);
+            this.bttn0100.Location = new System.Drawing.Point(65, 377);
             this.bttn0100.Name = "bttn0100";
             this.bttn0100.Size = new System.Drawing.Size(25, 25);
             this.bttn0100.TabIndex = 238;
@@ -2343,7 +2343,7 @@ namespace Games
             // 
             // bttn0000
             // 
-            this.bttn0000.Location = new System.Drawing.Point(45, 378);
+            this.bttn0000.Location = new System.Drawing.Point(42, 377);
             this.bttn0000.Name = "bttn0000";
             this.bttn0000.Size = new System.Drawing.Size(25, 25);
             this.bttn0000.TabIndex = 237;
@@ -2352,7 +2352,7 @@ namespace Games
             // 
             // bttn1301
             // 
-            this.bttn1301.Location = new System.Drawing.Point(340, 356);
+            this.bttn1301.Location = new System.Drawing.Point(337, 355);
             this.bttn1301.Name = "bttn1301";
             this.bttn1301.Size = new System.Drawing.Size(25, 25);
             this.bttn1301.TabIndex = 236;
@@ -2361,7 +2361,7 @@ namespace Games
             // 
             // bttn1201
             // 
-            this.bttn1201.Location = new System.Drawing.Point(317, 356);
+            this.bttn1201.Location = new System.Drawing.Point(314, 355);
             this.bttn1201.Name = "bttn1201";
             this.bttn1201.Size = new System.Drawing.Size(25, 25);
             this.bttn1201.TabIndex = 235;
@@ -2370,7 +2370,7 @@ namespace Games
             // 
             // bttn1101
             // 
-            this.bttn1101.Location = new System.Drawing.Point(294, 356);
+            this.bttn1101.Location = new System.Drawing.Point(291, 355);
             this.bttn1101.Name = "bttn1101";
             this.bttn1101.Size = new System.Drawing.Size(25, 25);
             this.bttn1101.TabIndex = 234;
@@ -2379,7 +2379,7 @@ namespace Games
             // 
             // bttn1001
             // 
-            this.bttn1001.Location = new System.Drawing.Point(271, 356);
+            this.bttn1001.Location = new System.Drawing.Point(268, 355);
             this.bttn1001.Name = "bttn1001";
             this.bttn1001.Size = new System.Drawing.Size(25, 25);
             this.bttn1001.TabIndex = 233;
@@ -2388,7 +2388,7 @@ namespace Games
             // 
             // bttn0901
             // 
-            this.bttn0901.Location = new System.Drawing.Point(248, 356);
+            this.bttn0901.Location = new System.Drawing.Point(245, 355);
             this.bttn0901.Name = "bttn0901";
             this.bttn0901.Size = new System.Drawing.Size(25, 25);
             this.bttn0901.TabIndex = 232;
@@ -2397,7 +2397,7 @@ namespace Games
             // 
             // bttn0801
             // 
-            this.bttn0801.Location = new System.Drawing.Point(225, 356);
+            this.bttn0801.Location = new System.Drawing.Point(222, 355);
             this.bttn0801.Name = "bttn0801";
             this.bttn0801.Size = new System.Drawing.Size(25, 25);
             this.bttn0801.TabIndex = 231;
@@ -2406,7 +2406,7 @@ namespace Games
             // 
             // bttn0701
             // 
-            this.bttn0701.Location = new System.Drawing.Point(202, 356);
+            this.bttn0701.Location = new System.Drawing.Point(199, 355);
             this.bttn0701.Name = "bttn0701";
             this.bttn0701.Size = new System.Drawing.Size(25, 25);
             this.bttn0701.TabIndex = 230;
@@ -2415,7 +2415,7 @@ namespace Games
             // 
             // bttn0601
             // 
-            this.bttn0601.Location = new System.Drawing.Point(179, 356);
+            this.bttn0601.Location = new System.Drawing.Point(176, 355);
             this.bttn0601.Name = "bttn0601";
             this.bttn0601.Size = new System.Drawing.Size(25, 25);
             this.bttn0601.TabIndex = 229;
@@ -2424,7 +2424,7 @@ namespace Games
             // 
             // bttn0501
             // 
-            this.bttn0501.Location = new System.Drawing.Point(156, 356);
+            this.bttn0501.Location = new System.Drawing.Point(153, 355);
             this.bttn0501.Name = "bttn0501";
             this.bttn0501.Size = new System.Drawing.Size(25, 25);
             this.bttn0501.TabIndex = 228;
@@ -2433,7 +2433,7 @@ namespace Games
             // 
             // bttn0201
             // 
-            this.bttn0201.Location = new System.Drawing.Point(91, 356);
+            this.bttn0201.Location = new System.Drawing.Point(88, 355);
             this.bttn0201.Name = "bttn0201";
             this.bttn0201.Size = new System.Drawing.Size(25, 25);
             this.bttn0201.TabIndex = 227;
@@ -2442,7 +2442,7 @@ namespace Games
             // 
             // bttn0401
             // 
-            this.bttn0401.Location = new System.Drawing.Point(135, 356);
+            this.bttn0401.Location = new System.Drawing.Point(132, 355);
             this.bttn0401.Name = "bttn0401";
             this.bttn0401.Size = new System.Drawing.Size(25, 25);
             this.bttn0401.TabIndex = 226;
@@ -2451,7 +2451,7 @@ namespace Games
             // 
             // bttn0301
             // 
-            this.bttn0301.Location = new System.Drawing.Point(114, 356);
+            this.bttn0301.Location = new System.Drawing.Point(111, 355);
             this.bttn0301.Name = "bttn0301";
             this.bttn0301.Size = new System.Drawing.Size(25, 25);
             this.bttn0301.TabIndex = 225;
@@ -2460,7 +2460,7 @@ namespace Games
             // 
             // bttn0101
             // 
-            this.bttn0101.Location = new System.Drawing.Point(68, 356);
+            this.bttn0101.Location = new System.Drawing.Point(65, 355);
             this.bttn0101.Name = "bttn0101";
             this.bttn0101.Size = new System.Drawing.Size(25, 25);
             this.bttn0101.TabIndex = 224;
@@ -2469,7 +2469,7 @@ namespace Games
             // 
             // bttn0001
             // 
-            this.bttn0001.Location = new System.Drawing.Point(45, 356);
+            this.bttn0001.Location = new System.Drawing.Point(42, 355);
             this.bttn0001.Name = "bttn0001";
             this.bttn0001.Size = new System.Drawing.Size(25, 25);
             this.bttn0001.TabIndex = 223;
@@ -2478,7 +2478,7 @@ namespace Games
             // 
             // bttn1302
             // 
-            this.bttn1302.Location = new System.Drawing.Point(340, 333);
+            this.bttn1302.Location = new System.Drawing.Point(337, 332);
             this.bttn1302.Name = "bttn1302";
             this.bttn1302.Size = new System.Drawing.Size(25, 25);
             this.bttn1302.TabIndex = 222;
@@ -2487,7 +2487,7 @@ namespace Games
             // 
             // bttn1202
             // 
-            this.bttn1202.Location = new System.Drawing.Point(317, 333);
+            this.bttn1202.Location = new System.Drawing.Point(314, 332);
             this.bttn1202.Name = "bttn1202";
             this.bttn1202.Size = new System.Drawing.Size(25, 25);
             this.bttn1202.TabIndex = 221;
@@ -2496,7 +2496,7 @@ namespace Games
             // 
             // bttn1102
             // 
-            this.bttn1102.Location = new System.Drawing.Point(294, 333);
+            this.bttn1102.Location = new System.Drawing.Point(291, 332);
             this.bttn1102.Name = "bttn1102";
             this.bttn1102.Size = new System.Drawing.Size(25, 25);
             this.bttn1102.TabIndex = 220;
@@ -2505,7 +2505,7 @@ namespace Games
             // 
             // bttn1002
             // 
-            this.bttn1002.Location = new System.Drawing.Point(271, 333);
+            this.bttn1002.Location = new System.Drawing.Point(268, 332);
             this.bttn1002.Name = "bttn1002";
             this.bttn1002.Size = new System.Drawing.Size(25, 25);
             this.bttn1002.TabIndex = 219;
@@ -2514,7 +2514,7 @@ namespace Games
             // 
             // bttn0902
             // 
-            this.bttn0902.Location = new System.Drawing.Point(248, 333);
+            this.bttn0902.Location = new System.Drawing.Point(245, 332);
             this.bttn0902.Name = "bttn0902";
             this.bttn0902.Size = new System.Drawing.Size(25, 25);
             this.bttn0902.TabIndex = 218;
@@ -2523,7 +2523,7 @@ namespace Games
             // 
             // bttn0802
             // 
-            this.bttn0802.Location = new System.Drawing.Point(225, 333);
+            this.bttn0802.Location = new System.Drawing.Point(222, 332);
             this.bttn0802.Name = "bttn0802";
             this.bttn0802.Size = new System.Drawing.Size(25, 25);
             this.bttn0802.TabIndex = 217;
@@ -2532,7 +2532,7 @@ namespace Games
             // 
             // bttn0702
             // 
-            this.bttn0702.Location = new System.Drawing.Point(202, 333);
+            this.bttn0702.Location = new System.Drawing.Point(199, 332);
             this.bttn0702.Name = "bttn0702";
             this.bttn0702.Size = new System.Drawing.Size(25, 25);
             this.bttn0702.TabIndex = 216;
@@ -2541,7 +2541,7 @@ namespace Games
             // 
             // bttn0602
             // 
-            this.bttn0602.Location = new System.Drawing.Point(179, 333);
+            this.bttn0602.Location = new System.Drawing.Point(176, 332);
             this.bttn0602.Name = "bttn0602";
             this.bttn0602.Size = new System.Drawing.Size(25, 25);
             this.bttn0602.TabIndex = 215;
@@ -2550,7 +2550,7 @@ namespace Games
             // 
             // bttn0502
             // 
-            this.bttn0502.Location = new System.Drawing.Point(156, 333);
+            this.bttn0502.Location = new System.Drawing.Point(153, 332);
             this.bttn0502.Name = "bttn0502";
             this.bttn0502.Size = new System.Drawing.Size(25, 25);
             this.bttn0502.TabIndex = 214;
@@ -2559,7 +2559,7 @@ namespace Games
             // 
             // bttn0202
             // 
-            this.bttn0202.Location = new System.Drawing.Point(91, 333);
+            this.bttn0202.Location = new System.Drawing.Point(88, 332);
             this.bttn0202.Name = "bttn0202";
             this.bttn0202.Size = new System.Drawing.Size(25, 25);
             this.bttn0202.TabIndex = 213;
@@ -2568,7 +2568,7 @@ namespace Games
             // 
             // bttn0402
             // 
-            this.bttn0402.Location = new System.Drawing.Point(135, 333);
+            this.bttn0402.Location = new System.Drawing.Point(132, 332);
             this.bttn0402.Name = "bttn0402";
             this.bttn0402.Size = new System.Drawing.Size(25, 25);
             this.bttn0402.TabIndex = 212;
@@ -2577,7 +2577,7 @@ namespace Games
             // 
             // bttn0302
             // 
-            this.bttn0302.Location = new System.Drawing.Point(114, 333);
+            this.bttn0302.Location = new System.Drawing.Point(111, 332);
             this.bttn0302.Name = "bttn0302";
             this.bttn0302.Size = new System.Drawing.Size(25, 25);
             this.bttn0302.TabIndex = 211;
@@ -2586,7 +2586,7 @@ namespace Games
             // 
             // bttn0102
             // 
-            this.bttn0102.Location = new System.Drawing.Point(68, 333);
+            this.bttn0102.Location = new System.Drawing.Point(65, 332);
             this.bttn0102.Name = "bttn0102";
             this.bttn0102.Size = new System.Drawing.Size(25, 25);
             this.bttn0102.TabIndex = 210;
@@ -2595,7 +2595,7 @@ namespace Games
             // 
             // bttn0002
             // 
-            this.bttn0002.Location = new System.Drawing.Point(45, 333);
+            this.bttn0002.Location = new System.Drawing.Point(42, 332);
             this.bttn0002.Name = "bttn0002";
             this.bttn0002.Size = new System.Drawing.Size(25, 25);
             this.bttn0002.TabIndex = 209;

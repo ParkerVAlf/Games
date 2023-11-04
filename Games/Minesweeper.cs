@@ -17,38 +17,25 @@ namespace Games
         public Minesweeper()
         {
             InitializeComponent();
-
-            buttonsPressed = 0;
-            squares = new Button[10, 10];
-            values = new int[10, 10];
-
-            //Generating buttons
-            //this.Shown += CreateButtonDelegate;
         }
 
         private void Minesweeper_Load(object sender, EventArgs e)
         {
-            
-        }
+            buttonsPressed = 0;
+            squares = new Button[16, 16];
+            values = new int[16, 16];
 
-        // Called to generate and place buttons
-        private void CreateButtonDelegate(object sender, EventArgs e)
-        {
-
-            /*for (int row = 0; row < 10; row++)
+            for (int row = 0; row < 16; row++)
             {
-                for (int col = 0; col < 1; col++)
+                for (int col = 0; col < 16; col++)
                 {
-                    squares[row, col] = new Button();
-                    this.Controls.Add(squares[row, col]);
-                    //squares[row, col] += new System.EventHandler(this.mineSquare_MouseDown);
-                    squares[row, col].Text = "";
-                    squares[row, col].Size = new Size(25, 25);
-                    squares[row, col].Location = new Point(50 + (23 * row), 50);
-
+                    string r;
+                    string c;
+                    squares[row, col] = (Button)this.Controls["bttn"];
                 }
-            }*/
+            }
         }
+
 
         private void mineSquare_MouseDown(object sender, MouseEventArgs e)
         {
