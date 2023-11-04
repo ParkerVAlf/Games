@@ -23,7 +23,7 @@ namespace Games
             values = new int[10, 10];
 
             //Generating buttons
-            this.Shown += CreateButtonDelegate;
+            //this.Shown += CreateButtonDelegate;
         }
 
         private void Minesweeper_Load(object sender, EventArgs e)
@@ -35,7 +35,7 @@ namespace Games
         private void CreateButtonDelegate(object sender, EventArgs e)
         {
 
-            for (int row = 0; row < 10; row++)
+            /*for (int row = 0; row < 10; row++)
             {
                 for (int col = 0; col < 1; col++)
                 {
@@ -47,7 +47,7 @@ namespace Games
                     squares[row, col].Location = new Point(50 + (23 * row), 50);
 
                 }
-            }
+            }*/
         }
 
         private void mineSquare_MouseDown(object sender, MouseEventArgs e)
@@ -69,5 +69,6 @@ namespace Games
             menuForm.ShowDialog();
             this.Close();
         }
+
     }
 }
