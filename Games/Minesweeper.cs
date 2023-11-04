@@ -79,6 +79,10 @@ namespace Games
             {
                 for (int col = 0; col < 16; col++)
                 {
+                    // Skipping mines
+                    if (values[row, col] == -1)
+                        continue;
+
                     int tracker = 0;    // Tracking nearby mine count
                     int subX = row - 1, subY = col - 1, addX = row + 1, addY = col + 1;
 
@@ -89,17 +93,29 @@ namespace Games
                     if (subY >= 0)
                         if (values[row, subY] == -1)
                             tracker++;
-                    if (addX >= 0)
+                    if (addX < 16)
                         if (values[addX, col] == -1)
                             tracker++;
-                    if (addY >= 0)
+                    if (addY < 16)
                         if (values[row, addY] == -1)
                             tracker++;
 
                     // Diagonal checks
                     if (subX >= 0 && subY >= 0)
-                        if (values[row, addY] == -1)
+                        if (values[subX, subY] == -1)
                             tracker++;
+                    if (subX >= 0 && addY < 16)
+                        if (values[subX, addY] == -1)
+                            tracker++;
+                    if (addX < 16 && subY >= 0)
+                        if (values[addX, subY] == -1)
+                            tracker++;
+                    if (addX < 16 && addY < 16)
+                        if (values[addX, addY] == -1)
+                            tracker++;
+
+                    // Setting value
+                    values[row, col] = tracker;
                 }
             }
         }
@@ -129,6 +145,7 @@ namespace Games
             if (e.Button == MouseButtons.Left)
             {
                 testLbl.Text = x.ToString() + ", " + y.ToString() + " Left";
+                b.Text = values[x, y].ToString();
             }
             // Right click logic
             else if (e.Button == MouseButtons.Right)
