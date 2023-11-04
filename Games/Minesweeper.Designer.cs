@@ -301,6 +301,7 @@ namespace Games
             // 
             // bttn0015
             // 
+            this.bttn0015.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0015.Location = new System.Drawing.Point(42, 42);
             this.bttn0015.Name = "bttn0015";
             this.bttn0015.Size = new System.Drawing.Size(25, 25);
@@ -310,6 +311,7 @@ namespace Games
             // 
             // bttn0115
             // 
+            this.bttn0115.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0115.Location = new System.Drawing.Point(65, 42);
             this.bttn0115.Name = "bttn0115";
             this.bttn0115.Size = new System.Drawing.Size(25, 25);
@@ -319,6 +321,7 @@ namespace Games
             // 
             // bttn0315
             // 
+            this.bttn0315.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0315.Location = new System.Drawing.Point(111, 42);
             this.bttn0315.Name = "bttn0315";
             this.bttn0315.Size = new System.Drawing.Size(25, 25);
@@ -328,6 +331,7 @@ namespace Games
             // 
             // bttn0415
             // 
+            this.bttn0415.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0415.Location = new System.Drawing.Point(132, 42);
             this.bttn0415.Name = "bttn0415";
             this.bttn0415.Size = new System.Drawing.Size(25, 25);
@@ -337,6 +341,7 @@ namespace Games
             // 
             // bttn0215
             // 
+            this.bttn0215.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0215.Location = new System.Drawing.Point(88, 42);
             this.bttn0215.Name = "bttn0215";
             this.bttn0215.Size = new System.Drawing.Size(25, 25);
@@ -346,6 +351,7 @@ namespace Games
             // 
             // bttn0515
             // 
+            this.bttn0515.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0515.Location = new System.Drawing.Point(153, 42);
             this.bttn0515.Name = "bttn0515";
             this.bttn0515.Size = new System.Drawing.Size(25, 25);
@@ -355,6 +361,7 @@ namespace Games
             // 
             // bttn0615
             // 
+            this.bttn0615.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0615.Location = new System.Drawing.Point(176, 42);
             this.bttn0615.Name = "bttn0615";
             this.bttn0615.Size = new System.Drawing.Size(25, 25);
@@ -364,6 +371,7 @@ namespace Games
             // 
             // bttn0715
             // 
+            this.bttn0715.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0715.Location = new System.Drawing.Point(199, 42);
             this.bttn0715.Name = "bttn0715";
             this.bttn0715.Size = new System.Drawing.Size(25, 25);
@@ -373,6 +381,7 @@ namespace Games
             // 
             // bttn0815
             // 
+            this.bttn0815.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0815.Location = new System.Drawing.Point(222, 42);
             this.bttn0815.Name = "bttn0815";
             this.bttn0815.Size = new System.Drawing.Size(25, 25);
@@ -382,6 +391,7 @@ namespace Games
             // 
             // bttn0915
             // 
+            this.bttn0915.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0915.Location = new System.Drawing.Point(245, 42);
             this.bttn0915.Name = "bttn0915";
             this.bttn0915.Size = new System.Drawing.Size(25, 25);
@@ -391,6 +401,7 @@ namespace Games
             // 
             // bttn1015
             // 
+            this.bttn1015.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1015.Location = new System.Drawing.Point(268, 42);
             this.bttn1015.Name = "bttn1015";
             this.bttn1015.Size = new System.Drawing.Size(25, 25);
@@ -400,6 +411,7 @@ namespace Games
             // 
             // bttn1115
             // 
+            this.bttn1115.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1115.Location = new System.Drawing.Point(291, 42);
             this.bttn1115.Name = "bttn1115";
             this.bttn1115.Size = new System.Drawing.Size(25, 25);
@@ -409,6 +421,7 @@ namespace Games
             // 
             // bttn1215
             // 
+            this.bttn1215.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1215.Location = new System.Drawing.Point(314, 42);
             this.bttn1215.Name = "bttn1215";
             this.bttn1215.Size = new System.Drawing.Size(25, 25);
@@ -418,6 +431,7 @@ namespace Games
             // 
             // bttn1315
             // 
+            this.bttn1315.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1315.Location = new System.Drawing.Point(337, 42);
             this.bttn1315.Name = "bttn1315";
             this.bttn1315.Size = new System.Drawing.Size(25, 25);
@@ -427,6 +441,7 @@ namespace Games
             // 
             // bttn1314
             // 
+            this.bttn1314.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1314.Location = new System.Drawing.Point(337, 64);
             this.bttn1314.Name = "bttn1314";
             this.bttn1314.Size = new System.Drawing.Size(25, 25);
@@ -436,6 +451,7 @@ namespace Games
             // 
             // bttn1214
             // 
+            this.bttn1214.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1214.Location = new System.Drawing.Point(314, 64);
             this.bttn1214.Name = "bttn1214";
             this.bttn1214.Size = new System.Drawing.Size(25, 25);
@@ -445,6 +461,7 @@ namespace Games
             // 
             // bttn1114
             // 
+            this.bttn1114.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1114.Location = new System.Drawing.Point(291, 64);
             this.bttn1114.Name = "bttn1114";
             this.bttn1114.Size = new System.Drawing.Size(25, 25);
@@ -454,6 +471,7 @@ namespace Games
             // 
             // bttn1014
             // 
+            this.bttn1014.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1014.Location = new System.Drawing.Point(268, 64);
             this.bttn1014.Name = "bttn1014";
             this.bttn1014.Size = new System.Drawing.Size(25, 25);
@@ -463,6 +481,7 @@ namespace Games
             // 
             // bttn0914
             // 
+            this.bttn0914.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0914.Location = new System.Drawing.Point(245, 64);
             this.bttn0914.Name = "bttn0914";
             this.bttn0914.Size = new System.Drawing.Size(25, 25);
@@ -472,6 +491,7 @@ namespace Games
             // 
             // bttn0814
             // 
+            this.bttn0814.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0814.Location = new System.Drawing.Point(222, 64);
             this.bttn0814.Name = "bttn0814";
             this.bttn0814.Size = new System.Drawing.Size(25, 25);
@@ -481,6 +501,7 @@ namespace Games
             // 
             // bttn0714
             // 
+            this.bttn0714.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0714.Location = new System.Drawing.Point(199, 64);
             this.bttn0714.Name = "bttn0714";
             this.bttn0714.Size = new System.Drawing.Size(25, 25);
@@ -490,6 +511,7 @@ namespace Games
             // 
             // bttn0614
             // 
+            this.bttn0614.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0614.Location = new System.Drawing.Point(176, 64);
             this.bttn0614.Name = "bttn0614";
             this.bttn0614.Size = new System.Drawing.Size(25, 25);
@@ -499,6 +521,7 @@ namespace Games
             // 
             // bttn0514
             // 
+            this.bttn0514.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0514.Location = new System.Drawing.Point(153, 64);
             this.bttn0514.Name = "bttn0514";
             this.bttn0514.Size = new System.Drawing.Size(25, 25);
@@ -508,6 +531,7 @@ namespace Games
             // 
             // bttn0214
             // 
+            this.bttn0214.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0214.Location = new System.Drawing.Point(88, 64);
             this.bttn0214.Name = "bttn0214";
             this.bttn0214.Size = new System.Drawing.Size(25, 25);
@@ -517,6 +541,7 @@ namespace Games
             // 
             // bttn0414
             // 
+            this.bttn0414.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0414.Location = new System.Drawing.Point(132, 64);
             this.bttn0414.Name = "bttn0414";
             this.bttn0414.Size = new System.Drawing.Size(25, 25);
@@ -526,6 +551,7 @@ namespace Games
             // 
             // bttn0314
             // 
+            this.bttn0314.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0314.Location = new System.Drawing.Point(111, 64);
             this.bttn0314.Name = "bttn0314";
             this.bttn0314.Size = new System.Drawing.Size(25, 25);
@@ -535,6 +561,7 @@ namespace Games
             // 
             // bttn0114
             // 
+            this.bttn0114.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0114.Location = new System.Drawing.Point(65, 64);
             this.bttn0114.Name = "bttn0114";
             this.bttn0114.Size = new System.Drawing.Size(25, 25);
@@ -544,6 +571,7 @@ namespace Games
             // 
             // bttn0014
             // 
+            this.bttn0014.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0014.Location = new System.Drawing.Point(42, 64);
             this.bttn0014.Name = "bttn0014";
             this.bttn0014.Size = new System.Drawing.Size(25, 25);
@@ -553,6 +581,7 @@ namespace Games
             // 
             // bttn1312
             // 
+            this.bttn1312.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1312.Location = new System.Drawing.Point(337, 109);
             this.bttn1312.Name = "bttn1312";
             this.bttn1312.Size = new System.Drawing.Size(25, 25);
@@ -562,6 +591,7 @@ namespace Games
             // 
             // bttn1212
             // 
+            this.bttn1212.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1212.Location = new System.Drawing.Point(314, 109);
             this.bttn1212.Name = "bttn1212";
             this.bttn1212.Size = new System.Drawing.Size(25, 25);
@@ -571,6 +601,7 @@ namespace Games
             // 
             // bttn1112
             // 
+            this.bttn1112.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1112.Location = new System.Drawing.Point(291, 109);
             this.bttn1112.Name = "bttn1112";
             this.bttn1112.Size = new System.Drawing.Size(25, 25);
@@ -580,6 +611,7 @@ namespace Games
             // 
             // bttn1012
             // 
+            this.bttn1012.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1012.Location = new System.Drawing.Point(268, 109);
             this.bttn1012.Name = "bttn1012";
             this.bttn1012.Size = new System.Drawing.Size(25, 25);
@@ -589,6 +621,7 @@ namespace Games
             // 
             // bttn0912
             // 
+            this.bttn0912.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0912.Location = new System.Drawing.Point(245, 109);
             this.bttn0912.Name = "bttn0912";
             this.bttn0912.Size = new System.Drawing.Size(25, 25);
@@ -598,6 +631,7 @@ namespace Games
             // 
             // bttn0812
             // 
+            this.bttn0812.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0812.Location = new System.Drawing.Point(222, 109);
             this.bttn0812.Name = "bttn0812";
             this.bttn0812.Size = new System.Drawing.Size(25, 25);
@@ -607,6 +641,7 @@ namespace Games
             // 
             // bttn0712
             // 
+            this.bttn0712.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0712.Location = new System.Drawing.Point(199, 109);
             this.bttn0712.Name = "bttn0712";
             this.bttn0712.Size = new System.Drawing.Size(25, 25);
@@ -616,6 +651,7 @@ namespace Games
             // 
             // bttn0612
             // 
+            this.bttn0612.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0612.Location = new System.Drawing.Point(176, 109);
             this.bttn0612.Name = "bttn0612";
             this.bttn0612.Size = new System.Drawing.Size(25, 25);
@@ -625,6 +661,7 @@ namespace Games
             // 
             // bttn0512
             // 
+            this.bttn0512.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0512.Location = new System.Drawing.Point(153, 109);
             this.bttn0512.Name = "bttn0512";
             this.bttn0512.Size = new System.Drawing.Size(25, 25);
@@ -634,6 +671,7 @@ namespace Games
             // 
             // bttn0212
             // 
+            this.bttn0212.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0212.Location = new System.Drawing.Point(88, 109);
             this.bttn0212.Name = "bttn0212";
             this.bttn0212.Size = new System.Drawing.Size(25, 25);
@@ -643,6 +681,7 @@ namespace Games
             // 
             // bttn0412
             // 
+            this.bttn0412.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0412.Location = new System.Drawing.Point(132, 109);
             this.bttn0412.Name = "bttn0412";
             this.bttn0412.Size = new System.Drawing.Size(25, 25);
@@ -652,6 +691,7 @@ namespace Games
             // 
             // bttn0312
             // 
+            this.bttn0312.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0312.Location = new System.Drawing.Point(111, 109);
             this.bttn0312.Name = "bttn0312";
             this.bttn0312.Size = new System.Drawing.Size(25, 25);
@@ -661,6 +701,7 @@ namespace Games
             // 
             // bttn0112
             // 
+            this.bttn0112.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0112.Location = new System.Drawing.Point(65, 109);
             this.bttn0112.Name = "bttn0112";
             this.bttn0112.Size = new System.Drawing.Size(25, 25);
@@ -670,6 +711,7 @@ namespace Games
             // 
             // bttn0012
             // 
+            this.bttn0012.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0012.Location = new System.Drawing.Point(42, 109);
             this.bttn0012.Name = "bttn0012";
             this.bttn0012.Size = new System.Drawing.Size(25, 25);
@@ -679,6 +721,7 @@ namespace Games
             // 
             // bttn1313
             // 
+            this.bttn1313.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1313.Location = new System.Drawing.Point(337, 87);
             this.bttn1313.Name = "bttn1313";
             this.bttn1313.Size = new System.Drawing.Size(25, 25);
@@ -688,6 +731,7 @@ namespace Games
             // 
             // bttn1213
             // 
+            this.bttn1213.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1213.Location = new System.Drawing.Point(314, 87);
             this.bttn1213.Name = "bttn1213";
             this.bttn1213.Size = new System.Drawing.Size(25, 25);
@@ -697,6 +741,7 @@ namespace Games
             // 
             // bttn1113
             // 
+            this.bttn1113.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1113.Location = new System.Drawing.Point(291, 87);
             this.bttn1113.Name = "bttn1113";
             this.bttn1113.Size = new System.Drawing.Size(25, 25);
@@ -706,6 +751,7 @@ namespace Games
             // 
             // bttn1013
             // 
+            this.bttn1013.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1013.Location = new System.Drawing.Point(268, 87);
             this.bttn1013.Name = "bttn1013";
             this.bttn1013.Size = new System.Drawing.Size(25, 25);
@@ -715,6 +761,7 @@ namespace Games
             // 
             // bttn0913
             // 
+            this.bttn0913.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0913.Location = new System.Drawing.Point(245, 87);
             this.bttn0913.Name = "bttn0913";
             this.bttn0913.Size = new System.Drawing.Size(25, 25);
@@ -724,6 +771,7 @@ namespace Games
             // 
             // bttn0813
             // 
+            this.bttn0813.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0813.Location = new System.Drawing.Point(222, 87);
             this.bttn0813.Name = "bttn0813";
             this.bttn0813.Size = new System.Drawing.Size(25, 25);
@@ -733,6 +781,7 @@ namespace Games
             // 
             // bttn0713
             // 
+            this.bttn0713.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0713.Location = new System.Drawing.Point(199, 87);
             this.bttn0713.Name = "bttn0713";
             this.bttn0713.Size = new System.Drawing.Size(25, 25);
@@ -742,6 +791,7 @@ namespace Games
             // 
             // bttn0613
             // 
+            this.bttn0613.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0613.Location = new System.Drawing.Point(176, 87);
             this.bttn0613.Name = "bttn0613";
             this.bttn0613.Size = new System.Drawing.Size(25, 25);
@@ -751,6 +801,7 @@ namespace Games
             // 
             // bttn0513
             // 
+            this.bttn0513.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0513.Location = new System.Drawing.Point(153, 87);
             this.bttn0513.Name = "bttn0513";
             this.bttn0513.Size = new System.Drawing.Size(25, 25);
@@ -760,6 +811,7 @@ namespace Games
             // 
             // bttn0213
             // 
+            this.bttn0213.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0213.Location = new System.Drawing.Point(88, 87);
             this.bttn0213.Name = "bttn0213";
             this.bttn0213.Size = new System.Drawing.Size(25, 25);
@@ -769,6 +821,7 @@ namespace Games
             // 
             // bttn0413
             // 
+            this.bttn0413.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0413.Location = new System.Drawing.Point(132, 87);
             this.bttn0413.Name = "bttn0413";
             this.bttn0413.Size = new System.Drawing.Size(25, 25);
@@ -778,6 +831,7 @@ namespace Games
             // 
             // bttn0313
             // 
+            this.bttn0313.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0313.Location = new System.Drawing.Point(111, 87);
             this.bttn0313.Name = "bttn0313";
             this.bttn0313.Size = new System.Drawing.Size(25, 25);
@@ -787,6 +841,7 @@ namespace Games
             // 
             // bttn0113
             // 
+            this.bttn0113.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0113.Location = new System.Drawing.Point(65, 87);
             this.bttn0113.Name = "bttn0113";
             this.bttn0113.Size = new System.Drawing.Size(25, 25);
@@ -796,6 +851,7 @@ namespace Games
             // 
             // bttn0013
             // 
+            this.bttn0013.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0013.Location = new System.Drawing.Point(42, 87);
             this.bttn0013.Name = "bttn0013";
             this.bttn0013.Size = new System.Drawing.Size(25, 25);
@@ -805,6 +861,7 @@ namespace Games
             // 
             // bttn1308
             // 
+            this.bttn1308.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1308.Location = new System.Drawing.Point(337, 198);
             this.bttn1308.Name = "bttn1308";
             this.bttn1308.Size = new System.Drawing.Size(25, 25);
@@ -814,6 +871,7 @@ namespace Games
             // 
             // bttn1208
             // 
+            this.bttn1208.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1208.Location = new System.Drawing.Point(314, 198);
             this.bttn1208.Name = "bttn1208";
             this.bttn1208.Size = new System.Drawing.Size(25, 25);
@@ -823,6 +881,7 @@ namespace Games
             // 
             // bttn1108
             // 
+            this.bttn1108.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1108.Location = new System.Drawing.Point(291, 198);
             this.bttn1108.Name = "bttn1108";
             this.bttn1108.Size = new System.Drawing.Size(25, 25);
@@ -832,6 +891,7 @@ namespace Games
             // 
             // bttn1008
             // 
+            this.bttn1008.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1008.Location = new System.Drawing.Point(268, 198);
             this.bttn1008.Name = "bttn1008";
             this.bttn1008.Size = new System.Drawing.Size(25, 25);
@@ -841,6 +901,7 @@ namespace Games
             // 
             // bttn0908
             // 
+            this.bttn0908.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0908.Location = new System.Drawing.Point(245, 198);
             this.bttn0908.Name = "bttn0908";
             this.bttn0908.Size = new System.Drawing.Size(25, 25);
@@ -850,6 +911,7 @@ namespace Games
             // 
             // bttn0808
             // 
+            this.bttn0808.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0808.Location = new System.Drawing.Point(222, 198);
             this.bttn0808.Name = "bttn0808";
             this.bttn0808.Size = new System.Drawing.Size(25, 25);
@@ -859,6 +921,7 @@ namespace Games
             // 
             // bttn0708
             // 
+            this.bttn0708.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0708.Location = new System.Drawing.Point(199, 198);
             this.bttn0708.Name = "bttn0708";
             this.bttn0708.Size = new System.Drawing.Size(25, 25);
@@ -868,6 +931,7 @@ namespace Games
             // 
             // bttn0608
             // 
+            this.bttn0608.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0608.Location = new System.Drawing.Point(176, 198);
             this.bttn0608.Name = "bttn0608";
             this.bttn0608.Size = new System.Drawing.Size(25, 25);
@@ -877,6 +941,7 @@ namespace Games
             // 
             // bttn0508
             // 
+            this.bttn0508.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0508.Location = new System.Drawing.Point(153, 198);
             this.bttn0508.Name = "bttn0508";
             this.bttn0508.Size = new System.Drawing.Size(25, 25);
@@ -886,6 +951,7 @@ namespace Games
             // 
             // bttn0208
             // 
+            this.bttn0208.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0208.Location = new System.Drawing.Point(88, 198);
             this.bttn0208.Name = "bttn0208";
             this.bttn0208.Size = new System.Drawing.Size(25, 25);
@@ -895,6 +961,7 @@ namespace Games
             // 
             // bttn0408
             // 
+            this.bttn0408.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0408.Location = new System.Drawing.Point(132, 198);
             this.bttn0408.Name = "bttn0408";
             this.bttn0408.Size = new System.Drawing.Size(25, 25);
@@ -904,6 +971,7 @@ namespace Games
             // 
             // bttn0308
             // 
+            this.bttn0308.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0308.Location = new System.Drawing.Point(111, 198);
             this.bttn0308.Name = "bttn0308";
             this.bttn0308.Size = new System.Drawing.Size(25, 25);
@@ -913,6 +981,7 @@ namespace Games
             // 
             // bttn0108
             // 
+            this.bttn0108.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0108.Location = new System.Drawing.Point(65, 198);
             this.bttn0108.Name = "bttn0108";
             this.bttn0108.Size = new System.Drawing.Size(25, 25);
@@ -922,6 +991,7 @@ namespace Games
             // 
             // bttn0008
             // 
+            this.bttn0008.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0008.Location = new System.Drawing.Point(42, 198);
             this.bttn0008.Name = "bttn0008";
             this.bttn0008.Size = new System.Drawing.Size(25, 25);
@@ -931,6 +1001,7 @@ namespace Games
             // 
             // bttn1309
             // 
+            this.bttn1309.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1309.Location = new System.Drawing.Point(337, 176);
             this.bttn1309.Name = "bttn1309";
             this.bttn1309.Size = new System.Drawing.Size(25, 25);
@@ -940,6 +1011,7 @@ namespace Games
             // 
             // bttn1209
             // 
+            this.bttn1209.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1209.Location = new System.Drawing.Point(314, 176);
             this.bttn1209.Name = "bttn1209";
             this.bttn1209.Size = new System.Drawing.Size(25, 25);
@@ -949,6 +1021,7 @@ namespace Games
             // 
             // bttn1109
             // 
+            this.bttn1109.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1109.Location = new System.Drawing.Point(291, 176);
             this.bttn1109.Name = "bttn1109";
             this.bttn1109.Size = new System.Drawing.Size(25, 25);
@@ -958,6 +1031,7 @@ namespace Games
             // 
             // bttn1009
             // 
+            this.bttn1009.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1009.Location = new System.Drawing.Point(268, 176);
             this.bttn1009.Name = "bttn1009";
             this.bttn1009.Size = new System.Drawing.Size(25, 25);
@@ -967,6 +1041,7 @@ namespace Games
             // 
             // bttn0909
             // 
+            this.bttn0909.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0909.Location = new System.Drawing.Point(245, 176);
             this.bttn0909.Name = "bttn0909";
             this.bttn0909.Size = new System.Drawing.Size(25, 25);
@@ -976,6 +1051,7 @@ namespace Games
             // 
             // bttn0809
             // 
+            this.bttn0809.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0809.Location = new System.Drawing.Point(222, 176);
             this.bttn0809.Name = "bttn0809";
             this.bttn0809.Size = new System.Drawing.Size(25, 25);
@@ -985,6 +1061,7 @@ namespace Games
             // 
             // bttn0709
             // 
+            this.bttn0709.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0709.Location = new System.Drawing.Point(199, 176);
             this.bttn0709.Name = "bttn0709";
             this.bttn0709.Size = new System.Drawing.Size(25, 25);
@@ -994,6 +1071,7 @@ namespace Games
             // 
             // bttn0609
             // 
+            this.bttn0609.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0609.Location = new System.Drawing.Point(176, 176);
             this.bttn0609.Name = "bttn0609";
             this.bttn0609.Size = new System.Drawing.Size(25, 25);
@@ -1003,6 +1081,7 @@ namespace Games
             // 
             // bttn0509
             // 
+            this.bttn0509.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0509.Location = new System.Drawing.Point(153, 176);
             this.bttn0509.Name = "bttn0509";
             this.bttn0509.Size = new System.Drawing.Size(25, 25);
@@ -1012,6 +1091,7 @@ namespace Games
             // 
             // bttn0209
             // 
+            this.bttn0209.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0209.Location = new System.Drawing.Point(88, 176);
             this.bttn0209.Name = "bttn0209";
             this.bttn0209.Size = new System.Drawing.Size(25, 25);
@@ -1021,6 +1101,7 @@ namespace Games
             // 
             // bttn0409
             // 
+            this.bttn0409.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0409.Location = new System.Drawing.Point(132, 176);
             this.bttn0409.Name = "bttn0409";
             this.bttn0409.Size = new System.Drawing.Size(25, 25);
@@ -1030,6 +1111,7 @@ namespace Games
             // 
             // bttn0309
             // 
+            this.bttn0309.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0309.Location = new System.Drawing.Point(111, 176);
             this.bttn0309.Name = "bttn0309";
             this.bttn0309.Size = new System.Drawing.Size(25, 25);
@@ -1039,6 +1121,7 @@ namespace Games
             // 
             // bttn0109
             // 
+            this.bttn0109.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0109.Location = new System.Drawing.Point(65, 176);
             this.bttn0109.Name = "bttn0109";
             this.bttn0109.Size = new System.Drawing.Size(25, 25);
@@ -1048,6 +1131,7 @@ namespace Games
             // 
             // bttn0009
             // 
+            this.bttn0009.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0009.Location = new System.Drawing.Point(42, 176);
             this.bttn0009.Name = "bttn0009";
             this.bttn0009.Size = new System.Drawing.Size(25, 25);
@@ -1057,6 +1141,7 @@ namespace Games
             // 
             // bttn1310
             // 
+            this.bttn1310.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1310.Location = new System.Drawing.Point(337, 153);
             this.bttn1310.Name = "bttn1310";
             this.bttn1310.Size = new System.Drawing.Size(25, 25);
@@ -1066,6 +1151,7 @@ namespace Games
             // 
             // bttn1210
             // 
+            this.bttn1210.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1210.Location = new System.Drawing.Point(314, 153);
             this.bttn1210.Name = "bttn1210";
             this.bttn1210.Size = new System.Drawing.Size(25, 25);
@@ -1075,6 +1161,7 @@ namespace Games
             // 
             // bttn1110
             // 
+            this.bttn1110.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1110.Location = new System.Drawing.Point(291, 153);
             this.bttn1110.Name = "bttn1110";
             this.bttn1110.Size = new System.Drawing.Size(25, 25);
@@ -1084,6 +1171,7 @@ namespace Games
             // 
             // bttn1010
             // 
+            this.bttn1010.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1010.Location = new System.Drawing.Point(268, 153);
             this.bttn1010.Name = "bttn1010";
             this.bttn1010.Size = new System.Drawing.Size(25, 25);
@@ -1093,6 +1181,7 @@ namespace Games
             // 
             // bttn0910
             // 
+            this.bttn0910.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0910.Location = new System.Drawing.Point(245, 153);
             this.bttn0910.Name = "bttn0910";
             this.bttn0910.Size = new System.Drawing.Size(25, 25);
@@ -1102,6 +1191,7 @@ namespace Games
             // 
             // bttn0810
             // 
+            this.bttn0810.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0810.Location = new System.Drawing.Point(222, 153);
             this.bttn0810.Name = "bttn0810";
             this.bttn0810.Size = new System.Drawing.Size(25, 25);
@@ -1111,6 +1201,7 @@ namespace Games
             // 
             // bttn0710
             // 
+            this.bttn0710.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0710.Location = new System.Drawing.Point(199, 153);
             this.bttn0710.Name = "bttn0710";
             this.bttn0710.Size = new System.Drawing.Size(25, 25);
@@ -1120,6 +1211,7 @@ namespace Games
             // 
             // bttn0610
             // 
+            this.bttn0610.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0610.Location = new System.Drawing.Point(176, 153);
             this.bttn0610.Name = "bttn0610";
             this.bttn0610.Size = new System.Drawing.Size(25, 25);
@@ -1129,6 +1221,7 @@ namespace Games
             // 
             // bttn0510
             // 
+            this.bttn0510.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0510.Location = new System.Drawing.Point(153, 153);
             this.bttn0510.Name = "bttn0510";
             this.bttn0510.Size = new System.Drawing.Size(25, 25);
@@ -1138,6 +1231,7 @@ namespace Games
             // 
             // bttn0210
             // 
+            this.bttn0210.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0210.Location = new System.Drawing.Point(88, 153);
             this.bttn0210.Name = "bttn0210";
             this.bttn0210.Size = new System.Drawing.Size(25, 25);
@@ -1147,6 +1241,7 @@ namespace Games
             // 
             // bttn0410
             // 
+            this.bttn0410.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0410.Location = new System.Drawing.Point(132, 153);
             this.bttn0410.Name = "bttn0410";
             this.bttn0410.Size = new System.Drawing.Size(25, 25);
@@ -1156,6 +1251,7 @@ namespace Games
             // 
             // bttn0310
             // 
+            this.bttn0310.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0310.Location = new System.Drawing.Point(111, 153);
             this.bttn0310.Name = "bttn0310";
             this.bttn0310.Size = new System.Drawing.Size(25, 25);
@@ -1165,6 +1261,7 @@ namespace Games
             // 
             // bttn0110
             // 
+            this.bttn0110.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0110.Location = new System.Drawing.Point(65, 153);
             this.bttn0110.Name = "bttn0110";
             this.bttn0110.Size = new System.Drawing.Size(25, 25);
@@ -1174,6 +1271,7 @@ namespace Games
             // 
             // bttn0010
             // 
+            this.bttn0010.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0010.Location = new System.Drawing.Point(42, 153);
             this.bttn0010.Name = "bttn0010";
             this.bttn0010.Size = new System.Drawing.Size(25, 25);
@@ -1183,6 +1281,7 @@ namespace Games
             // 
             // bttn1311
             // 
+            this.bttn1311.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1311.Location = new System.Drawing.Point(337, 131);
             this.bttn1311.Name = "bttn1311";
             this.bttn1311.Size = new System.Drawing.Size(25, 25);
@@ -1193,6 +1292,7 @@ namespace Games
             // 
             // bttn1211
             // 
+            this.bttn1211.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1211.Location = new System.Drawing.Point(314, 131);
             this.bttn1211.Name = "bttn1211";
             this.bttn1211.Size = new System.Drawing.Size(25, 25);
@@ -1203,6 +1303,7 @@ namespace Games
             // 
             // bttn1111
             // 
+            this.bttn1111.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1111.Location = new System.Drawing.Point(291, 131);
             this.bttn1111.Name = "bttn1111";
             this.bttn1111.Size = new System.Drawing.Size(25, 25);
@@ -1213,6 +1314,7 @@ namespace Games
             // 
             // bttn1011
             // 
+            this.bttn1011.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1011.Location = new System.Drawing.Point(268, 131);
             this.bttn1011.Name = "bttn1011";
             this.bttn1011.Size = new System.Drawing.Size(25, 25);
@@ -1223,6 +1325,7 @@ namespace Games
             // 
             // bttn0911
             // 
+            this.bttn0911.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0911.Location = new System.Drawing.Point(245, 131);
             this.bttn0911.Name = "bttn0911";
             this.bttn0911.Size = new System.Drawing.Size(25, 25);
@@ -1233,6 +1336,7 @@ namespace Games
             // 
             // bttn0811
             // 
+            this.bttn0811.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0811.Location = new System.Drawing.Point(222, 131);
             this.bttn0811.Name = "bttn0811";
             this.bttn0811.Size = new System.Drawing.Size(25, 25);
@@ -1243,6 +1347,7 @@ namespace Games
             // 
             // bttn0711
             // 
+            this.bttn0711.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0711.Location = new System.Drawing.Point(199, 131);
             this.bttn0711.Name = "bttn0711";
             this.bttn0711.Size = new System.Drawing.Size(25, 25);
@@ -1253,6 +1358,7 @@ namespace Games
             // 
             // bttn0611
             // 
+            this.bttn0611.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0611.Location = new System.Drawing.Point(176, 131);
             this.bttn0611.Name = "bttn0611";
             this.bttn0611.Size = new System.Drawing.Size(25, 25);
@@ -1263,6 +1369,7 @@ namespace Games
             // 
             // bttn0511
             // 
+            this.bttn0511.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0511.Location = new System.Drawing.Point(153, 131);
             this.bttn0511.Name = "bttn0511";
             this.bttn0511.Size = new System.Drawing.Size(25, 25);
@@ -1273,6 +1380,7 @@ namespace Games
             // 
             // bttn0211
             // 
+            this.bttn0211.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0211.Location = new System.Drawing.Point(88, 131);
             this.bttn0211.Name = "bttn0211";
             this.bttn0211.Size = new System.Drawing.Size(25, 25);
@@ -1283,6 +1391,7 @@ namespace Games
             // 
             // bttn0411
             // 
+            this.bttn0411.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0411.Location = new System.Drawing.Point(132, 131);
             this.bttn0411.Name = "bttn0411";
             this.bttn0411.Size = new System.Drawing.Size(25, 25);
@@ -1293,6 +1402,7 @@ namespace Games
             // 
             // bttn0311
             // 
+            this.bttn0311.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0311.Location = new System.Drawing.Point(111, 131);
             this.bttn0311.Name = "bttn0311";
             this.bttn0311.Size = new System.Drawing.Size(25, 25);
@@ -1303,6 +1413,7 @@ namespace Games
             // 
             // bttn0111
             // 
+            this.bttn0111.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0111.Location = new System.Drawing.Point(65, 131);
             this.bttn0111.Name = "bttn0111";
             this.bttn0111.Size = new System.Drawing.Size(25, 25);
@@ -1313,6 +1424,7 @@ namespace Games
             // 
             // bttn0011
             // 
+            this.bttn0011.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0011.Location = new System.Drawing.Point(42, 131);
             this.bttn0011.Name = "bttn0011";
             this.bttn0011.Size = new System.Drawing.Size(25, 25);
@@ -1323,6 +1435,7 @@ namespace Games
             // 
             // bttn1303
             // 
+            this.bttn1303.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1303.Location = new System.Drawing.Point(337, 310);
             this.bttn1303.Name = "bttn1303";
             this.bttn1303.Size = new System.Drawing.Size(25, 25);
@@ -1332,6 +1445,7 @@ namespace Games
             // 
             // bttn1203
             // 
+            this.bttn1203.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1203.Location = new System.Drawing.Point(314, 310);
             this.bttn1203.Name = "bttn1203";
             this.bttn1203.Size = new System.Drawing.Size(25, 25);
@@ -1341,6 +1455,7 @@ namespace Games
             // 
             // bttn1103
             // 
+            this.bttn1103.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1103.Location = new System.Drawing.Point(291, 310);
             this.bttn1103.Name = "bttn1103";
             this.bttn1103.Size = new System.Drawing.Size(25, 25);
@@ -1350,6 +1465,7 @@ namespace Games
             // 
             // bttn1003
             // 
+            this.bttn1003.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1003.Location = new System.Drawing.Point(268, 310);
             this.bttn1003.Name = "bttn1003";
             this.bttn1003.Size = new System.Drawing.Size(25, 25);
@@ -1359,6 +1475,7 @@ namespace Games
             // 
             // bttn0903
             // 
+            this.bttn0903.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0903.Location = new System.Drawing.Point(245, 310);
             this.bttn0903.Name = "bttn0903";
             this.bttn0903.Size = new System.Drawing.Size(25, 25);
@@ -1368,6 +1485,7 @@ namespace Games
             // 
             // bttn0803
             // 
+            this.bttn0803.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0803.Location = new System.Drawing.Point(222, 310);
             this.bttn0803.Name = "bttn0803";
             this.bttn0803.Size = new System.Drawing.Size(25, 25);
@@ -1377,6 +1495,7 @@ namespace Games
             // 
             // bttn0703
             // 
+            this.bttn0703.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0703.Location = new System.Drawing.Point(199, 310);
             this.bttn0703.Name = "bttn0703";
             this.bttn0703.Size = new System.Drawing.Size(25, 25);
@@ -1386,6 +1505,7 @@ namespace Games
             // 
             // bttn0603
             // 
+            this.bttn0603.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0603.Location = new System.Drawing.Point(176, 310);
             this.bttn0603.Name = "bttn0603";
             this.bttn0603.Size = new System.Drawing.Size(25, 25);
@@ -1395,6 +1515,7 @@ namespace Games
             // 
             // bttn0503
             // 
+            this.bttn0503.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0503.Location = new System.Drawing.Point(153, 310);
             this.bttn0503.Name = "bttn0503";
             this.bttn0503.Size = new System.Drawing.Size(25, 25);
@@ -1404,6 +1525,7 @@ namespace Games
             // 
             // bttn0203
             // 
+            this.bttn0203.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0203.Location = new System.Drawing.Point(88, 310);
             this.bttn0203.Name = "bttn0203";
             this.bttn0203.Size = new System.Drawing.Size(25, 25);
@@ -1413,6 +1535,7 @@ namespace Games
             // 
             // bttn0403
             // 
+            this.bttn0403.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0403.Location = new System.Drawing.Point(132, 310);
             this.bttn0403.Name = "bttn0403";
             this.bttn0403.Size = new System.Drawing.Size(25, 25);
@@ -1422,6 +1545,7 @@ namespace Games
             // 
             // bttn0303
             // 
+            this.bttn0303.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0303.Location = new System.Drawing.Point(111, 310);
             this.bttn0303.Name = "bttn0303";
             this.bttn0303.Size = new System.Drawing.Size(25, 25);
@@ -1431,6 +1555,7 @@ namespace Games
             // 
             // bttn0103
             // 
+            this.bttn0103.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0103.Location = new System.Drawing.Point(65, 310);
             this.bttn0103.Name = "bttn0103";
             this.bttn0103.Size = new System.Drawing.Size(25, 25);
@@ -1440,6 +1565,7 @@ namespace Games
             // 
             // bttn0003
             // 
+            this.bttn0003.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0003.Location = new System.Drawing.Point(42, 310);
             this.bttn0003.Name = "bttn0003";
             this.bttn0003.Size = new System.Drawing.Size(25, 25);
@@ -1449,6 +1575,7 @@ namespace Games
             // 
             // bttn1304
             // 
+            this.bttn1304.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1304.Location = new System.Drawing.Point(337, 288);
             this.bttn1304.Name = "bttn1304";
             this.bttn1304.Size = new System.Drawing.Size(25, 25);
@@ -1458,6 +1585,7 @@ namespace Games
             // 
             // bttn1204
             // 
+            this.bttn1204.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1204.Location = new System.Drawing.Point(314, 288);
             this.bttn1204.Name = "bttn1204";
             this.bttn1204.Size = new System.Drawing.Size(25, 25);
@@ -1467,6 +1595,7 @@ namespace Games
             // 
             // bttn1104
             // 
+            this.bttn1104.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1104.Location = new System.Drawing.Point(291, 288);
             this.bttn1104.Name = "bttn1104";
             this.bttn1104.Size = new System.Drawing.Size(25, 25);
@@ -1476,6 +1605,7 @@ namespace Games
             // 
             // bttn1004
             // 
+            this.bttn1004.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1004.Location = new System.Drawing.Point(268, 288);
             this.bttn1004.Name = "bttn1004";
             this.bttn1004.Size = new System.Drawing.Size(25, 25);
@@ -1485,6 +1615,7 @@ namespace Games
             // 
             // bttn0904
             // 
+            this.bttn0904.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0904.Location = new System.Drawing.Point(245, 288);
             this.bttn0904.Name = "bttn0904";
             this.bttn0904.Size = new System.Drawing.Size(25, 25);
@@ -1494,6 +1625,7 @@ namespace Games
             // 
             // bttn0804
             // 
+            this.bttn0804.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0804.Location = new System.Drawing.Point(222, 288);
             this.bttn0804.Name = "bttn0804";
             this.bttn0804.Size = new System.Drawing.Size(25, 25);
@@ -1503,6 +1635,7 @@ namespace Games
             // 
             // bttn0704
             // 
+            this.bttn0704.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0704.Location = new System.Drawing.Point(199, 288);
             this.bttn0704.Name = "bttn0704";
             this.bttn0704.Size = new System.Drawing.Size(25, 25);
@@ -1512,6 +1645,7 @@ namespace Games
             // 
             // bttn0604
             // 
+            this.bttn0604.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0604.Location = new System.Drawing.Point(176, 288);
             this.bttn0604.Name = "bttn0604";
             this.bttn0604.Size = new System.Drawing.Size(25, 25);
@@ -1521,6 +1655,7 @@ namespace Games
             // 
             // bttn0504
             // 
+            this.bttn0504.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0504.Location = new System.Drawing.Point(153, 288);
             this.bttn0504.Name = "bttn0504";
             this.bttn0504.Size = new System.Drawing.Size(25, 25);
@@ -1530,6 +1665,7 @@ namespace Games
             // 
             // bttn0204
             // 
+            this.bttn0204.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0204.Location = new System.Drawing.Point(88, 288);
             this.bttn0204.Name = "bttn0204";
             this.bttn0204.Size = new System.Drawing.Size(25, 25);
@@ -1539,6 +1675,7 @@ namespace Games
             // 
             // bttn0404
             // 
+            this.bttn0404.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0404.Location = new System.Drawing.Point(132, 288);
             this.bttn0404.Name = "bttn0404";
             this.bttn0404.Size = new System.Drawing.Size(25, 25);
@@ -1548,6 +1685,7 @@ namespace Games
             // 
             // bttn0304
             // 
+            this.bttn0304.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0304.Location = new System.Drawing.Point(111, 288);
             this.bttn0304.Name = "bttn0304";
             this.bttn0304.Size = new System.Drawing.Size(25, 25);
@@ -1557,6 +1695,7 @@ namespace Games
             // 
             // bttn0104
             // 
+            this.bttn0104.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0104.Location = new System.Drawing.Point(65, 288);
             this.bttn0104.Name = "bttn0104";
             this.bttn0104.Size = new System.Drawing.Size(25, 25);
@@ -1566,6 +1705,7 @@ namespace Games
             // 
             // bttn0004
             // 
+            this.bttn0004.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0004.Location = new System.Drawing.Point(42, 288);
             this.bttn0004.Name = "bttn0004";
             this.bttn0004.Size = new System.Drawing.Size(25, 25);
@@ -1575,6 +1715,7 @@ namespace Games
             // 
             // bttn1305
             // 
+            this.bttn1305.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1305.Location = new System.Drawing.Point(337, 265);
             this.bttn1305.Name = "bttn1305";
             this.bttn1305.Size = new System.Drawing.Size(25, 25);
@@ -1584,6 +1725,7 @@ namespace Games
             // 
             // bttn1205
             // 
+            this.bttn1205.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1205.Location = new System.Drawing.Point(314, 265);
             this.bttn1205.Name = "bttn1205";
             this.bttn1205.Size = new System.Drawing.Size(25, 25);
@@ -1593,6 +1735,7 @@ namespace Games
             // 
             // bttn1105
             // 
+            this.bttn1105.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1105.Location = new System.Drawing.Point(291, 265);
             this.bttn1105.Name = "bttn1105";
             this.bttn1105.Size = new System.Drawing.Size(25, 25);
@@ -1602,6 +1745,7 @@ namespace Games
             // 
             // bttn1005
             // 
+            this.bttn1005.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1005.Location = new System.Drawing.Point(268, 265);
             this.bttn1005.Name = "bttn1005";
             this.bttn1005.Size = new System.Drawing.Size(25, 25);
@@ -1611,6 +1755,7 @@ namespace Games
             // 
             // bttn0905
             // 
+            this.bttn0905.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0905.Location = new System.Drawing.Point(245, 265);
             this.bttn0905.Name = "bttn0905";
             this.bttn0905.Size = new System.Drawing.Size(25, 25);
@@ -1620,6 +1765,7 @@ namespace Games
             // 
             // bttn0805
             // 
+            this.bttn0805.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0805.Location = new System.Drawing.Point(222, 265);
             this.bttn0805.Name = "bttn0805";
             this.bttn0805.Size = new System.Drawing.Size(25, 25);
@@ -1629,6 +1775,7 @@ namespace Games
             // 
             // bttn0705
             // 
+            this.bttn0705.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0705.Location = new System.Drawing.Point(199, 265);
             this.bttn0705.Name = "bttn0705";
             this.bttn0705.Size = new System.Drawing.Size(25, 25);
@@ -1638,6 +1785,7 @@ namespace Games
             // 
             // bttn0605
             // 
+            this.bttn0605.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0605.Location = new System.Drawing.Point(176, 265);
             this.bttn0605.Name = "bttn0605";
             this.bttn0605.Size = new System.Drawing.Size(25, 25);
@@ -1647,6 +1795,7 @@ namespace Games
             // 
             // bttn0505
             // 
+            this.bttn0505.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0505.Location = new System.Drawing.Point(153, 265);
             this.bttn0505.Name = "bttn0505";
             this.bttn0505.Size = new System.Drawing.Size(25, 25);
@@ -1656,6 +1805,7 @@ namespace Games
             // 
             // bttn0205
             // 
+            this.bttn0205.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0205.Location = new System.Drawing.Point(88, 265);
             this.bttn0205.Name = "bttn0205";
             this.bttn0205.Size = new System.Drawing.Size(25, 25);
@@ -1665,6 +1815,7 @@ namespace Games
             // 
             // bttn0405
             // 
+            this.bttn0405.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0405.Location = new System.Drawing.Point(132, 265);
             this.bttn0405.Name = "bttn0405";
             this.bttn0405.Size = new System.Drawing.Size(25, 25);
@@ -1674,6 +1825,7 @@ namespace Games
             // 
             // bttn0305
             // 
+            this.bttn0305.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0305.Location = new System.Drawing.Point(111, 265);
             this.bttn0305.Name = "bttn0305";
             this.bttn0305.Size = new System.Drawing.Size(25, 25);
@@ -1683,6 +1835,7 @@ namespace Games
             // 
             // bttn0105
             // 
+            this.bttn0105.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0105.Location = new System.Drawing.Point(65, 265);
             this.bttn0105.Name = "bttn0105";
             this.bttn0105.Size = new System.Drawing.Size(25, 25);
@@ -1692,6 +1845,7 @@ namespace Games
             // 
             // bttn0005
             // 
+            this.bttn0005.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0005.Location = new System.Drawing.Point(42, 265);
             this.bttn0005.Name = "bttn0005";
             this.bttn0005.Size = new System.Drawing.Size(25, 25);
@@ -1701,6 +1855,7 @@ namespace Games
             // 
             // bttn1306
             // 
+            this.bttn1306.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1306.Location = new System.Drawing.Point(337, 243);
             this.bttn1306.Name = "bttn1306";
             this.bttn1306.Size = new System.Drawing.Size(25, 25);
@@ -1710,6 +1865,7 @@ namespace Games
             // 
             // bttn1206
             // 
+            this.bttn1206.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1206.Location = new System.Drawing.Point(314, 243);
             this.bttn1206.Name = "bttn1206";
             this.bttn1206.Size = new System.Drawing.Size(25, 25);
@@ -1719,6 +1875,7 @@ namespace Games
             // 
             // bttn1106
             // 
+            this.bttn1106.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1106.Location = new System.Drawing.Point(291, 243);
             this.bttn1106.Name = "bttn1106";
             this.bttn1106.Size = new System.Drawing.Size(25, 25);
@@ -1728,6 +1885,7 @@ namespace Games
             // 
             // bttn1006
             // 
+            this.bttn1006.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1006.Location = new System.Drawing.Point(268, 243);
             this.bttn1006.Name = "bttn1006";
             this.bttn1006.Size = new System.Drawing.Size(25, 25);
@@ -1737,6 +1895,7 @@ namespace Games
             // 
             // bttn0906
             // 
+            this.bttn0906.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0906.Location = new System.Drawing.Point(245, 243);
             this.bttn0906.Name = "bttn0906";
             this.bttn0906.Size = new System.Drawing.Size(25, 25);
@@ -1746,6 +1905,7 @@ namespace Games
             // 
             // bttn0806
             // 
+            this.bttn0806.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0806.Location = new System.Drawing.Point(222, 243);
             this.bttn0806.Name = "bttn0806";
             this.bttn0806.Size = new System.Drawing.Size(25, 25);
@@ -1755,6 +1915,7 @@ namespace Games
             // 
             // bttn0706
             // 
+            this.bttn0706.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0706.Location = new System.Drawing.Point(199, 243);
             this.bttn0706.Name = "bttn0706";
             this.bttn0706.Size = new System.Drawing.Size(25, 25);
@@ -1764,6 +1925,7 @@ namespace Games
             // 
             // bttn0606
             // 
+            this.bttn0606.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0606.Location = new System.Drawing.Point(176, 243);
             this.bttn0606.Name = "bttn0606";
             this.bttn0606.Size = new System.Drawing.Size(25, 25);
@@ -1773,6 +1935,7 @@ namespace Games
             // 
             // bttn0506
             // 
+            this.bttn0506.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0506.Location = new System.Drawing.Point(153, 243);
             this.bttn0506.Name = "bttn0506";
             this.bttn0506.Size = new System.Drawing.Size(25, 25);
@@ -1782,6 +1945,7 @@ namespace Games
             // 
             // bttn0206
             // 
+            this.bttn0206.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0206.Location = new System.Drawing.Point(88, 243);
             this.bttn0206.Name = "bttn0206";
             this.bttn0206.Size = new System.Drawing.Size(25, 25);
@@ -1791,6 +1955,7 @@ namespace Games
             // 
             // bttn0406
             // 
+            this.bttn0406.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0406.Location = new System.Drawing.Point(132, 243);
             this.bttn0406.Name = "bttn0406";
             this.bttn0406.Size = new System.Drawing.Size(25, 25);
@@ -1800,6 +1965,7 @@ namespace Games
             // 
             // bttn0306
             // 
+            this.bttn0306.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0306.Location = new System.Drawing.Point(111, 243);
             this.bttn0306.Name = "bttn0306";
             this.bttn0306.Size = new System.Drawing.Size(25, 25);
@@ -1809,6 +1975,7 @@ namespace Games
             // 
             // bttn0106
             // 
+            this.bttn0106.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0106.Location = new System.Drawing.Point(65, 243);
             this.bttn0106.Name = "bttn0106";
             this.bttn0106.Size = new System.Drawing.Size(25, 25);
@@ -1818,6 +1985,7 @@ namespace Games
             // 
             // bttn0006
             // 
+            this.bttn0006.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0006.Location = new System.Drawing.Point(42, 243);
             this.bttn0006.Name = "bttn0006";
             this.bttn0006.Size = new System.Drawing.Size(25, 25);
@@ -1827,6 +1995,7 @@ namespace Games
             // 
             // bttn1307
             // 
+            this.bttn1307.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1307.Location = new System.Drawing.Point(337, 221);
             this.bttn1307.Name = "bttn1307";
             this.bttn1307.Size = new System.Drawing.Size(25, 25);
@@ -1836,6 +2005,7 @@ namespace Games
             // 
             // bttn1207
             // 
+            this.bttn1207.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1207.Location = new System.Drawing.Point(314, 221);
             this.bttn1207.Name = "bttn1207";
             this.bttn1207.Size = new System.Drawing.Size(25, 25);
@@ -1845,6 +2015,7 @@ namespace Games
             // 
             // bttn1107
             // 
+            this.bttn1107.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1107.Location = new System.Drawing.Point(291, 221);
             this.bttn1107.Name = "bttn1107";
             this.bttn1107.Size = new System.Drawing.Size(25, 25);
@@ -1854,6 +2025,7 @@ namespace Games
             // 
             // bttn1007
             // 
+            this.bttn1007.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1007.Location = new System.Drawing.Point(268, 221);
             this.bttn1007.Name = "bttn1007";
             this.bttn1007.Size = new System.Drawing.Size(25, 25);
@@ -1863,6 +2035,7 @@ namespace Games
             // 
             // bttn0907
             // 
+            this.bttn0907.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0907.Location = new System.Drawing.Point(245, 221);
             this.bttn0907.Name = "bttn0907";
             this.bttn0907.Size = new System.Drawing.Size(25, 25);
@@ -1872,6 +2045,7 @@ namespace Games
             // 
             // bttn0807
             // 
+            this.bttn0807.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0807.Location = new System.Drawing.Point(222, 221);
             this.bttn0807.Name = "bttn0807";
             this.bttn0807.Size = new System.Drawing.Size(25, 25);
@@ -1881,6 +2055,7 @@ namespace Games
             // 
             // bttn0707
             // 
+            this.bttn0707.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0707.Location = new System.Drawing.Point(199, 221);
             this.bttn0707.Name = "bttn0707";
             this.bttn0707.Size = new System.Drawing.Size(25, 25);
@@ -1890,6 +2065,7 @@ namespace Games
             // 
             // bttn0607
             // 
+            this.bttn0607.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0607.Location = new System.Drawing.Point(176, 221);
             this.bttn0607.Name = "bttn0607";
             this.bttn0607.Size = new System.Drawing.Size(25, 25);
@@ -1899,6 +2075,7 @@ namespace Games
             // 
             // bttn0507
             // 
+            this.bttn0507.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0507.Location = new System.Drawing.Point(153, 221);
             this.bttn0507.Name = "bttn0507";
             this.bttn0507.Size = new System.Drawing.Size(25, 25);
@@ -1908,6 +2085,7 @@ namespace Games
             // 
             // bttn0207
             // 
+            this.bttn0207.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0207.Location = new System.Drawing.Point(88, 221);
             this.bttn0207.Name = "bttn0207";
             this.bttn0207.Size = new System.Drawing.Size(25, 25);
@@ -1917,6 +2095,7 @@ namespace Games
             // 
             // bttn0407
             // 
+            this.bttn0407.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0407.Location = new System.Drawing.Point(132, 221);
             this.bttn0407.Name = "bttn0407";
             this.bttn0407.Size = new System.Drawing.Size(25, 25);
@@ -1926,6 +2105,7 @@ namespace Games
             // 
             // bttn0307
             // 
+            this.bttn0307.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0307.Location = new System.Drawing.Point(111, 221);
             this.bttn0307.Name = "bttn0307";
             this.bttn0307.Size = new System.Drawing.Size(25, 25);
@@ -1935,6 +2115,7 @@ namespace Games
             // 
             // bttn0107
             // 
+            this.bttn0107.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0107.Location = new System.Drawing.Point(65, 221);
             this.bttn0107.Name = "bttn0107";
             this.bttn0107.Size = new System.Drawing.Size(25, 25);
@@ -1944,6 +2125,7 @@ namespace Games
             // 
             // bttn0007
             // 
+            this.bttn0007.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0007.Location = new System.Drawing.Point(42, 221);
             this.bttn0007.Name = "bttn0007";
             this.bttn0007.Size = new System.Drawing.Size(25, 25);
@@ -1953,6 +2135,7 @@ namespace Games
             // 
             // bttn1503
             // 
+            this.bttn1503.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1503.Location = new System.Drawing.Point(383, 310);
             this.bttn1503.Name = "bttn1503";
             this.bttn1503.Size = new System.Drawing.Size(25, 25);
@@ -1962,6 +2145,7 @@ namespace Games
             // 
             // bttn1403
             // 
+            this.bttn1403.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1403.Location = new System.Drawing.Point(360, 310);
             this.bttn1403.Name = "bttn1403";
             this.bttn1403.Size = new System.Drawing.Size(25, 25);
@@ -1971,6 +2155,7 @@ namespace Games
             // 
             // bttn1504
             // 
+            this.bttn1504.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1504.Location = new System.Drawing.Point(383, 288);
             this.bttn1504.Name = "bttn1504";
             this.bttn1504.Size = new System.Drawing.Size(25, 25);
@@ -1980,6 +2165,7 @@ namespace Games
             // 
             // bttn1404
             // 
+            this.bttn1404.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1404.Location = new System.Drawing.Point(360, 288);
             this.bttn1404.Name = "bttn1404";
             this.bttn1404.Size = new System.Drawing.Size(25, 25);
@@ -1989,6 +2175,7 @@ namespace Games
             // 
             // bttn1505
             // 
+            this.bttn1505.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1505.Location = new System.Drawing.Point(383, 265);
             this.bttn1505.Name = "bttn1505";
             this.bttn1505.Size = new System.Drawing.Size(25, 25);
@@ -1998,6 +2185,7 @@ namespace Games
             // 
             // bttn1405
             // 
+            this.bttn1405.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1405.Location = new System.Drawing.Point(360, 265);
             this.bttn1405.Name = "bttn1405";
             this.bttn1405.Size = new System.Drawing.Size(25, 25);
@@ -2007,6 +2195,7 @@ namespace Games
             // 
             // bttn1506
             // 
+            this.bttn1506.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1506.Location = new System.Drawing.Point(383, 243);
             this.bttn1506.Name = "bttn1506";
             this.bttn1506.Size = new System.Drawing.Size(25, 25);
@@ -2016,6 +2205,7 @@ namespace Games
             // 
             // bttn1406
             // 
+            this.bttn1406.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1406.Location = new System.Drawing.Point(360, 243);
             this.bttn1406.Name = "bttn1406";
             this.bttn1406.Size = new System.Drawing.Size(25, 25);
@@ -2025,6 +2215,7 @@ namespace Games
             // 
             // bttn1507
             // 
+            this.bttn1507.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1507.Location = new System.Drawing.Point(383, 221);
             this.bttn1507.Name = "bttn1507";
             this.bttn1507.Size = new System.Drawing.Size(25, 25);
@@ -2034,6 +2225,7 @@ namespace Games
             // 
             // bttn1407
             // 
+            this.bttn1407.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1407.Location = new System.Drawing.Point(360, 221);
             this.bttn1407.Name = "bttn1407";
             this.bttn1407.Size = new System.Drawing.Size(25, 25);
@@ -2043,6 +2235,7 @@ namespace Games
             // 
             // bttn1508
             // 
+            this.bttn1508.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1508.Location = new System.Drawing.Point(383, 198);
             this.bttn1508.Name = "bttn1508";
             this.bttn1508.Size = new System.Drawing.Size(25, 25);
@@ -2052,6 +2245,7 @@ namespace Games
             // 
             // bttn1408
             // 
+            this.bttn1408.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1408.Location = new System.Drawing.Point(360, 198);
             this.bttn1408.Name = "bttn1408";
             this.bttn1408.Size = new System.Drawing.Size(25, 25);
@@ -2061,6 +2255,7 @@ namespace Games
             // 
             // bttn1509
             // 
+            this.bttn1509.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1509.Location = new System.Drawing.Point(383, 176);
             this.bttn1509.Name = "bttn1509";
             this.bttn1509.Size = new System.Drawing.Size(25, 25);
@@ -2070,6 +2265,7 @@ namespace Games
             // 
             // bttn1409
             // 
+            this.bttn1409.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1409.Location = new System.Drawing.Point(360, 176);
             this.bttn1409.Name = "bttn1409";
             this.bttn1409.Size = new System.Drawing.Size(25, 25);
@@ -2079,6 +2275,7 @@ namespace Games
             // 
             // bttn1510
             // 
+            this.bttn1510.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1510.Location = new System.Drawing.Point(383, 153);
             this.bttn1510.Name = "bttn1510";
             this.bttn1510.Size = new System.Drawing.Size(25, 25);
@@ -2088,6 +2285,7 @@ namespace Games
             // 
             // bttn1410
             // 
+            this.bttn1410.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1410.Location = new System.Drawing.Point(360, 153);
             this.bttn1410.Name = "bttn1410";
             this.bttn1410.Size = new System.Drawing.Size(25, 25);
@@ -2097,6 +2295,7 @@ namespace Games
             // 
             // bttn1511
             // 
+            this.bttn1511.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1511.Location = new System.Drawing.Point(383, 131);
             this.bttn1511.Name = "bttn1511";
             this.bttn1511.Size = new System.Drawing.Size(25, 25);
@@ -2107,6 +2306,7 @@ namespace Games
             // 
             // bttn1411
             // 
+            this.bttn1411.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1411.Location = new System.Drawing.Point(360, 131);
             this.bttn1411.Name = "bttn1411";
             this.bttn1411.Size = new System.Drawing.Size(25, 25);
@@ -2117,6 +2317,7 @@ namespace Games
             // 
             // bttn1512
             // 
+            this.bttn1512.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1512.Location = new System.Drawing.Point(383, 109);
             this.bttn1512.Name = "bttn1512";
             this.bttn1512.Size = new System.Drawing.Size(25, 25);
@@ -2126,6 +2327,7 @@ namespace Games
             // 
             // bttn1412
             // 
+            this.bttn1412.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1412.Location = new System.Drawing.Point(360, 109);
             this.bttn1412.Name = "bttn1412";
             this.bttn1412.Size = new System.Drawing.Size(25, 25);
@@ -2135,6 +2337,7 @@ namespace Games
             // 
             // bttn1513
             // 
+            this.bttn1513.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1513.Location = new System.Drawing.Point(383, 87);
             this.bttn1513.Name = "bttn1513";
             this.bttn1513.Size = new System.Drawing.Size(25, 25);
@@ -2144,6 +2347,7 @@ namespace Games
             // 
             // bttn1413
             // 
+            this.bttn1413.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1413.Location = new System.Drawing.Point(360, 87);
             this.bttn1413.Name = "bttn1413";
             this.bttn1413.Size = new System.Drawing.Size(25, 25);
@@ -2153,6 +2357,7 @@ namespace Games
             // 
             // bttn1514
             // 
+            this.bttn1514.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1514.Location = new System.Drawing.Point(383, 64);
             this.bttn1514.Name = "bttn1514";
             this.bttn1514.Size = new System.Drawing.Size(25, 25);
@@ -2162,6 +2367,7 @@ namespace Games
             // 
             // bttn1414
             // 
+            this.bttn1414.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1414.Location = new System.Drawing.Point(360, 64);
             this.bttn1414.Name = "bttn1414";
             this.bttn1414.Size = new System.Drawing.Size(25, 25);
@@ -2171,6 +2377,7 @@ namespace Games
             // 
             // bttn1515
             // 
+            this.bttn1515.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1515.Location = new System.Drawing.Point(383, 42);
             this.bttn1515.Name = "bttn1515";
             this.bttn1515.Size = new System.Drawing.Size(25, 25);
@@ -2180,6 +2387,7 @@ namespace Games
             // 
             // bttn1415
             // 
+            this.bttn1415.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1415.Location = new System.Drawing.Point(360, 42);
             this.bttn1415.Name = "bttn1415";
             this.bttn1415.Size = new System.Drawing.Size(25, 25);
@@ -2189,6 +2397,7 @@ namespace Games
             // 
             // bttn1500
             // 
+            this.bttn1500.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1500.Location = new System.Drawing.Point(383, 377);
             this.bttn1500.Name = "bttn1500";
             this.bttn1500.Size = new System.Drawing.Size(25, 25);
@@ -2198,6 +2407,7 @@ namespace Games
             // 
             // bttn1400
             // 
+            this.bttn1400.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1400.Location = new System.Drawing.Point(360, 377);
             this.bttn1400.Name = "bttn1400";
             this.bttn1400.Size = new System.Drawing.Size(25, 25);
@@ -2207,6 +2417,7 @@ namespace Games
             // 
             // bttn1501
             // 
+            this.bttn1501.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1501.Location = new System.Drawing.Point(383, 355);
             this.bttn1501.Name = "bttn1501";
             this.bttn1501.Size = new System.Drawing.Size(25, 25);
@@ -2216,6 +2427,7 @@ namespace Games
             // 
             // bttn1401
             // 
+            this.bttn1401.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1401.Location = new System.Drawing.Point(360, 355);
             this.bttn1401.Name = "bttn1401";
             this.bttn1401.Size = new System.Drawing.Size(25, 25);
@@ -2225,6 +2437,7 @@ namespace Games
             // 
             // bttn1502
             // 
+            this.bttn1502.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1502.Location = new System.Drawing.Point(383, 332);
             this.bttn1502.Name = "bttn1502";
             this.bttn1502.Size = new System.Drawing.Size(25, 25);
@@ -2234,6 +2447,7 @@ namespace Games
             // 
             // bttn1402
             // 
+            this.bttn1402.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1402.Location = new System.Drawing.Point(360, 332);
             this.bttn1402.Name = "bttn1402";
             this.bttn1402.Size = new System.Drawing.Size(25, 25);
@@ -2243,6 +2457,7 @@ namespace Games
             // 
             // bttn1300
             // 
+            this.bttn1300.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1300.Location = new System.Drawing.Point(337, 377);
             this.bttn1300.Name = "bttn1300";
             this.bttn1300.Size = new System.Drawing.Size(25, 25);
@@ -2252,6 +2467,7 @@ namespace Games
             // 
             // bttn1200
             // 
+            this.bttn1200.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1200.Location = new System.Drawing.Point(314, 377);
             this.bttn1200.Name = "bttn1200";
             this.bttn1200.Size = new System.Drawing.Size(25, 25);
@@ -2261,6 +2477,7 @@ namespace Games
             // 
             // bttn1100
             // 
+            this.bttn1100.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1100.Location = new System.Drawing.Point(291, 377);
             this.bttn1100.Name = "bttn1100";
             this.bttn1100.Size = new System.Drawing.Size(25, 25);
@@ -2270,6 +2487,7 @@ namespace Games
             // 
             // bttn1000
             // 
+            this.bttn1000.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1000.Location = new System.Drawing.Point(268, 377);
             this.bttn1000.Name = "bttn1000";
             this.bttn1000.Size = new System.Drawing.Size(25, 25);
@@ -2279,6 +2497,7 @@ namespace Games
             // 
             // bttn0900
             // 
+            this.bttn0900.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0900.Location = new System.Drawing.Point(245, 377);
             this.bttn0900.Name = "bttn0900";
             this.bttn0900.Size = new System.Drawing.Size(25, 25);
@@ -2288,6 +2507,7 @@ namespace Games
             // 
             // bttn0800
             // 
+            this.bttn0800.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0800.Location = new System.Drawing.Point(222, 377);
             this.bttn0800.Name = "bttn0800";
             this.bttn0800.Size = new System.Drawing.Size(25, 25);
@@ -2297,6 +2517,7 @@ namespace Games
             // 
             // bttn0700
             // 
+            this.bttn0700.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0700.Location = new System.Drawing.Point(199, 377);
             this.bttn0700.Name = "bttn0700";
             this.bttn0700.Size = new System.Drawing.Size(25, 25);
@@ -2306,6 +2527,7 @@ namespace Games
             // 
             // bttn0600
             // 
+            this.bttn0600.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0600.Location = new System.Drawing.Point(176, 377);
             this.bttn0600.Name = "bttn0600";
             this.bttn0600.Size = new System.Drawing.Size(25, 25);
@@ -2315,6 +2537,7 @@ namespace Games
             // 
             // bttn0500
             // 
+            this.bttn0500.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0500.Location = new System.Drawing.Point(153, 377);
             this.bttn0500.Name = "bttn0500";
             this.bttn0500.Size = new System.Drawing.Size(25, 25);
@@ -2324,6 +2547,7 @@ namespace Games
             // 
             // bttn0200
             // 
+            this.bttn0200.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0200.Location = new System.Drawing.Point(88, 377);
             this.bttn0200.Name = "bttn0200";
             this.bttn0200.Size = new System.Drawing.Size(25, 25);
@@ -2333,6 +2557,7 @@ namespace Games
             // 
             // bttn0400
             // 
+            this.bttn0400.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0400.Location = new System.Drawing.Point(132, 377);
             this.bttn0400.Name = "bttn0400";
             this.bttn0400.Size = new System.Drawing.Size(25, 25);
@@ -2342,6 +2567,7 @@ namespace Games
             // 
             // bttn0300
             // 
+            this.bttn0300.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0300.Location = new System.Drawing.Point(111, 377);
             this.bttn0300.Name = "bttn0300";
             this.bttn0300.Size = new System.Drawing.Size(25, 25);
@@ -2351,6 +2577,7 @@ namespace Games
             // 
             // bttn0100
             // 
+            this.bttn0100.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0100.Location = new System.Drawing.Point(65, 377);
             this.bttn0100.Name = "bttn0100";
             this.bttn0100.Size = new System.Drawing.Size(25, 25);
@@ -2360,6 +2587,7 @@ namespace Games
             // 
             // bttn0000
             // 
+            this.bttn0000.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0000.Location = new System.Drawing.Point(42, 377);
             this.bttn0000.Name = "bttn0000";
             this.bttn0000.Size = new System.Drawing.Size(25, 25);
@@ -2369,6 +2597,7 @@ namespace Games
             // 
             // bttn1301
             // 
+            this.bttn1301.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1301.Location = new System.Drawing.Point(337, 355);
             this.bttn1301.Name = "bttn1301";
             this.bttn1301.Size = new System.Drawing.Size(25, 25);
@@ -2378,6 +2607,7 @@ namespace Games
             // 
             // bttn1201
             // 
+            this.bttn1201.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1201.Location = new System.Drawing.Point(314, 355);
             this.bttn1201.Name = "bttn1201";
             this.bttn1201.Size = new System.Drawing.Size(25, 25);
@@ -2387,6 +2617,7 @@ namespace Games
             // 
             // bttn1101
             // 
+            this.bttn1101.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1101.Location = new System.Drawing.Point(291, 355);
             this.bttn1101.Name = "bttn1101";
             this.bttn1101.Size = new System.Drawing.Size(25, 25);
@@ -2396,6 +2627,7 @@ namespace Games
             // 
             // bttn1001
             // 
+            this.bttn1001.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1001.Location = new System.Drawing.Point(268, 355);
             this.bttn1001.Name = "bttn1001";
             this.bttn1001.Size = new System.Drawing.Size(25, 25);
@@ -2405,6 +2637,7 @@ namespace Games
             // 
             // bttn0901
             // 
+            this.bttn0901.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0901.Location = new System.Drawing.Point(245, 355);
             this.bttn0901.Name = "bttn0901";
             this.bttn0901.Size = new System.Drawing.Size(25, 25);
@@ -2414,6 +2647,7 @@ namespace Games
             // 
             // bttn0801
             // 
+            this.bttn0801.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0801.Location = new System.Drawing.Point(222, 355);
             this.bttn0801.Name = "bttn0801";
             this.bttn0801.Size = new System.Drawing.Size(25, 25);
@@ -2423,6 +2657,7 @@ namespace Games
             // 
             // bttn0701
             // 
+            this.bttn0701.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0701.Location = new System.Drawing.Point(199, 355);
             this.bttn0701.Name = "bttn0701";
             this.bttn0701.Size = new System.Drawing.Size(25, 25);
@@ -2432,6 +2667,7 @@ namespace Games
             // 
             // bttn0601
             // 
+            this.bttn0601.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0601.Location = new System.Drawing.Point(176, 355);
             this.bttn0601.Name = "bttn0601";
             this.bttn0601.Size = new System.Drawing.Size(25, 25);
@@ -2441,6 +2677,7 @@ namespace Games
             // 
             // bttn0501
             // 
+            this.bttn0501.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0501.Location = new System.Drawing.Point(153, 355);
             this.bttn0501.Name = "bttn0501";
             this.bttn0501.Size = new System.Drawing.Size(25, 25);
@@ -2450,6 +2687,7 @@ namespace Games
             // 
             // bttn0201
             // 
+            this.bttn0201.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0201.Location = new System.Drawing.Point(88, 355);
             this.bttn0201.Name = "bttn0201";
             this.bttn0201.Size = new System.Drawing.Size(25, 25);
@@ -2459,6 +2697,7 @@ namespace Games
             // 
             // bttn0401
             // 
+            this.bttn0401.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0401.Location = new System.Drawing.Point(132, 355);
             this.bttn0401.Name = "bttn0401";
             this.bttn0401.Size = new System.Drawing.Size(25, 25);
@@ -2468,6 +2707,7 @@ namespace Games
             // 
             // bttn0301
             // 
+            this.bttn0301.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0301.Location = new System.Drawing.Point(111, 355);
             this.bttn0301.Name = "bttn0301";
             this.bttn0301.Size = new System.Drawing.Size(25, 25);
@@ -2477,6 +2717,7 @@ namespace Games
             // 
             // bttn0101
             // 
+            this.bttn0101.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0101.Location = new System.Drawing.Point(65, 355);
             this.bttn0101.Name = "bttn0101";
             this.bttn0101.Size = new System.Drawing.Size(25, 25);
@@ -2486,6 +2727,7 @@ namespace Games
             // 
             // bttn0001
             // 
+            this.bttn0001.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0001.Location = new System.Drawing.Point(42, 355);
             this.bttn0001.Name = "bttn0001";
             this.bttn0001.Size = new System.Drawing.Size(25, 25);
@@ -2495,6 +2737,7 @@ namespace Games
             // 
             // bttn1302
             // 
+            this.bttn1302.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1302.Location = new System.Drawing.Point(337, 332);
             this.bttn1302.Name = "bttn1302";
             this.bttn1302.Size = new System.Drawing.Size(25, 25);
@@ -2504,6 +2747,7 @@ namespace Games
             // 
             // bttn1202
             // 
+            this.bttn1202.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1202.Location = new System.Drawing.Point(314, 332);
             this.bttn1202.Name = "bttn1202";
             this.bttn1202.Size = new System.Drawing.Size(25, 25);
@@ -2513,6 +2757,7 @@ namespace Games
             // 
             // bttn1102
             // 
+            this.bttn1102.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1102.Location = new System.Drawing.Point(291, 332);
             this.bttn1102.Name = "bttn1102";
             this.bttn1102.Size = new System.Drawing.Size(25, 25);
@@ -2522,6 +2767,7 @@ namespace Games
             // 
             // bttn1002
             // 
+            this.bttn1002.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn1002.Location = new System.Drawing.Point(268, 332);
             this.bttn1002.Name = "bttn1002";
             this.bttn1002.Size = new System.Drawing.Size(25, 25);
@@ -2531,6 +2777,7 @@ namespace Games
             // 
             // bttn0902
             // 
+            this.bttn0902.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0902.Location = new System.Drawing.Point(245, 332);
             this.bttn0902.Name = "bttn0902";
             this.bttn0902.Size = new System.Drawing.Size(25, 25);
@@ -2540,6 +2787,7 @@ namespace Games
             // 
             // bttn0802
             // 
+            this.bttn0802.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0802.Location = new System.Drawing.Point(222, 332);
             this.bttn0802.Name = "bttn0802";
             this.bttn0802.Size = new System.Drawing.Size(25, 25);
@@ -2549,6 +2797,7 @@ namespace Games
             // 
             // bttn0702
             // 
+            this.bttn0702.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0702.Location = new System.Drawing.Point(199, 332);
             this.bttn0702.Name = "bttn0702";
             this.bttn0702.Size = new System.Drawing.Size(25, 25);
@@ -2558,6 +2807,7 @@ namespace Games
             // 
             // bttn0602
             // 
+            this.bttn0602.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0602.Location = new System.Drawing.Point(176, 332);
             this.bttn0602.Name = "bttn0602";
             this.bttn0602.Size = new System.Drawing.Size(25, 25);
@@ -2567,6 +2817,7 @@ namespace Games
             // 
             // bttn0502
             // 
+            this.bttn0502.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0502.Location = new System.Drawing.Point(153, 332);
             this.bttn0502.Name = "bttn0502";
             this.bttn0502.Size = new System.Drawing.Size(25, 25);
@@ -2576,6 +2827,7 @@ namespace Games
             // 
             // bttn0202
             // 
+            this.bttn0202.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0202.Location = new System.Drawing.Point(88, 332);
             this.bttn0202.Name = "bttn0202";
             this.bttn0202.Size = new System.Drawing.Size(25, 25);
@@ -2585,6 +2837,7 @@ namespace Games
             // 
             // bttn0402
             // 
+            this.bttn0402.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0402.Location = new System.Drawing.Point(132, 332);
             this.bttn0402.Name = "bttn0402";
             this.bttn0402.Size = new System.Drawing.Size(25, 25);
@@ -2594,6 +2847,7 @@ namespace Games
             // 
             // bttn0302
             // 
+            this.bttn0302.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0302.Location = new System.Drawing.Point(111, 332);
             this.bttn0302.Name = "bttn0302";
             this.bttn0302.Size = new System.Drawing.Size(25, 25);
@@ -2603,6 +2857,7 @@ namespace Games
             // 
             // bttn0102
             // 
+            this.bttn0102.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0102.Location = new System.Drawing.Point(65, 332);
             this.bttn0102.Name = "bttn0102";
             this.bttn0102.Size = new System.Drawing.Size(25, 25);
@@ -2612,6 +2867,7 @@ namespace Games
             // 
             // bttn0002
             // 
+            this.bttn0002.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bttn0002.Location = new System.Drawing.Point(42, 332);
             this.bttn0002.Name = "bttn0002";
             this.bttn0002.Size = new System.Drawing.Size(25, 25);

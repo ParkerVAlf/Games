@@ -14,6 +14,7 @@ namespace Games
     public partial class Minesweeper : Form
     {
         int buttonsPressed; // Tracks how many squares you've cleared
+        bool gameOver;
         Button[,] squares;  // Stores buttons
         int[,] values;      // Stores each square score, -1 represents a mine
         public const int MINES = 40;
@@ -26,6 +27,7 @@ namespace Games
         private void Minesweeper_Load(object sender, EventArgs e)
         {
             buttonsPressed = 0;
+            gameOver = false;
             squares = new Button[16, 16];
             values = new int[16, 16];
 
@@ -57,6 +59,13 @@ namespace Games
                 }
             }
 
+            // Properly generate everything
+            generateMines();
+            
+        }
+
+        private void generateMines()
+        {
             // Placing mines (represented in values[,] as a -1)
             Random rnd = new Random();
             int x, y;
@@ -66,7 +75,7 @@ namespace Games
                 {
                     x = rnd.Next(16);
                     y = rnd.Next(16);
-                    if (values[x,y] != -1)
+                    if (values[x, y] != -1)
                     {
                         values[x, y] = -1;
                         break;
@@ -121,10 +130,60 @@ namespace Games
         }
 
 
+        private void displayNum(int x, int y)
+        {
+            if (values[x, y] != 0)
+                squares[x,y].Text = values[x, y].ToString();
+        }
+
+        private int clearZeroes(int x, int y)
+        {
+            int count = 0;
+            if (values[x, y] != 0 || squares[x, y].Enabled == false)
+            {
+                displayNum(x, y);
+                return count;
+            }
+
+            count++;
+            squares[x, y].Enabled = false;
+
+            if (x - 1 >= 0)
+                count += clearZeroes(x - 1, y);
+            if (x + 1 < 16)
+                count += clearZeroes(x + 1, y);
+            if (y - 1 >= 0)
+                count += clearZeroes(x, y - 1);
+            if (y + 1 < 16)
+                count += clearZeroes(x, y + 1);
+
+            return count;
+        }
+
+        private void resetBoard()
+        {
+            buttonsPressed = 0;
+            gameOver = false;
+
+            for (int x = 0; x < 16; x++)
+            {
+                for (int y = 0; y < 16; y++)
+                {
+                    squares[x, y].Enabled = true;
+                    squares[x, y].Text = "";
+                    values[x, y] = 0;
+                }
+            }
+            generateMines();
+        }
 
         // Logic of game
         private void mineSquare_MouseDown(object sender, MouseEventArgs e)
         {
+            // Making sure game hasn't ended
+            if (gameOver)
+                return;
+
             // Getting button position from name
             Button b = (Button)sender;
             string name = b.Name;
@@ -144,13 +203,51 @@ namespace Games
             // Left click logic
             if (e.Button == MouseButtons.Left)
             {
-                testLbl.Text = x.ToString() + ", " + y.ToString() + " Left";
-                b.Text = values[x, y].ToString();
+                //testLbl.Text = x.ToString() + ", " + y.ToString() + " Left
+
+                // Making sure first move clears out a space at least 3 squares large.
+                if (buttonsPressed == 0)
+                {
+                    while (true)
+                    {
+                        Console.WriteLine("BALLS");
+                        if (values[x, y] != 0)
+                        {
+                            generateMines();
+                            continue;
+                        }
+                        else if (clearZeroes(x, y) <= 2)
+                        {
+                            resetBoard();
+                            continue;
+                        }
+                        else
+                            break;
+                    }
+                }
+
+                // Skipping marked clicks
+                if (squares[x, y].Text == "!")
+                    return;
+
+                buttonsPressed++;
+                displayNum(x, y);
+                squares[x, y].Enabled = false;
             }
             // Right click logic
             else if (e.Button == MouseButtons.Right)
             {
-                testLbl.Text = x.ToString() + ", " + y.ToString() + " Right";
+                //testLbl.Text = x.ToString() + ", " + y.ToString() + " Right";
+                if (squares[x, y].Text == "")
+                {
+                    squares[x, y].Text = "!";
+                    squares[x, y].ForeColor = Color.Red;
+                }
+                else if (squares[x, y].Text == "!")
+                {
+                    squares[x, y].Text = "";
+                    squares[x, y].ForeColor = Color.Black;
+                }
             }
         }
 
