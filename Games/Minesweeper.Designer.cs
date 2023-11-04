@@ -2878,7 +2878,7 @@ namespace Games
             // testLbl
             // 
             this.testLbl.AutoSize = true;
-            this.testLbl.Location = new System.Drawing.Point(338, 449);
+            this.testLbl.Location = new System.Drawing.Point(314, 477);
             this.testLbl.Name = "testLbl";
             this.testLbl.Size = new System.Drawing.Size(0, 15);
             this.testLbl.TabIndex = 257;

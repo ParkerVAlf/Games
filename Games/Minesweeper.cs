@@ -60,8 +60,10 @@ namespace Games
             }
 
             // Properly generate everything
+            testLbl.Text = "PENBIS";
             generateMines();
-            
+            testLbl.Text = "BOOBS";
+
         }
 
         private void generateMines()
@@ -147,6 +149,7 @@ namespace Games
 
             count++;
             squares[x, y].Enabled = false;
+            buttonsPressed++;
 
             if (x - 1 >= 0)
                 count += clearZeroes(x - 1, y);
@@ -180,6 +183,7 @@ namespace Games
         // Logic of game
         private void mineSquare_MouseDown(object sender, MouseEventArgs e)
         {
+            testLbl.Text = "mm";
             // Making sure game hasn't ended
             if (gameOver)
                 return;
@@ -203,6 +207,7 @@ namespace Games
             // Left click logic
             if (e.Button == MouseButtons.Left)
             {
+                testLbl.Text = "SHIT";
                 //testLbl.Text = x.ToString() + ", " + y.ToString() + " Left
 
                 // Making sure first move clears out a space at least 3 squares large.
@@ -210,7 +215,7 @@ namespace Games
                 {
                     while (true)
                     {
-                        Console.WriteLine("BALLS");
+                        testLbl.Text ="BALLS";
                         if (values[x, y] != 0)
                         {
                             generateMines();
