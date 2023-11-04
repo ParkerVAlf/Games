@@ -10,33 +10,44 @@ namespace Games
 {
     public partial class Minesweeper : Form
     {
-        int buttonsPressed = 0;
+        int buttonsPressed; // Tracks how many squares you've cleared
+        Button[,] squares;  // Stores buttons
+        int[,] values;      // Stores each square score, -1 represents a mine
 
         public Minesweeper()
         {
             InitializeComponent();
+
+            buttonsPressed = 0;
+            squares = new Button[10, 10];
+            values = new int[10, 10];
+
+            //Generating buttons
             this.Shown += CreateButtonDelegate;
         }
 
         private void Minesweeper_Load(object sender, EventArgs e)
         {
-            /*for (int row = 0; row < 1; row++)
+            
+        }
+
+        // Called to generate and place buttons
+        private void CreateButtonDelegate(object sender, EventArgs e)
+        {
+
+            for (int row = 0; row < 10; row++)
             {
                 for (int col = 0; col < 1; col++)
                 {
-                    Button newButton = new Button();
+                    squares[row, col] = new Button();
+                    this.Controls.Add(squares[row, col]);
+                    //squares[row, col] += new System.EventHandler(this.mineSquare_MouseDown);
+                    squares[row, col].Text = "";
+                    squares[row, col].Size = new Size(25, 25);
+                    squares[row, col].Location = new Point(50 + (23 * row), 50);
 
                 }
-            }*/
-        }
-        private void CreateButtonDelegate(object sender, EventArgs e)
-        {
-            Button newButton = new Button();
-            this.Controls.Add(newButton);
-            newButton.Text = "";
-            newButton.Location = new Point(70, 70);
-            newButton.Size = new Size(25, 25);
-            newButton.Location = new Point(20, 50);
+            }
         }
 
         private void mineSquare_MouseDown(object sender, MouseEventArgs e)
