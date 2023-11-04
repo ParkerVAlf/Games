@@ -33,7 +33,7 @@
             // 
             // quitBttn
             // 
-            this.quitBttn.Location = new System.Drawing.Point(383, 278);
+            this.quitBttn.Location = new System.Drawing.Point(688, 399);
             this.quitBttn.Name = "quitBttn";
             this.quitBttn.Size = new System.Drawing.Size(75, 23);
             this.quitBttn.TabIndex = 0;

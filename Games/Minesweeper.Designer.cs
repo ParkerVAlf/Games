@@ -34,7 +34,7 @@ namespace Games
             // 
             // quitBttn
             // 
-            this.quitBttn.Location = new System.Drawing.Point(544, 361);
+            this.quitBttn.Location = new System.Drawing.Point(211, 526);
             this.quitBttn.Name = "quitBttn";
             this.quitBttn.Size = new System.Drawing.Size(126, 49);
             this.quitBttn.TabIndex = 0;
@@ -46,7 +46,7 @@ namespace Games
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(539, 587);
             this.Controls.Add(this.quitBttn);
             this.Name = "Minesweeper";
             this.Text = "Minesweeper";

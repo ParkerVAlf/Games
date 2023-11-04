@@ -20,7 +20,7 @@ namespace Games
 
         }
 
-        // Quit button
+        // Closes form and reopens Menu
         private void quitBttn_Click(object sender, EventArgs e)
         {
             this.Hide();

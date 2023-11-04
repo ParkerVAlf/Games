@@ -21,11 +21,7 @@ namespace Games
 
         }
 
-        private void quitBttn_Click(Object sender, EventArgs e)
-        {
-            this.Close();
-        }
-
+        // Opens Memory game
         private void memoryBttn_Click(object sender, EventArgs e)
         {
             this.Hide();
@@ -34,6 +30,7 @@ namespace Games
             this.Close();
         }
 
+        // Opens Yahtzee
         private void yahtzeeBttn_Click(object sender, EventArgs e)
         {
             this.Hide();
@@ -42,6 +39,7 @@ namespace Games
             this.Close();
         }
 
+        // Opens Blackjack
         private void blackjackBttn_Click(object sender, EventArgs e)
         {
             this.Hide();
@@ -50,11 +48,18 @@ namespace Games
             this.Close();
         }
 
+        // Opens Minesweeper
         private void mineBttn_Click(object sender, EventArgs e)
         {
             this.Hide();
             Minesweeper mineForm = new Minesweeper();
             mineForm.ShowDialog();
+            this.Close();
+        }
+
+        // Closes program
+        private void quitBttn_Click(Object sender, EventArgs e)
+        {
             this.Close();
         }
     }
