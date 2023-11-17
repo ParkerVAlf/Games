@@ -62,5 +62,13 @@ namespace Games
         {
             this.Close();
         }
+
+        private void snakeBttn_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Snake snakeForm = new Snake();
+            snakeForm.ShowDialog();
+            this.Close();
+        }
     }
 }

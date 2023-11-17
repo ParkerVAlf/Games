@@ -28,5 +28,20 @@ namespace Games
             menuForm.ShowDialog();
             this.Close();
         }
+
+        private void playBtn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void hitBtn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void standBtn_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
