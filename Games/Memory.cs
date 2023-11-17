@@ -33,5 +33,10 @@ namespace Games
         {
 
         }
+
+        private void p00_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
