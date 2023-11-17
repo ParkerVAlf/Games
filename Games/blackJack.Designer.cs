@@ -111,6 +111,7 @@
             playBtn.TabIndex = 6;
             playBtn.Text = "button1";
             playBtn.UseVisualStyleBackColor = true;
+            playBtn.Click += playBtn_Click;
             // 
             // hitBtn
             // 
@@ -120,6 +121,7 @@
             hitBtn.TabIndex = 7;
             hitBtn.Text = "button2";
             hitBtn.UseVisualStyleBackColor = true;
+            hitBtn.Click += hitBtn_Click;
             // 
             // standBtn
             // 
@@ -129,6 +131,7 @@
             standBtn.TabIndex = 8;
             standBtn.Text = "button3";
             standBtn.UseVisualStyleBackColor = true;
+            standBtn.Click += standBtn_Click;
             // 
             // betUpDown
             // 
