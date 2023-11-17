@@ -239,7 +239,7 @@ namespace Games
             if (e.Button == MouseButtons.Left)
             {
                 //testLbl.Text = "SHIT";
-                testLbl.Text = x.ToString() + ", " + y.ToString() + " Left";
+                //testLbl.Text = x.ToString() + ", " + y.ToString() + " Left";
 
                 // Making sure first move clears out a space at least 3 squares large.
                 if (buttonsPressed == 0)
