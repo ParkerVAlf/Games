@@ -29,31 +29,30 @@ namespace Games
         /// </summary>
         private void InitializeComponent()
         {
-            this.quitBttn = new System.Windows.Forms.Button();
-            this.SuspendLayout();
+            quitBttn = new System.Windows.Forms.Button();
+            SuspendLayout();
             // 
             // quitBttn
             // 
-            this.quitBttn.Location = new System.Drawing.Point(141, 390);
-            this.quitBttn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.quitBttn.Name = "quitBttn";
-            this.quitBttn.Size = new System.Drawing.Size(82, 22);
-            this.quitBttn.TabIndex = 0;
-            this.quitBttn.Text = "Quit";
-            this.quitBttn.UseVisualStyleBackColor = true;
-            this.quitBttn.Click += new System.EventHandler(this.quitBttn_Click);
+            quitBttn.Location = new System.Drawing.Point(128, 331);
+            quitBttn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            quitBttn.Name = "quitBttn";
+            quitBttn.Size = new System.Drawing.Size(82, 22);
+            quitBttn.TabIndex = 0;
+            quitBttn.Text = "Quit";
+            quitBttn.UseVisualStyleBackColor = true;
+            quitBttn.Click += quitBttn_Click;
             // 
             // Memory
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(388, 444);
-            this.Controls.Add(this.quitBttn);
-            this.Name = "Memory";
-            this.Text = "Memory";
-            this.ResumeLayout(false);
-
+            AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            BackColor = System.Drawing.SystemColors.ActiveCaption;
+            ClientSize = new System.Drawing.Size(388, 444);
+            Controls.Add(quitBttn);
+            Name = "Memory";
+            Text = "Memory";
+            ResumeLayout(false);
         }
 
         #endregion
