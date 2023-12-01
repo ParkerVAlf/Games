@@ -57,12 +57,8 @@ namespace Games
             this.Close();
         }
 
-        // Closes program
-        private void quitBttn_Click(Object sender, EventArgs e)
-        {
-            this.Close();
-        }
-
+        
+        // Opens Snake
         private void snakeBttn_Click(object sender, EventArgs e)
         {
             this.Hide();
@@ -70,5 +66,21 @@ namespace Games
             snakeForm.ShowDialog();
             this.Close();
         }
+
+        // Opens Breakout
+        private void breakoutBttn_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Breakout breakoutForm = new Breakout();
+            breakoutForm.ShowDialog();
+            this.Close();
+        }
+        
+        // Closes program
+        private void quitBttn_Click(Object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
     }
 }

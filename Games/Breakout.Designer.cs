@@ -1,6 +1,6 @@
 ﻿namespace Games
 {
-    partial class Snake
+    partial class Breakout
     {
         /// <summary>
         /// Required designer variable.
@@ -28,19 +28,37 @@
         /// </summary>
         private void InitializeComponent()
         {
+            label1 = new System.Windows.Forms.Label();
             SuspendLayout();
             // 
-            // Snake
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.BackColor = System.Drawing.Color.AliceBlue;
+            label1.ForeColor = System.Drawing.Color.Coral;
+            label1.Location = new System.Drawing.Point(270, 194);
+            label1.Name = "label1";
+            label1.Size = new System.Drawing.Size(48, 25);
+            label1.TabIndex = 0;
+            label1.Text = "balls";
+            // 
+            // Breakout
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             ClientSize = new System.Drawing.Size(800, 450);
-            Name = "Snake";
-            Text = "Snake";
-            Load += Snake_Load;
+            Controls.Add(label1);
+            KeyPreview = true;
+            Name = "Breakout";
+            Text = "Breakout";
+            Load += Breakout_Load;
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private System.Windows.Forms.Label label1;
     }
 }

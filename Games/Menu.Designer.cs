@@ -35,6 +35,7 @@ namespace Games
             quitBttn = new System.Windows.Forms.Button();
             mineBttn = new System.Windows.Forms.Button();
             snakeBttn = new System.Windows.Forms.Button();
+            breakoutBttn = new System.Windows.Forms.Button();
             SuspendLayout();
             // 
             // memoryBttn
@@ -43,10 +44,10 @@ namespace Games
             memoryBttn.BackgroundImage = Properties.Resources.GameButtonBlue;
             memoryBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(70, 231, 209);
             memoryBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            memoryBttn.Location = new System.Drawing.Point(14, 36);
-            memoryBttn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            memoryBttn.Location = new System.Drawing.Point(18, 45);
+            memoryBttn.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             memoryBttn.Name = "memoryBttn";
-            memoryBttn.Size = new System.Drawing.Size(127, 73);
+            memoryBttn.Size = new System.Drawing.Size(159, 91);
             memoryBttn.TabIndex = 0;
             memoryBttn.Text = "Memory";
             memoryBttn.UseVisualStyleBackColor = false;
@@ -58,10 +59,10 @@ namespace Games
             yahtzeeBttn.BackgroundImage = Properties.Resources.GameButtonBlue;
             yahtzeeBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(70, 231, 209);
             yahtzeeBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            yahtzeeBttn.Location = new System.Drawing.Point(160, 36);
-            yahtzeeBttn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            yahtzeeBttn.Location = new System.Drawing.Point(200, 45);
+            yahtzeeBttn.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             yahtzeeBttn.Name = "yahtzeeBttn";
-            yahtzeeBttn.Size = new System.Drawing.Size(127, 73);
+            yahtzeeBttn.Size = new System.Drawing.Size(159, 91);
             yahtzeeBttn.TabIndex = 1;
             yahtzeeBttn.Text = "Yahtzee";
             yahtzeeBttn.UseVisualStyleBackColor = false;
@@ -73,10 +74,10 @@ namespace Games
             blackjackBttn.BackgroundImage = Properties.Resources.GameButtonBlue;
             blackjackBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(70, 231, 209);
             blackjackBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            blackjackBttn.Location = new System.Drawing.Point(307, 36);
-            blackjackBttn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            blackjackBttn.Location = new System.Drawing.Point(384, 45);
+            blackjackBttn.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             blackjackBttn.Name = "blackjackBttn";
-            blackjackBttn.Size = new System.Drawing.Size(127, 73);
+            blackjackBttn.Size = new System.Drawing.Size(159, 91);
             blackjackBttn.TabIndex = 2;
             blackjackBttn.Text = "Blackjack";
             blackjackBttn.UseVisualStyleBackColor = false;
@@ -88,10 +89,10 @@ namespace Games
             quitBttn.BackgroundImage = Properties.Resources.QuitButtonBlue;
             quitBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(70, 231, 209);
             quitBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            quitBttn.Location = new System.Drawing.Point(14, 492);
-            quitBttn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            quitBttn.Location = new System.Drawing.Point(18, 615);
+            quitBttn.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             quitBttn.Name = "quitBttn";
-            quitBttn.Size = new System.Drawing.Size(421, 73);
+            quitBttn.Size = new System.Drawing.Size(526, 91);
             quitBttn.TabIndex = 3;
             quitBttn.Text = "Quit";
             quitBttn.UseVisualStyleBackColor = false;
@@ -103,10 +104,10 @@ namespace Games
             mineBttn.BackgroundImage = Properties.Resources.GameButtonBlue;
             mineBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(70, 231, 209);
             mineBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            mineBttn.Location = new System.Drawing.Point(14, 131);
-            mineBttn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            mineBttn.Location = new System.Drawing.Point(18, 164);
+            mineBttn.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             mineBttn.Name = "mineBttn";
-            mineBttn.Size = new System.Drawing.Size(127, 73);
+            mineBttn.Size = new System.Drawing.Size(159, 91);
             mineBttn.TabIndex = 4;
             mineBttn.Text = "Minesweeper";
             mineBttn.UseVisualStyleBackColor = false;
@@ -118,21 +119,37 @@ namespace Games
             snakeBttn.BackgroundImage = Properties.Resources.GameButtonBlue;
             snakeBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(70, 231, 209);
             snakeBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            snakeBttn.Location = new System.Drawing.Point(160, 131);
-            snakeBttn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            snakeBttn.Location = new System.Drawing.Point(200, 164);
+            snakeBttn.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             snakeBttn.Name = "snakeBttn";
-            snakeBttn.Size = new System.Drawing.Size(127, 73);
+            snakeBttn.Size = new System.Drawing.Size(159, 91);
             snakeBttn.TabIndex = 5;
             snakeBttn.Text = "Snake";
             snakeBttn.UseVisualStyleBackColor = false;
             snakeBttn.Click += snakeBttn_Click;
             // 
+            // breakoutBttn
+            // 
+            breakoutBttn.BackColor = System.Drawing.Color.FromArgb(0, 197, 200);
+            breakoutBttn.BackgroundImage = Properties.Resources.GameButtonBlue;
+            breakoutBttn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(70, 231, 209);
+            breakoutBttn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            breakoutBttn.Location = new System.Drawing.Point(384, 164);
+            breakoutBttn.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            breakoutBttn.Name = "breakoutBttn";
+            breakoutBttn.Size = new System.Drawing.Size(159, 91);
+            breakoutBttn.TabIndex = 6;
+            breakoutBttn.Text = "Breakout";
+            breakoutBttn.UseVisualStyleBackColor = false;
+            breakoutBttn.Click += breakoutBttn_Click;
+            // 
             // Menu
             // 
-            AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             BackColor = System.Drawing.Color.FromArgb(6, 25, 29);
-            ClientSize = new System.Drawing.Size(448, 600);
+            ClientSize = new System.Drawing.Size(560, 750);
+            Controls.Add(breakoutBttn);
             Controls.Add(snakeBttn);
             Controls.Add(mineBttn);
             Controls.Add(quitBttn);
@@ -140,7 +157,7 @@ namespace Games
             Controls.Add(yahtzeeBttn);
             Controls.Add(memoryBttn);
             ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             Name = "Menu";
             Text = "Menu";
             ResumeLayout(false);
@@ -154,6 +171,7 @@ namespace Games
         private System.Windows.Forms.Button quitBttn;
         private System.Windows.Forms.Button mineBttn;
         private System.Windows.Forms.Button snakeBttn;
+        private System.Windows.Forms.Button breakoutBttn;
     }
 }
 

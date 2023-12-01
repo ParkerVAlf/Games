@@ -14,5 +14,10 @@ namespace Games
         {
             InitializeComponent();
         }
+
+        private void Snake_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
